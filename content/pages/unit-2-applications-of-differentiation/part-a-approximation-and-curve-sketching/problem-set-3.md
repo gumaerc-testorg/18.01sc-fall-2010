@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Approximation and Curve Sketching'
+parent_type: CourseSection
 parent_uid: 8c88ae04-1747-5c6d-ae97-e569853bfd9e
 title: Problem Set 3
 uid: b5cc1424-ab97-d1de-b03d-79439bbc51be

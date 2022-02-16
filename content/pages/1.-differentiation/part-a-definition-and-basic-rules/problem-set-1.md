@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
+parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: Problem Set 1
 uid: 93a0806f-20ed-6540-1e0e-178f23dae5d8

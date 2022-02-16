@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 1: Introduction to Derivatives'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 5: Main Formula'
 uid: 2b740591-a076-ad5c-b01b-45e3a70d694d
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/03e3668da1735d5ea1caa237ced42268_7K1sB05pE0A.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/03e3668da1735d5ea1caa237ced42268_7K1sB05pE0A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/7K1sB05pE0A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4adaa475a229f3dc0cfac17fffc08023_7K1sB05pE0A.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/4adaa475a229f3dc0cfac17fffc08023_7K1sB05pE0A.pdf
 video_metadata:
   youtube_id: 7K1sB05pE0A
 ---

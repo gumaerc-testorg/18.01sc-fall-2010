@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
+parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 4: Limits and Continuity'
 uid: 5878551f-3d21-546e-5d3a-bcc5b156e7d2

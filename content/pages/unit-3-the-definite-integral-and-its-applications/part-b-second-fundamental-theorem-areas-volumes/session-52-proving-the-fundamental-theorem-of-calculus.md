@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 52: Proving the Fundamental Theorem of Calculus'
 uid: 593f1575-26f1-927f-d6ea-05e37c3d4475

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 76: Integration by Parts'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Integral of Natural Log'
 uid: 7da07ac4-5c9c-8955-03c5-f24addcec7e1
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/cfa9481580c859729ee94f224cf32cbd_aeXp1zC6Hls.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/cfa9481580c859729ee94f224cf32cbd_aeXp1zC6Hls.vtt
   video_thumbnail_file: https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/777454d15d9a6d4eb8e83c94679eb19e_aeXp1zC6Hls.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/777454d15d9a6d4eb8e83c94679eb19e_aeXp1zC6Hls.pdf
 video_metadata:
   youtube_id: aeXp1zC6Hls
 ---

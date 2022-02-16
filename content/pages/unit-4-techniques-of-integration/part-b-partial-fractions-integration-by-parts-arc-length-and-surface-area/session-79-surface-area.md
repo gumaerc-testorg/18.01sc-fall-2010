@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
   Area'
+parent_type: CourseSection
 parent_uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214
 title: 'Session 79: Surface Area'
 uid: 17929c9e-c324-e987-cc81-f0233bae0eee

@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
   Area'
+parent_type: CourseSection
 parent_uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214
 title: 'Session 78: Computing the Length of a Curve'
 uid: 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd
@@ -30,7 +33,7 @@ Lecture Video and Notes
 Recitation Video
 ----------------
 
-### Arc Length of y=x3/2
+### Arc Length of y=x{{< sup "3/2" >}}
 
 {{< resource 4a85b6bc-cce1-e65d-c8d2-190a38cc7a69 >}}
 

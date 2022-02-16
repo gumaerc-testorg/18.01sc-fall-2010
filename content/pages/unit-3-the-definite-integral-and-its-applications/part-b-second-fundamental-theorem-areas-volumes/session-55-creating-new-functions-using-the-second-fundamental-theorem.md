@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 55: Creating New Functions Using the Second Fundamental Theorem'
 uid: 2c680617-5167-ca26-dcd9-f490d43c4c0a

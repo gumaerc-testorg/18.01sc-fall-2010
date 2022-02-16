@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 72: Trig Substitution'
 uid: 9894378c-e8db-9017-3778-fc7a13cad022

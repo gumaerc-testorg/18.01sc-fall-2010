@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 72: Trig Substitution'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Example of Trig Substitution'
 uid: bc3b478f-8ba1-a899-213d-d9ecf563005a
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8f7a780cd6b45c45af8797d83de95c28_CXKoCMVqM9s.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/8f7a780cd6b45c45af8797d83de95c28_CXKoCMVqM9s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0ad83b01f4c2b3d906d6504f1263b100_CXKoCMVqM9s.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/0ad83b01f4c2b3d906d6504f1263b100_CXKoCMVqM9s.pdf
 video_metadata:
   youtube_id: CXKoCMVqM9s
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 uid: 2a892d50-ed01-26e1-5d36-03ad2d218d9e

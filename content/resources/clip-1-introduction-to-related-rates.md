@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 31: Related Rates'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Introduction to Related Rates'
 uid: d48a5907-b540-e74f-6b50-a8a566fd267b
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/28da14947cd751b8a26498bc3ef84a45_YN7k_bXXggY.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/28da14947cd751b8a26498bc3ef84a45_YN7k_bXXggY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YN7k_bXXggY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/2c973f35c97397bf2da49b51c56e553e_YN7k_bXXggY.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/2c973f35c97397bf2da49b51c56e553e_YN7k_bXXggY.pdf
 video_metadata:
   youtube_id: YN7k_bXXggY
 ---

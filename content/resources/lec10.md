@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/623ca94e9f512428038619da1d7b12ed_lec10.jpg
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/623ca94e9f512428038619da1d7b12ed_lec10.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 24: Examples of Linear Approximation'
+parent_type: CourseSection
 resourcetype: Image
 title: lec10.jpg
 uid: 623ca94e-9f51-2428-0386-19da1d7b12ed

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'
+parent_type: CourseSection
 parent_uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 title: 'Session 100: Operations on Power Series'
 uid: 7aaff014-23b9-22b3-46af-dcd6c0328e83

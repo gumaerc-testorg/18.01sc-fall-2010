@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
   Area'
+parent_type: CourseSection
 parent_uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214
 title: 'Session 76: Integration by Parts'
 uid: b196b3d2-413f-a801-5d43-695883cc671a
@@ -44,14 +47,14 @@ Lecture Video and Notes
 Recitation Video
 ----------------
 
-### Integrating sinn(x) Using Reduction
+### Integrating sin{{< sup "n" >}}(x) Using Reduction
 
 {{< resource c709e771-03e0-47fb-439c-99e9b2bbcc87 >}}
 
 Worked Example
 --------------
 
-Integral of x4 cos(x)
+Integral of x{{< sup "4" >}} cos(x)
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex76prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex76sol)

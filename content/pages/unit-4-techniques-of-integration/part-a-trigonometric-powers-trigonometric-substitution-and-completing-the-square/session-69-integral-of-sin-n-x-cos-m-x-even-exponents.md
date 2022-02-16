@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
 uid: 60fd16b3-d72f-efca-7209-8904f15c0f02
@@ -26,7 +29,7 @@ Lecture Video and Notes
 Worked Example
 --------------
 
-Integral of sin4(x) cos2(x)
+Integral of sin{{< sup "4" >}}(x) cos{{< sup "2" >}}(x)
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex69prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex69sol)

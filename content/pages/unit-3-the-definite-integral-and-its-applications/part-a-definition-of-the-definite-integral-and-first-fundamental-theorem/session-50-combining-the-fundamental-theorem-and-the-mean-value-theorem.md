@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
+parent_type: CourseSection
 parent_uid: 0b76caa8-a528-37fd-ba43-c151842bb90a
 title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
 uid: 40dfd7f7-2524-55d1-041a-5ecfb183cd9f

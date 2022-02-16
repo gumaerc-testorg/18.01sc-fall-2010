@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 74: Integration by Partial Fractions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Introduction to the Cover-Up Method'
 uid: 8e3424bf-4654-8ef0-a9ca-8e00035a1ec8
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec29_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/244a6c683527537884c2e2fcfcc008b4_HgEqXhsIq_g.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/244a6c683527537884c2e2fcfcc008b4_HgEqXhsIq_g.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HgEqXhsIq_g/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/5e08a2c2e989ff378daa1066154abd9d_HgEqXhsIq_g.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/5e08a2c2e989ff378daa1066154abd9d_HgEqXhsIq_g.pdf
 video_metadata:
   youtube_id: HgEqXhsIq_g
 ---

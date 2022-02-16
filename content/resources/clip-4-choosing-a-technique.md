@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 66: Review for Exam 3'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Choosing a Technique'
 uid: 11cd96f0-e27b-eb4b-12ea-4a435648a542
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/93f18b880dfe5aae8834f1320f6db221_zUEuKrxgHws.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/93f18b880dfe5aae8834f1320f6db221_zUEuKrxgHws.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zUEuKrxgHws/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/2047871e478b43004346496d48848b00_zUEuKrxgHws.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/2047871e478b43004346496d48848b00_zUEuKrxgHws.pdf
 video_metadata:
   youtube_id: zUEuKrxgHws
 ---

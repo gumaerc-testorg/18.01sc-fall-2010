@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b5eda41505c0ac42d5527c12b6deb4f1_lec03.jpg
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/b5eda41505c0ac42d5527c12b6deb4f1_lec03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 6: Calculating Derivatives'
+parent_type: CourseSection
 resourcetype: Image
 title: lec03.jpg
 uid: b5eda415-05c0-ac42-d552-7c12b6deb4f1

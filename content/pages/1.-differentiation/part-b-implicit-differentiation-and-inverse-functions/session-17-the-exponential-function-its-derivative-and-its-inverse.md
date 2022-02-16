@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
 parent_uid: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
 title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
 uid: 625f9141-b9dc-5a93-65ac-ef497e19af09

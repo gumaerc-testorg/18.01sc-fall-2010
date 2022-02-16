@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
+parent_type: CourseSection
 parent_uid: cc849d58-0178-1635-e7d9-29c121e176fe
 title: 'Session 40: Separation of Variables'
 uid: 6e674d24-154a-95a2-d7b4-dac2db7d6427
@@ -31,7 +34,7 @@ Exponential Growth and Inhibited Growth
 Recitation Video
 ----------------
 
-### xy'=(x2+x)(y2+1)
+### xy'=(x{{< sup "2" >}}+x)(y{{< sup "2" >}}+1)
 
 {{< resource be498b0d-9f88-09c4-b6e9-3a17ac0e9038 >}}
 

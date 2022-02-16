@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
 file_type: application/java-archive
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 2: Examples of Derivatives'
+parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
 uid: fb921d37-9bc2-ce77-8fdf-b143ad0c0dec

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Differentiation
+parent_type: CourseSection
 parent_uid: ff2c27ef-f0de-3981-0c3e-51a37548e568
 title: 'Part A: Definition and Basic Rules'
 uid: 962d1716-11a1-01d4-9f86-5818d41217eb

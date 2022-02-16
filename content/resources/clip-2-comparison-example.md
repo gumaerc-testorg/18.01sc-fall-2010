@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 92: Integral Comparison'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Comparison Example'
 uid: 4c071372-045b-9185-ec59-ef1e96698854
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0b01074fde2c5f7badc7c55d156b1c81_KhwQKE_tld0.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/0b01074fde2c5f7badc7c55d156b1c81_KhwQKE_tld0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KhwQKE_tld0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/fa62423d40c23ee8c2b3624dd3a70f88_KhwQKE_tld0.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/fa62423d40c23ee8c2b3624dd3a70f88_KhwQKE_tld0.pdf
 video_metadata:
   youtube_id: KhwQKE_tld0
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
 parent_uid: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
 title: Problem Set 2
 uid: 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1

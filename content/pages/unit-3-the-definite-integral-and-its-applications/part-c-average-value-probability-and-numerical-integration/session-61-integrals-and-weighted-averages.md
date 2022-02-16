@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Average Value, Probability and Numerical Integration'
+parent_type: CourseSection
 parent_uid: e1f8a1b7-89b8-3e57-da0e-01f4ada7283a
 title: 'Session 61: Integrals and Weighted Averages'
 uid: d2dac4c5-7839-73f0-083c-dd3859d4cda5

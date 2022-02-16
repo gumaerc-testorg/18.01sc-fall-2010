@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 21: Review for Exam 1'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 5: d/dx (x10 + 8x)6'
 uid: ebd6b435-5f82-0415-829f-6e1b89b28353
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0a29e6b9c3f4579c983a4da0caff9fcf_eHJuAByQf5A.vtt
-  video_thumbnail_file: null
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/59173f95ff8f866fad2a0f9e55a3ff7d_eHJuAByQf5A.pdf
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/0a29e6b9c3f4579c983a4da0caff9fcf_eHJuAByQf5A.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/eHJuAByQf5A/default.jpg
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/59173f95ff8f866fad2a0f9e55a3ff7d_eHJuAByQf5A.pdf
 video_metadata:
   youtube_id: eHJuAByQf5A
 ---

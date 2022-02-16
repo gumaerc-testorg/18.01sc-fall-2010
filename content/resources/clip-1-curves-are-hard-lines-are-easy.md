@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 24: Examples of Linear Approximation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Curves are Hard, Lines are Easy'
 uid: ee9e8d5d-ba30-f738-e2da-376233d75fc6
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec09_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7267588f2bfb5a179ebb5ecd80177758_BSAA0akmPEU.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/7267588f2bfb5a179ebb5ecd80177758_BSAA0akmPEU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/BSAA0akmPEU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/054017eccb1e607f3f2bd710ef12ff59_BSAA0akmPEU.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/054017eccb1e607f3f2bd710ef12ff59_BSAA0akmPEU.pdf
 video_metadata:
   youtube_id: BSAA0akmPEU
 ---

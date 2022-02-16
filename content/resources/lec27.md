@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/6fca20f38312e8b7f011928f40f96265_lec27.jpg
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/6fca20f38312e8b7f011928f40f96265_lec27.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
+parent_type: CourseSection
 resourcetype: Image
 title: lec27.jpg
 uid: 6fca20f3-8312-e8b7-f011-928f40f96265

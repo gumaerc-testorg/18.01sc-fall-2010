@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains informations related to indefinite integrals and
   singularities.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/69cbe9b226774e56effadc31c8195b97_MIT18_01SCF10_Ses93d.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/69cbe9b226774e56effadc31c8195b97_MIT18_01SCF10_Ses93d.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 93: Indefinite Integrals and Singularities'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses93d.pdf
 uid: 69cbe9b2-2677-4e56-effa-dc31c8195b97

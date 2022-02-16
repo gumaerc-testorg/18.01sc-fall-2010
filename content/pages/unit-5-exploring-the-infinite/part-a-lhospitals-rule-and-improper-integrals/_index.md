@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 5. Exploring the Infinite
+parent_type: CourseSection
 parent_uid: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
 title: 'Part A: L''Hospital''s Rule and Improper Integrals'
 uid: 70119623-65c7-a7e3-1179-a33dc8e95275

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
+parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 12: Higher Derivatives'
 uid: f0a4bb74-6fd7-34de-3811-8b0ff7607e0b

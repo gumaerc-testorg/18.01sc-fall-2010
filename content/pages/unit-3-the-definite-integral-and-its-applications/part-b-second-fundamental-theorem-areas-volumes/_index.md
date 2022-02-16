@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications
+parent_type: CourseSection
 parent_uid: 4c201b00-a047-0284-ebd6-c546e0cc59ab
 title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006

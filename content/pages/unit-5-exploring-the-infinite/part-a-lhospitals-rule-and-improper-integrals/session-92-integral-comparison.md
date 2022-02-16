@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
+parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 92: Integral Comparison'
 uid: ed231e9c-5635-6bb1-e18c-555d00f08398
@@ -40,7 +43,7 @@ Lecture Video and Notes
 Recitation Video
 ----------------
 
-### Integral of xn e(-x)
+### Integral of x{{< sup "n" >}} e{{< sup "(-x)" >}}
 
 {{< resource dfeaa5a7-afe3-d95f-ebeb-4615cd6efe59 >}}
 

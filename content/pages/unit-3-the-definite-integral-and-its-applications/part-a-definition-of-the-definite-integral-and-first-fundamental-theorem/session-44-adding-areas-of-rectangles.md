@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
+parent_type: CourseSection
 parent_uid: 0b76caa8-a528-37fd-ba43-c151842bb90a
 title: 'Session 44: Adding Areas of Rectangles'
 uid: 9f42b86c-bcb7-812f-84f2-846c3d7ce9f5

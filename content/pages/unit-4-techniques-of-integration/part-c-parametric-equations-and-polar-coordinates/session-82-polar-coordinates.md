@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'
+parent_type: CourseSection
 parent_uid: f19e1f54-f348-a68a-7308-89ee63f5b9d6
 title: 'Session 82: Polar Coordinates'
 uid: 6b43151f-2ea4-f32c-ac0a-7709358919db

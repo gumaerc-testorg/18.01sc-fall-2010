@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Average Value, Probability and Numerical Integration'
+parent_type: CourseSection
 parent_uid: e1f8a1b7-89b8-3e57-da0e-01f4ada7283a
 title: 'Session 64: Numerical Integration, Continued'
 uid: 602ce034-a62f-6b4a-9588-4c519f8f4412

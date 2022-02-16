@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 21: Review for Exam 1'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: d/dx (ln(sec x))'
 uid: db93f554-47f2-4210-4417-5fd65f1ff8f9
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d021e3e117bf55da81a0df5cb054a130_eHJuAByQf5A.vtt
-  video_thumbnail_file: null
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/963161a5a5f22a33062395d67bb26a03_eHJuAByQf5A.pdf
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/d021e3e117bf55da81a0df5cb054a130_eHJuAByQf5A.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/eHJuAByQf5A/default.jpg
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/963161a5a5f22a33062395d67bb26a03_eHJuAByQf5A.pdf
 video_metadata:
   youtube_id: eHJuAByQf5A
 ---

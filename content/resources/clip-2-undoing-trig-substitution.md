@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 72: Trig Substitution'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Undoing Trig Substitution'
 uid: 737f1316-1985-dcee-df0a-8144a119f3b6
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/732670595e675b109e85ac41dd93c6fb_CXKoCMVqM9s.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/732670595e675b109e85ac41dd93c6fb_CXKoCMVqM9s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/064f1ce06737810f6f037b22ff153dca_CXKoCMVqM9s.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/064f1ce06737810f6f037b22ff153dca_CXKoCMVqM9s.pdf
 video_metadata:
   youtube_id: CXKoCMVqM9s
 ---

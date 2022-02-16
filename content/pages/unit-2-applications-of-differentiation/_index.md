@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 2. Applications of Differentiation
 uid: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
 ---

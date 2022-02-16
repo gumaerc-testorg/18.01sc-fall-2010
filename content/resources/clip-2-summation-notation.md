@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 44: Adding Areas of Rectangles'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Summation Notation'
 uid: f90ffc17-f89d-f794-2dfd-6457b9dbed77
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/2c77db784fcd52998aef4349caa1fdc4_hjZhPczMkL4.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/2c77db784fcd52998aef4349caa1fdc4_hjZhPczMkL4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/hjZhPczMkL4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/9ddce0f1a169687348c02b0f870fbad7_hjZhPczMkL4.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/9ddce0f1a169687348c02b0f870fbad7_hjZhPczMkL4.pdf
 video_metadata:
   youtube_id: hjZhPczMkL4
 ---

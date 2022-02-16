@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications
+parent_type: CourseSection
 parent_uid: 4c201b00-a047-0284-ebd6-c546e0cc59ab
 title: 'Part C: Average Value, Probability and Numerical Integration'
 uid: e1f8a1b7-89b8-3e57-da0e-01f4ada7283a

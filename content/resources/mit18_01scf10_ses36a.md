@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information about differentials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/162fa987acc7efd7ca8b3e96c6ab5177_MIT18_01SCF10_Ses36a.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/162fa987acc7efd7ca8b3e96c6ab5177_MIT18_01SCF10_Ses36a.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 36: Differentials'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses36a.pdf
 uid: 162fa987-acc7-efd7-ca8b-3e96c6ab5177

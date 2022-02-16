@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'
+parent_type: CourseSection
 parent_uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 title: 'Session 101: Conclusion'
 uid: c22c3207-88f0-9de5-fe78-a6e305cad2b4
