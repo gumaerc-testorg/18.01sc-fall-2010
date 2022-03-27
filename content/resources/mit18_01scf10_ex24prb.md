@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection
+parent_uid: 332503c0-9be8-a2d7-ca74-9e218630b6f3
 resourcetype: Document
 title: MIT18_01SCF10_ex24prb.pdf
 uid: 6e8aadf9-ec0a-5e4e-299f-f94932d72f40

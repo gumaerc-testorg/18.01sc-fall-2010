@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 43: Definite Integrals'
 parent_type: CourseSection
+parent_uid: 5170b79f-5b62-ed3a-4d96-b27fc3edc468
 resourcetype: Document
 title: MIT18_01SCF10_ex43sol.pdf
 uid: e0806c4c-e8d4-9089-51ea-f15d0f7832cf

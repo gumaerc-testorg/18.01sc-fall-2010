@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 53: New Functions From Old'
 parent_type: CourseSection
+parent_uid: 28016eb0-0515-039e-bda8-eb0f6b6ddb58
 resourcetype: Document
 title: MIT18_01SCF10_Ses53b.pdf
 uid: c8cdad3e-6b8b-128d-19f5-4b884372a8e2

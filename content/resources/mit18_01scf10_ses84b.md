@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 84: Polar Coordinates and Graphing'
 parent_type: CourseSection
+parent_uid: cfd25e33-da1a-2e54-749f-33591f59a4ba
 resourcetype: Document
 title: MIT18_01SCF10_Ses84b.pdf
 uid: af708d30-978d-f082-9e68-3d5ad3173cd6

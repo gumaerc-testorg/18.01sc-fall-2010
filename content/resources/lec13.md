@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 31: Related Rates'
 parent_type: CourseSection
+parent_uid: 740c26e9-a52f-298e-76ec-9fb9679d1f19
 resourcetype: Image
 title: lec13.jpg
 uid: 4d1e808a-9591-cb46-347e-9cce09223066

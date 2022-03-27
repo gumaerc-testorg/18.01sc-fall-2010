@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 96: Stacking Blocks'
 parent_type: CourseSection
+parent_uid: 67af8950-4ffe-36b5-70ec-6996515b988c
 resourcetype: Image
 title: lec38.jpg
 uid: fff52eb0-b649-6afa-e242-470b6b753f6a

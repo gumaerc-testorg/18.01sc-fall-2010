@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 14: Examples of Implicit Differentiation'
 parent_type: CourseSection
+parent_uid: 331d135e-b824-4bc3-5069-e7f2d86beb59
 resourcetype: Document
 title: MIT18_01SCF10_Ses14c.pdf
 uid: 5c1f8c77-b588-b193-087f-1a59dab495d8

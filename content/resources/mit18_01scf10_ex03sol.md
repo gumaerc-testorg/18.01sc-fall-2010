@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 3: Derivative as Rate of Change'
 parent_type: CourseSection
+parent_uid: 4eff05d7-dd9b-d856-611c-fe4f4cddcb98
 resourcetype: Document
 title: MIT18_01SCF10_ex03sol.pdf
 uid: bc7b1741-3d57-bcd7-da90-592fbba2bdf7

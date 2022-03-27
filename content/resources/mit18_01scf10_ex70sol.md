@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 70: Preview of Trig Substitution and Polar Coordinates'
 parent_type: CourseSection
+parent_uid: a38f4a8d-d90b-153b-d08f-5ba8ba270970
 resourcetype: Document
 title: MIT18_01SCF10_ex70sol.pdf
 uid: b9d6f62d-80c9-783b-30aa-6c9379a5e771

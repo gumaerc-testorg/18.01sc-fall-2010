@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
 parent_type: CourseSection
+parent_uid: 40dfd7f7-2524-55d1-041a-5ecfb183cd9f
 resourcetype: Document
 title: MIT18_01SCF10_ex50sol.pdf
 uid: d57f59c5-0b7f-e8ea-e95e-25e0f64a44d1

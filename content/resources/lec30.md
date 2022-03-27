@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 75: Advanced Partial Fractions'
 parent_type: CourseSection
+parent_uid: b2d99644-53e8-9357-525c-798ec9a77daf
 resourcetype: Image
 title: lec30.jpg
 uid: 9061767c-c579-3ea1-8803-b05eb1475936

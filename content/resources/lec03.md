@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 6: Calculating Derivatives'
 parent_type: CourseSection
+parent_uid: a5033660-4c88-798f-9066-2c641ab35802
 resourcetype: Image
 title: lec03.jpg
 uid: b5eda415-05c0-ac42-d552-7c12b6deb4f1

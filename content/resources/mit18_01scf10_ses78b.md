@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 78: Computing the Length of a Curve'
 parent_type: CourseSection
+parent_uid: 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd
 resourcetype: Document
 title: MIT18_01SCF10_Ses78b.pdf
 uid: a6c95497-14d3-6c83-63bd-7cace8382579

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 64: Numerical Integration, Continued'
 parent_type: CourseSection
+parent_uid: 602ce034-a62f-6b4a-9588-4c519f8f4412
 resourcetype: Image
 title: lec25.jpg
 uid: 6ec6f572-68c0-140d-1479-0876ca96fcf2

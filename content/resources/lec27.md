@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
 parent_type: CourseSection
+parent_uid: f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075
 resourcetype: Image
 title: lec27.jpg
 uid: 6fca20f3-8312-e8b7-f011-928f40f96265

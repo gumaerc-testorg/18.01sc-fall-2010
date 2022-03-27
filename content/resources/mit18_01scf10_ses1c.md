@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 1: Introduction to Derivatives'
 parent_type: CourseSection
+parent_uid: c25a5592-cbb5-8253-9dae-a82e3aeeda33
 resourcetype: Document
 title: MIT18_01SCF10_Ses1c.pdf
 uid: c1d53189-e48d-c5e3-63a3-61930a1327e1

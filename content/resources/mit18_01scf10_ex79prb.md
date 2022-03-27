@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 79: Surface Area'
 parent_type: CourseSection
+parent_uid: 17929c9e-c324-e987-cc81-f0233bae0eee
 resourcetype: Document
 title: MIT18_01SCF10_ex79prb.pdf
 uid: 595db913-9d7b-8372-fa33-916b4c02bbce

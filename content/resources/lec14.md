@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 33: Newton''s Method'
 parent_type: CourseSection
+parent_uid: 08bcebd8-87ee-223a-f847-41f0fef4d632
 resourcetype: Image
 title: lec14.jpg
 uid: d163bb93-a6e2-ede2-f0cf-edeb766ba7d2

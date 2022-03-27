@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 64: Numerical Integration, Continued'
 parent_type: CourseSection
+parent_uid: 602ce034-a62f-6b4a-9588-4c519f8f4412
 resourcetype: Document
 title: MIT18_01SCF10_Ses64c.pdf
 uid: d8e6f699-7d2b-7f4a-09f8-23dfcad065cc

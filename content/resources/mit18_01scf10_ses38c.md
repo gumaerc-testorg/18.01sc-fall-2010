@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 38: Integration by Substitution'
 parent_type: CourseSection
+parent_uid: def23901-ebba-d92e-a90a-23199cbba444
 resourcetype: Document
 title: MIT18_01SCF10_Ses38c.pdf
 uid: 308cc1bb-ff50-912c-deb1-f290f3754459

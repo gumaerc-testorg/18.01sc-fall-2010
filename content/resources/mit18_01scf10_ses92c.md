@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 92: Integral Comparison'
 parent_type: CourseSection
+parent_uid: ed231e9c-5635-6bb1-e18c-555d00f08398
 resourcetype: Document
 title: MIT18_01SCF10_Ses92c.pdf
 uid: 5b2a4c9e-8a96-6c8a-ab9f-7e8a347a5401

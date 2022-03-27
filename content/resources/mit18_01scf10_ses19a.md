@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 19: An Interesting Limit Involving e'
 parent_type: CourseSection
+parent_uid: 60442492-7fbe-5ea4-76fd-72662493105b
 resourcetype: Document
 title: MIT18_01SCF10_Ses19a.pdf
 uid: 42da488e-6055-4db5-4095-585c536d5da9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 11: Chain Rule'
 parent_type: CourseSection
+parent_uid: 68feb14b-a590-b3b0-88c9-89717ae12492
 resourcetype: Document
 title: MIT18_01SCF10_ex11prb.pdf
 uid: cc1f0327-0101-97b9-b87e-66b3408b27ec

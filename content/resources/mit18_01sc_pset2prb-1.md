@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
+parent_uid: 25ab3164-7d79-08fb-9293-7192dc7da1d0
 resourcetype: Document
 title: MIT18_01SC_pset2prb.pdf
 uid: 9ed0d442-d259-90a9-8c1c-770ad331a17a

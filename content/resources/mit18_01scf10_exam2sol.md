@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 42: Materials for Exam 2'
 parent_type: CourseSection
+parent_uid: 786c8726-3a74-59b9-e1df-bbb39f339887
 resourcetype: Document
 title: MIT18_01SCF10_exam2sol.pdf
 uid: 8bc1745c-c348-551c-b9b3-0fb6cc7f9ecf

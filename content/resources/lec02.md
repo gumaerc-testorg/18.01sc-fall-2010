@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 3: Derivative as Rate of Change'
 parent_type: CourseSection
+parent_uid: 4eff05d7-dd9b-d856-611c-fe4f4cddcb98
 resourcetype: Image
 title: lec02.jpg
 uid: 009c7281-e120-705c-a85b-76903cd67726

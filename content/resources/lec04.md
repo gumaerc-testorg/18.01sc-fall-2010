@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 9: Product Rule'
 parent_type: CourseSection
+parent_uid: d35aadf5-c6d2-e154-3aee-74e2dfdda970
 resourcetype: Image
 title: lec04.jpg
 uid: 29f3d9af-7b30-073a-4786-56282d0a2d30

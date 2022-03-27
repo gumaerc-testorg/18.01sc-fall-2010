@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 100: Operations on Power Series'
 parent_type: CourseSection
+parent_uid: 7aaff014-23b9-22b3-46af-dcd6c0328e83
 resourcetype: Document
 title: MIT18_01SCF10_ex100sol.pdf
 uid: e5f42993-78ee-8748-4d49-640281ca1828

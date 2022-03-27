@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 80: Parametric Curves'
 parent_type: CourseSection
+parent_uid: b58d1c03-b5e7-2b4f-c2ef-553cda5d94b7
 resourcetype: Image
 title: lec32.jpg
 uid: 21aa699e-04a7-c957-6bb2-2daaf74dd9f1

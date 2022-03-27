@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 parent_type: CourseSection
+parent_uid: 435c91b0-8acc-9a35-fc07-48ce22a11bfe
 resourcetype: Document
 title: MIT18_01SCF10_ex54sol.pdf
 uid: 65cd6b4b-4cd6-c5a4-9383-ca3254fe8aed

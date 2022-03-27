@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "A Solid With Finite Volume and In\uFB01nite Cross Section"
 uid: 16c3a93c-75ed-2b8f-0a7c-0ec1283c142b
 video_files:

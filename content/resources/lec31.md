@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 78: Computing the Length of a Curve'
 parent_type: CourseSection
+parent_uid: 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd
 resourcetype: Image
 title: lec31.jpg
 uid: ad876c12-0cb6-79ff-4431-3947607b9c0c
