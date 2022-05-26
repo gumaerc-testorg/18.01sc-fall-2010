@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 91: Improper Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 3: Integral of e-x2'
 uid: 84fb0684-cb2d-1a77-d22d-2388f0f6c17a
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f988dc8824315eeeab7170b9cf6a566a_KhwQKE_tld0.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/f988dc8824315eeeab7170b9cf6a566a_KhwQKE_tld0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KhwQKE_tld0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/586320a4e461fb095f3896ea90acc308_KhwQKE_tld0.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/586320a4e461fb095f3896ea90acc308_KhwQKE_tld0.pdf
 video_metadata:
   youtube_id: KhwQKE_tld0
 ---

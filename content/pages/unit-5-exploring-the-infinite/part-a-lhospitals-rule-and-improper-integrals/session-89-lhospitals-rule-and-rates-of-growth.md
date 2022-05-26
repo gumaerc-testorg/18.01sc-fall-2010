@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
+parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
 uid: 2f33db82-7cc3-3056-ef71-0f503d79cc8f

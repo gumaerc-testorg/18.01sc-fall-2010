@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
+parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 1: Introduction to Derivatives'
 uid: c25a5592-cbb5-8253-9dae-a82e3aeeda33

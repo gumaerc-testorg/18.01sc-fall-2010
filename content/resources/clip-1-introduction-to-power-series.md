@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 97: Power Series'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Introduction to Power Series'
 uid: 8abae4c8-256b-7cd5-11dc-2c87f9c36087
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/63401ebc8f705056bdea043c204778f7_wOHrNt9ScYs.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/63401ebc8f705056bdea043c204778f7_wOHrNt9ScYs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/acaac0d4c1d4d1e49ab04524c6d5d200_wOHrNt9ScYs.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/acaac0d4c1d4d1e49ab04524c6d5d200_wOHrNt9ScYs.pdf
 video_metadata:
   youtube_id: wOHrNt9ScYs
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 70: Preview of Trig Substitution and Polar Coordinates'
 uid: a38f4a8d-d90b-153b-d08f-5ba8ba270970

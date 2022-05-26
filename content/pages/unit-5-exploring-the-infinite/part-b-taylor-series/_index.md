@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 5. Exploring the Infinite
+parent_type: CourseSection
 parent_uid: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
 title: 'Part B: Taylor Series'
 uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0

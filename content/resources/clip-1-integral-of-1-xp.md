@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 91: Improper Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Integral of 1/(xp)'
 uid: c9635997-f882-cad9-8020-47fb4c3d78e5
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c4f507f6b94553008690969254936432_KhwQKE_tld0.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/c4f507f6b94553008690969254936432_KhwQKE_tld0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KhwQKE_tld0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7f654b4f1365429dba624e552afbf265_KhwQKE_tld0.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/7f654b4f1365429dba624e552afbf265_KhwQKE_tld0.pdf
 video_metadata:
   youtube_id: KhwQKE_tld0
 ---

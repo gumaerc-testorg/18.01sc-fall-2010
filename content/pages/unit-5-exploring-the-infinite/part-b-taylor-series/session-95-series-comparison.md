@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'
+parent_type: CourseSection
 parent_uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 title: 'Session 95: Series Comparison'
 uid: e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542

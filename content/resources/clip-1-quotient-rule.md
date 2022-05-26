@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 10: Quotient Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Quotient Rule'
 uid: 151b73a1-59d0-6ba9-999a-fb42037db4a9
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4b9bcfdccc485eb9906bac2735e7c8f5_4sTKcvYMNxk.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/4b9bcfdccc485eb9906bac2735e7c8f5_4sTKcvYMNxk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/013a7c85e288e42d7d22ee519948ea00_4sTKcvYMNxk.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/013a7c85e288e42d7d22ee519948ea00_4sTKcvYMNxk.pdf
 video_metadata:
   youtube_id: 4sTKcvYMNxk
 ---

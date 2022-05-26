@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 3
+parent_type: CourseSection
 parent_uid: d008dd74-a84e-2b23-0239-ba6f9604c6fa
 title: 'Session 66: Review for Exam 3'
 uid: 28c8d6e8-c2c0-dfa6-2a9b-458789417a05

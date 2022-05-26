@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
+parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 91: Improper Integrals'
 uid: 3fa26881-9900-b3ee-4bc8-d590323f17dc
@@ -29,7 +32,7 @@ Lecture Video and Notes
 Worked Example
 --------------
 
-Integrating 1/(5x + 2)2 from 1 to Inﬁnity
+Integrating 1/(5x + 2){{< sup "2" >}} from 1 to Inﬁnity
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex91prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex91sol)

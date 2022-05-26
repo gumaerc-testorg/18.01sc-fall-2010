@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Session 102: Materials for Final Exam'
 uid: fe839db0-25a8-3d50-85ec-ae3d78b54553
 ---

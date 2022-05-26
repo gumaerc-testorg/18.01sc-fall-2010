@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 62: Integrals and Probability'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 2: Errata: Heat is Energy'
 uid: 8f339de6-8e74-01e1-cfc5-16177757a96d
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/444ae77388df5cef90f60f25c12cf896_jBkXbAgMj6s.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/444ae77388df5cef90f60f25c12cf896_jBkXbAgMj6s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/88daa6f6c267376b2c57ddf18a1396e8_jBkXbAgMj6s.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/88daa6f6c267376b2c57ddf18a1396e8_jBkXbAgMj6s.pdf
 video_metadata:
   youtube_id: jBkXbAgMj6s
 ---

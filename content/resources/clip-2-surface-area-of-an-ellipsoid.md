@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 81: Examples Using Parametrized Curves'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 2: Surface Area of an Ellipsoid'
 uid: 5fc0efb0-2b63-e4b2-cd4b-c9fbdd8919de
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/11bcfc5ea6ac53d3b47c3da5ec5e73f1_XRkgBWbWvg4.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/11bcfc5ea6ac53d3b47c3da5ec5e73f1_XRkgBWbWvg4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0a932df2ad412e34a844c0cfb1e2438e_XRkgBWbWvg4.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/0a932df2ad412e34a844c0cfb1e2438e_XRkgBWbWvg4.pdf
 video_metadata:
   youtube_id: XRkgBWbWvg4
 ---

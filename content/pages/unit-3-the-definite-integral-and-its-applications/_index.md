@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 3. The Definite Integral and its Applications
 uid: 4c201b00-a047-0284-ebd6-c546e0cc59ab
 ---

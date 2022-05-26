@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
   Area'
+parent_type: CourseSection
 parent_uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214
 title: 'Session 75: Advanced Partial Fractions'
 uid: b2d99644-53e8-9357-525c-798ec9a77daf
@@ -26,7 +29,7 @@ Lecture Video and Notes
 Worked Example
 --------------
 
-Integral of (x-11)/(x2+9)(x+2)
+Integral of (x-11)/(x{{< sup "2" >}}+9)(x+2)
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex75aprb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex75asol)
@@ -41,7 +44,7 @@ Lecture Video and Notes
 Worked Example
 --------------
 
-Integral of x3/x2\-1
+Integral of x{{< sup "3" >}}/x{{< sup "2" >}}\-1
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex75bprb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex75bsol)

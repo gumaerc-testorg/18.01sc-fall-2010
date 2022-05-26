@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 3: Graphing a Rational Function'
 uid: 886021db-8e2f-9eee-60ad-ba70195ba44f
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d25517adc33a55068927ab75a3461d0b_twzGBqPeW0M.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/d25517adc33a55068927ab75a3461d0b_twzGBqPeW0M.vtt
   video_thumbnail_file: https://img.youtube.com/vi/twzGBqPeW0M/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ce364c79c9795b9dec4c923c6621f433_twzGBqPeW0M.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/ce364c79c9795b9dec4c923c6621f433_twzGBqPeW0M.pdf
 video_metadata:
   youtube_id: twzGBqPeW0M
 ---

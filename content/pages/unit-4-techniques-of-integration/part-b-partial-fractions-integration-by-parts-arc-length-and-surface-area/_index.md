@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4. Techniques of Integration
+parent_type: CourseSection
 parent_uid: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
 title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface Area'
 uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214

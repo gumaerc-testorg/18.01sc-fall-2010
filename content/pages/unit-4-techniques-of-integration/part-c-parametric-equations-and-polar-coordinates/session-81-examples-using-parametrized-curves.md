@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'
+parent_type: CourseSection
 parent_uid: f19e1f54-f348-a68a-7308-89ee63f5b9d6
 title: 'Session 81: Examples Using Parametrized Curves'
 uid: 7aa6522b-6e8e-0d13-937e-54ed6e52710d

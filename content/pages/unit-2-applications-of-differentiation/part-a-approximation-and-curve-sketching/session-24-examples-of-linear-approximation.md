@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Approximation and Curve Sketching'
+parent_type: CourseSection
 parent_uid: 8c88ae04-1747-5c6d-ae97-e569853bfd9e
 title: 'Session 24: Examples of Linear Approximation'
 uid: 332503c0-9be8-a2d7-ca74-9e218630b6f3

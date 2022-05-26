@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
+parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 88: Examples of L''Hospital''s Rule'
 uid: 7a8cdab5-6a9e-46b3-5225-a2bc22295a0f
@@ -29,7 +32,7 @@ Lecture Video and Notes
 Worked Example
 --------------
 
-Limits at Inﬁnity for ex/x and x/ex
+Limits at Inﬁnity for e{{< sup "x" >}}/x and x/e{{< sup "x" >}}
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex88prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex88sol)

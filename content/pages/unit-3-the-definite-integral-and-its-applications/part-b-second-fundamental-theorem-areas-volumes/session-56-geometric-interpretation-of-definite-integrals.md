@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 56: Geometric Interpretation of Definite Integrals'
 uid: ab02e80b-2f16-511d-8148-1be8277cb20d
@@ -29,7 +32,7 @@ Recitation Video
 
 {{< resource a1c62438-1dc4-219f-4fae-f1268ac77582 >}}
 
-### Area Between y=x3 and y=3x-2
+### Area Between y=x{{< sup "3" >}} and y=3x-2
 
 {{< resource ecedaefa-d64f-4369-b70d-1217b88cc0a9 >}}
 

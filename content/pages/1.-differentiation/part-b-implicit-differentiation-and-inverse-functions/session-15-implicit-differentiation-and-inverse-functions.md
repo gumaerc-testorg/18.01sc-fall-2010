@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part B: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
 parent_uid: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
 title: 'Session 15: Implicit Differentiation and Inverse Functions'
 uid: 5668bfaf-4a48-49cd-c9fb-5962b4a18003

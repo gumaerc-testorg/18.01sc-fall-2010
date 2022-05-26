@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 1. Differentiation
 uid: ff2c27ef-f0de-3981-0c3e-51a37548e568
 ---
@@ -32,7 +34,7 @@ Given a value – the price of gas, the pressure in a tank, or your distance fro
 *   [Session 13: Implicit Differentiation]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation)
 *   [Session 14: Examples of Implicit Differentiation]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation)
 *   [Session 15: Implicit Differentiation and Inverse Functions]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions)
-*   [Session 16: The Derivative of ax]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x)
+*   [Session 16: The Derivative of a{{< sup "x" >}}]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x)
 *   [Session 17: The Exponential Function, its Derivative, and its Inverse]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse)
 *   [Session 18: Derivatives of other Exponential Functions]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions)
 *   [Session 19: An Interesting Limit Involving _e_]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e)

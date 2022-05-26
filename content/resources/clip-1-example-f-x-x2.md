@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 44: Adding Areas of Rectangles'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Example: f(x)= x2'
 uid: 1665590e-2f91-c22d-8eca-5c45365999d7
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/69d27610ca3d5e75998e5c8c22c50610_hjZhPczMkL4.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/69d27610ca3d5e75998e5c8c22c50610_hjZhPczMkL4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/hjZhPczMkL4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/282359867b78e8bff22463cfb8a6b875_hjZhPczMkL4.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/282359867b78e8bff22463cfb8a6b875_hjZhPczMkL4.pdf
 video_metadata:
   youtube_id: hjZhPczMkL4
 ---

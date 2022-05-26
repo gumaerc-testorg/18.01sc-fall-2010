@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 5: Discontinuity'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Jump Discontinuities'
 uid: 5d175176-fc2d-c24e-8666-874d5e3173ac
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d32a6b15550558b09a20cb00bd483949_ryLdyDrBfvI.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/d32a6b15550558b09a20cb00bd483949_ryLdyDrBfvI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8adcf271c22d20b5d5bdf536ff4d0731_ryLdyDrBfvI.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/8adcf271c22d20b5d5bdf536ff4d0731_ryLdyDrBfvI.pdf
 video_metadata:
   youtube_id: ryLdyDrBfvI
 ---

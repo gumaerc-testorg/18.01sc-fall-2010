@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
 uid: f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075
@@ -41,7 +44,7 @@ Recitation Video
 Worked Example
 --------------
 
-Integral of cos3(2x)
+Integral of cos{{< sup "3" >}}(2x)
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex68prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex68sol)

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b257b2e197cf8728e8ec6f18bec0d49f_5q_3FDOkVRQ.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/b257b2e197cf8728e8ec6f18bec0d49f_5q_3FDOkVRQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: b257b2e1-97cf-8728-e8ec-6f18bec0d49f

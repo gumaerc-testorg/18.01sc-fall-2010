@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications
+parent_type: CourseSection
 parent_uid: 4c201b00-a047-0284-ebd6-c546e0cc59ab
 title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
 uid: 0b76caa8-a528-37fd-ba43-c151842bb90a

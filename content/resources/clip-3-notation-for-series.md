@@ -1,15 +1,24 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 94: Infinite Series'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 3: Notation for Series'
 uid: 9f12422b-43a4-4958-7071-49a79308cc3d
 video_files:
   archive_url: https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/dd503fb7d75a5ca2891956463cec586b_MK_0QHbUnIA.vtt
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/dd503fb7d75a5ca2891956463cec586b_MK_0QHbUnIA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/608aca936cfd092da9f109e7e323a068_MK_0QHbUnIA.pdf
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/608aca936cfd092da9f109e7e323a068_MK_0QHbUnIA.pdf
 video_metadata:
   youtube_id: MK_0QHbUnIA
 ---
