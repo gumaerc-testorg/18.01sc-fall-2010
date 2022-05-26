@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1219'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 58: Volume of a Sphere, Revolving About x-axis'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '594'
 title: 'Clip 1: Volume of a Sphere'
 uid: 6126c8ea-5afa-a806-f5cd-1f11bf0653e3
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: ShGBRUx2ub8
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses58a)
+» {{% resource_link c25d26b0-4ffe-46ac-331b-9c63c760048b "Accompanying Notes (PDF)" %}}
 
-From Lecture 22 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 22 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

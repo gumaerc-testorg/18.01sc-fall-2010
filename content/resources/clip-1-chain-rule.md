@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1788'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 11: Chain Rule'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1335'
 title: 'Clip 1: Chain Rule'
 uid: 125c0920-928e-0fe3-7331-acf5e6c074d3
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4sTKcvYMNxk
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses11a)
+» {{% resource_link 66ba9836-b3c9-e991-38bc-8d766d913bc5 "Accompanying Notes (PDF)" %}}
 
-From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

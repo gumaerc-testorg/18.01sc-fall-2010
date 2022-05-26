@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2443'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 82: Polar Coordinates'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2110'
 title: 'Clip 2: Simple Examples in Polar Coordinates'
 uid: 6e9a675d-894d-dffa-9958-942e553e6b4a
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: XRkgBWbWvg4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses82b)
+» {{% resource_link 314dbc6c-5650-dbaa-248f-396fd5226034 "Accompanying Notes (PDF)" %}}
 
-From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

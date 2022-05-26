@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '310'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 93: Indefinite Integrals and Singularities'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 2: Improper Integrals of the Second Kind, Continued'
 uid: 12a32839-3346-d21e-ee57-3e96f334cac7
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: MK_0QHbUnIA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses93b)
+» {{% resource_link d19310b7-9b98-7c86-98b3-e1727e9cd2f7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

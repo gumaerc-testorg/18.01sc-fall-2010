@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 10: Quotient Rule'
@@ -22,3 +23,5 @@ video_files:
 video_metadata:
   youtube_id: D7nf7pKddwM
 ---
+None
+

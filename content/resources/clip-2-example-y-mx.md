@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '745'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 78: Computing the Length of a Curve'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '567'
 title: 'Clip 2: Example: y=mx'
 uid: 71bcc4e1-8630-12ca-4060-d786387fd5b2
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: TpWQlKHPyJ4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses78b)
+» {{% resource_link a6c95497-14d3-6c83-63bd-7cace8382579 "Accompanying Notes (PDF)" %}}
 
-From Lecture 31 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 31 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

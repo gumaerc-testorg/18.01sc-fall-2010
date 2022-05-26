@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1978'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 91: Improper Integrals'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1630'
 title: 'Clip 1: Integral of 1/(xp)'
 uid: c9635997-f882-cad9-8020-47fb4c3d78e5
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: KhwQKE_tld0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses91e)
+» {{% resource_link ff71b3c9-3989-57ec-a438-64994760b4a7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 36 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 36 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

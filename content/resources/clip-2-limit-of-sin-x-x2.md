@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2922'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2562'
 title: 'Clip 2: Limit of sin(x)/(x2)'
 uid: 1f20b84e-0517-03f7-5db5-d0ef1460949c
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: PNTnmH6jsRI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses90b)
+» {{% resource_link 00e62d61-74ee-8ef6-f133-8fa9c266bae1 "Accompanying Notes (PDF)" %}}
 
-From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

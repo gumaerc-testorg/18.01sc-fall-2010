@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2609'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 98: Taylor''s Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2358'
 title: 'Clip 2: Taylor''s Formula'
 uid: 799aa397-3dc6-9c8e-0bf6-1d3b43b79c5f
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: wOHrNt9ScYs
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses98b)
+» {{% resource_link 25541a5e-3579-d1d5-c52a-d8ccd6b152ec "Accompanying Notes (PDF)" %}}
 
-From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '616'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Alternate Definition of Natural Log'
 uid: a75698d1-344c-16cd-a8fe-c73f90c2d090
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: _JXPe2J069c
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses54a)
+» {{% resource_link 911e69c6-5921-74f6-8657-67e3db049f35 "Accompanying Notes (PDF)" %}}
 
-From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

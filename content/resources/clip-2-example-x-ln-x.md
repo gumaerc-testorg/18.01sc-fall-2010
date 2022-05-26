@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2659'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 28: Sketching Graphs II - General Strategies'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1594'
 title: 'Clip 2: Example: x/ln x'
 uid: edb9566c-75a4-17bb-6adc-ea0b6819b7e5
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: twzGBqPeW0M
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses28b)
+» {{% resource_link a50461c0-ed97-fe38-6150-e8319ddfd1c0 "Accompanying Notes (PDF)" %}}
 
-From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

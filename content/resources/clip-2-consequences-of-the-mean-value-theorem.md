@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2091'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 34: Introduction to the Mean Value Theorem'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1590'
 title: 'Clip 2: Consequences of the Mean Value Theorem'
 uid: e33e5f75-a2fc-21fa-276f-88c31e8f1487
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4Q37iOyBq44
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses34b)
+» {{% resource_link 70b03126-d02c-df5b-87bc-59e6e515bc73 "Accompanying Notes (PDF)" %}}
 
-From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

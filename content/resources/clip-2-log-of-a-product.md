@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '885'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '616'
 title: 'Clip 2: Log of a Product'
 uid: 04597b12-0884-4991-106e-487e1a1c9ef7
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: _JXPe2J069c
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses54b)
+» {{% resource_link c8d35d09-cacf-da09-64fa-025aaf532e39 "Accompanying Notes (PDF)" %}}
 
-From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

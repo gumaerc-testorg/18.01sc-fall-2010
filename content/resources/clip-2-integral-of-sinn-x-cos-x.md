@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '692'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '313'
 title: 'Clip 2: Integral of sinn(x) cos(x)'
 uid: 057c3e6b-2bae-fe5c-faee-dfd0d49060a0
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: Bv9kVDcj7yo
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses68b)
+» {{% resource_link d756b28f-d761-d982-a79b-6f24a34fb2c6 "Accompanying Notes (PDF)" %}}
 
-From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

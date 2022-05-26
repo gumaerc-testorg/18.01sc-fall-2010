@@ -9,11 +9,11 @@ title: Exam 4
 uid: 6484ae59-4046-2fad-f99f-0d827e877e70
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4) »
+« {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Previous" %}} | {{% resource_link 4699d63d-2fc1-6b8b-d7fc-498a382dc972 "Next" %}} »
 
 Congratulations! You've made it through Unit 4. Now it's time to test your knowledge. Begin with the review, and when you're ready, take the exam. When you're done, use the included solutions to check your answers.
 
-> » [Session 85: Review for Exam 4]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4)  
-> » [Session 86: Materials for Exam 4]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4)
+> » {{% resource_link 4699d63d-2fc1-6b8b-d7fc-498a382dc972 "Session 85: Review for Exam 4" %}}  
+> » {{% resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Session 86: Materials for Exam 4" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4) »
+« {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Previous" %}} | {{% resource_link 4699d63d-2fc1-6b8b-d7fc-498a382dc972 "Next" %}} »

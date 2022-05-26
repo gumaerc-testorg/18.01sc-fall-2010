@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '779'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 74: Integration by Partial Fractions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '323'
 title: 'Clip 2: Introduction to the Cover-Up Method'
 uid: 8e3424bf-4654-8ef0-a9ca-8e00035a1ec8
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: HgEqXhsIq_g
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses74b)
+» {{% resource_link f5bfda06-e197-c3be-37bb-46cb27dd83db "Accompanying Notes (PDF)" %}}
 
-From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

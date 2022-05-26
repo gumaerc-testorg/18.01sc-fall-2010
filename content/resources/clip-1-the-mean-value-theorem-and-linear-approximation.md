@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2584'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 35: Using the Mean Value Theorem'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2091'
 title: 'Clip 1: The Mean Value Theorem and Linear Approximation'
 uid: 448f01ad-bc35-de7f-f676-b7d9fb2fb06f
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4Q37iOyBq44
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses35a)
+» {{% resource_link 3fd61ef9-eab2-9205-d39e-c29fce90c3c4 "Accompanying Notes (PDF)" %}}
 
-From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,8 +1,7 @@
 ---
 content_type: resource
-description: This resource contains information about combining the fundamental theorem
-  and the mean value theorem.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/714de9d18a95a751ff797baa17fe6d17_MIT18_01SCF10_Ses50c.pdf
+description: ''
+file: /courses/18-01sc-single-variable-calculus-fall-2010/714de9d18a95a751ff797baa17fe6d17_MIT18_01SCF10_Ses50c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +12,6 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses50c.pdf
 uid: 714de9d1-8a95-a751-ff79-7baa17fe6d17
 ---
+None
+
+This resource contains information about combining the fundamental theorem and the mean value theorem.

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '908'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 7: Derivatives of Sine and Cosine'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '510'
 title: 'Clip 2: Derivative of cos(x)'
 uid: f0197658-9b81-1646-4c52-be16e5adc44a
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: kCPVBl953eY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses7b)
+» {{% resource_link 5e568f34-e774-d2a5-6b3f-bc07335a5fbb "Accompanying Notes (PDF)" %}}
 
-From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

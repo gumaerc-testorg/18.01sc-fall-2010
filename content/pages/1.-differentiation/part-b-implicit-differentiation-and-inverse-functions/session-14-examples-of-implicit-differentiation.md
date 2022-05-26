@@ -9,7 +9,7 @@ title: 'Session 14: Examples of Implicit Differentiation'
 uid: 331d135e-b824-4bc3-5069-e7f2d86beb59
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions) »
+« {{% resource_link 796ea10c-25d2-7cfa-f1a1-2bb6262c8bff "Previous" %}} | {{% resource_link 5668bfaf-4a48-49cd-c9fb-5962b4a18003 "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Slope of Tangent to Circle: Direct]({{< baseurl >}}/resources/clip-1-slope-of-tangent-to-circle-direct)
+{{% resource_link 0e00e364-2ff5-6b56-cd52-7438643599b2 "Clip 1: Slope of Tangent to Circle: Direct" %}}
 
-[Clip 2: Slope of Tangent to Circle: Implicit]({{< baseurl >}}/resources/clip-2-slope-of-tangent-to-circle-implicit)
+{{% resource_link 21cba796-97d1-6197-5ea4-a92cb2b3d356 "Clip 2: Slope of Tangent to Circle: Implicit" %}}
 
-[Clip 3: Example: y4+xy2-2=0]({{< baseurl >}}/resources/clip-3-example-y4-xy2-2-0)
+{{% resource_link fa4477d1-9a8b-e5f9-5b6f-acad471d89ef "Clip 3: Example: y4+xy2-2=0" %}}
 
 Recitation Video
 ----------------
@@ -39,7 +39,7 @@ Worked Example
 
 Implicit Differentiation and the Second
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex14prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex14sol)
+*   {{% resource_link 7a7d3f0e-340d-dff6-b31f-08134f9ef302 "Problem (PDF)" %}}
+*   {{% resource_link df4b202a-5985-5a2a-7bdd-3c4dc44aad5c "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions) »
+« {{% resource_link 796ea10c-25d2-7cfa-f1a1-2bb6262c8bff "Previous" %}} | {{% resource_link 5668bfaf-4a48-49cd-c9fb-5962b4a18003 "Next" %}} »

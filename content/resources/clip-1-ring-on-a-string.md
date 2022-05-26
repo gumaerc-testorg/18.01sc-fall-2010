@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2440'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 32: Ring on a String'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1124'
 title: 'Clip 1: Ring on a String'
 uid: da7e32f5-c460-de57-5161-d6fd2007d9bb
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: sRIDVAcoG5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses32a)
+» {{% resource_link 80f8e2c7-e7bc-cc45-cf76-7e5b917331e7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 13 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 13 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '149'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 9: Product Rule'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 2: Introduction to General Rules for Differentiation'
 uid: 0668c074-9a3c-95c9-b0e9-62b71556ffbf
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4sTKcvYMNxk
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses9b)
+» {{% resource_link 371b2467-a3bb-3b18-e1e2-cb1a83091968 "Accompanying Notes (PDF)" %}}
 
-From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

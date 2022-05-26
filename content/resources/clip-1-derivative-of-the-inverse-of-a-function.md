@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2153'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1743'
 title: 'Clip 1: Derivative of the Inverse of a Function'
 uid: 3fa63db0-186a-5fcc-a075-8cc5a5c531af
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 5q_3FDOkVRQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses15a)
+» {{% resource_link 157e1a35-8da2-e781-5736-937bf75b8942 "Accompanying Notes (PDF)" %}}
 
-From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

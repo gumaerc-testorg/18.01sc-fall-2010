@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1980'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 72: Trig Substitution'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1709'
 title: 'Clip 2: Undoing Trig Substitution'
 uid: 737f1316-1985-dcee-df0a-8144a119f3b6
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses72b)
+» {{% resource_link b38610b6-2565-b666-eca1-80c95f751f4f "Accompanying Notes (PDF)" %}}
 
-From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

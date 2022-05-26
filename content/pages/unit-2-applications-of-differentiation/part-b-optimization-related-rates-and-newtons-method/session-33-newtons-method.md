@@ -9,7 +9,7 @@ title: 'Session 33: Newton''s Method'
 uid: 08bcebd8-87ee-223a-f847-41f0fef4d632
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-32-ring-on-a-string) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/problem-set-4) »
+« {{% resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Previous" %}} | {{% resource_link 25ab3164-7d79-08fb-9293-7192dc7da1d0 "Next" %}} »
 
 Overview
 --------
@@ -21,19 +21,19 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Newton's Method]({{< baseurl >}}/resources/clip-1-introduction-to-newtons-method)
+{{% resource_link 13a76551-ad95-d9ac-7aa8-de6f6d92cd7b "Clip 1: Introduction to Newton's Method" %}}
 
-[Clip 2: Newton's Method, Continued]({{< baseurl >}}/resources/clip-2-newtons-method-continued)
+{{% resource_link 4cd4d51a-2040-105e-4c74-b3dfba9c6fb7 "Clip 2: Newton's Method, Continued" %}}
 
-[Clip 3: Newton's Method: What Could Go Wrong?]({{< baseurl >}}/resources/clip-3-newtons-method-what-could-go-wrong)
+{{% resource_link a3c4543c-c1d8-8ba3-9dda-2cd165ce78b9 "Clip 3: Newton's Method: What Could Go Wrong?" %}}
 
 Worked Example
 --------------
 
 Cube Root of x
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex33prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex33sol)
+*   {{% resource_link 2947cca0-729b-9f04-26cd-848feaefb5e1 "Problem (PDF)" %}}
+*   {{% resource_link 04e5867c-11f7-3c93-4cc8-10c772617eb1 "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -42,4 +42,4 @@ Recitation Video
 
 {{< resource ce35dfa2-0f34-e7af-4515-befaaf4526f8 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-32-ring-on-a-string) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/problem-set-4) »
+« {{% resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Previous" %}} | {{% resource_link 25ab3164-7d79-08fb-9293-7192dc7da1d0 "Next" %}} »

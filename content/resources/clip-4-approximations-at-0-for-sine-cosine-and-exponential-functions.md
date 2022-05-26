@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1020'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 23: Linear Approximation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '540'
 title: 'Clip 4: Approximations at 0 for Sine, Cosine and Exponential Functions'
 uid: d05d2844-d71c-e6e4-b188-56df7c3bd252
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: BSAA0akmPEU
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses23d)
+» {{% resource_link 5b82e4d8-781c-e4a1-88cc-5a88e2cf4c07 "Accompanying Notes (PDF)" %}}
 
-From Lecture 9 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 9 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

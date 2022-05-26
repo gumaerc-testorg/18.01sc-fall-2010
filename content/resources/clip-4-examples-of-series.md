@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2037'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 94: Infinite Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1752'
 title: 'Clip 4: Examples of Series'
 uid: 7afcc397-1c5c-9f71-c23b-226ff406ddc2
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: MK_0QHbUnIA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses94d)
+» {{% resource_link a33e8803-b026-a27b-36c8-0382da80b2f8 "Accompanying Notes (PDF)" %}}
 
-From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

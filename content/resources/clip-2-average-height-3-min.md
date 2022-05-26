@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '543'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 60: Integrals and Averages'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '371'
 title: 'Clip 2: Average Height (3 min)'
 uid: 23b977c2-15c6-c476-cfc3-d8c93c944fdc
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: R9a_NHXrBcg
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses60b)
+» {{% resource_link 92336e25-ed22-5ad9-26db-6603678de789 "Accompanying Notes (PDF)" %}}
 
-From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

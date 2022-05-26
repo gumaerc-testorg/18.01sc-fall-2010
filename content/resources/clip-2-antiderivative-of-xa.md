@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1454'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 37: Antiderivatives'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1088'
 title: 'Clip 2: Antiderivative of xa'
 uid: 22bfcd5c-6c76-7ae7-4f1e-c119bdfc0885
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: -MI0b4h3rS0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses37b)
+» {{% resource_link 896ae83f-8250-8f16-4675-53c0a7530a2b "Accompanying Notes (PDF)" %}}
 
- From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+ From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

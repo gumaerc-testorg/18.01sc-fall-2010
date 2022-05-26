@@ -9,7 +9,7 @@ title: 'Session 24: Examples of Linear Approximation'
 uid: 332503c0-9be8-a2d7-ca74-9e218630b6f3
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation) »
+« {{% resource_link 6c111f0f-1d0b-5fad-e36a-1ca3687104d2 "Previous" %}} | {{% resource_link c5bed9b5-3f56-84d6-8d5b-41fd3419190b "Next" %}} »
 
 Overview
 --------
@@ -21,28 +21,28 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Curves are Hard, Lines are Easy]({{< baseurl >}}/resources/clip-1-curves-are-hard-lines-are-easy)
+{{% resource_link ee9e8d5d-ba30-f738-e2da-376233d75fc6 "Clip 1: Curves are Hard, Lines are Easy" %}}
 
-[Clip 2: Linear Approximation of a Complicated Exponential]({{< baseurl >}}/resources/clip-2-linear-approximation-of-a-complicated-exponential)
+{{% resource_link 6866c7e0-6a0b-0985-2d2d-a535f72ad06d "Clip 2: Linear Approximation of a Complicated Exponential" %}}
 
-[Clip 3: Question: Can We Use the Original Formula?]({{< baseurl >}}/resources/clip-3-question-can-we-use-the-original-formula)
+{{% resource_link c6751fb0-4db9-5938-0f34-845876b1a4cb "Clip 3: Question: Can We Use the Original Formula?" %}}
 
 Worked Example
 --------------
 
 Product of Linear Approximations
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex24prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex24sol)
+*   {{% resource_link 6e8aadf9-ec0a-5e4e-299f-f94932d72f40 "Problem (PDF)" %}}
+*   {{% resource_link 71d62ab9-e851-7a42-7285-09375403a51f "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: GPS Time Dilation Example]({{< baseurl >}}/resources/clip-1-gps-time-dilation-example)
+{{% resource_link cfbee5f8-3f6c-9bc8-b79d-bf3a6ce86c4f "Clip 1: GPS Time Dilation Example" %}}
 
-[Clip 2: Relative Error]({{< baseurl >}}/resources/clip-2-relative-error)
+{{% resource_link f0bdbae5-d782-612b-027b-a3693eabd78d "Clip 2: Relative Error" %}}
 
 Recitation Video
 ----------------
@@ -51,4 +51,4 @@ Recitation Video
 
 {{< resource 264a7ad2-b063-03db-20a7-52e5b6e98c22 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation) »
+« {{% resource_link 6c111f0f-1d0b-5fad-e36a-1ca3687104d2 "Previous" %}} | {{% resource_link c5bed9b5-3f56-84d6-8d5b-41fd3419190b "Next" %}} »

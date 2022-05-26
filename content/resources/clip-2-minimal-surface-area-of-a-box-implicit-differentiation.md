@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2693'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 30: Optimization Problems II'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2383'
 title: 'Clip 2: Minimal Surface Area of a Box: Implicit   Differentiation'
 uid: 86818551-bc8f-bba3-55e8-5f6069468d41
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: YN7k_bXXggY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses30b)
+» {{% resource_link 5c86686d-3f87-ef22-bbe9-5b764078d3c0 "Accompanying Notes (PDF)" %}}
 
-From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

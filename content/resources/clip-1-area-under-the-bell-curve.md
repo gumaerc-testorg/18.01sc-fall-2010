@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2173'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 65: Bell Curve, Conclusion'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '818'
 title: 'Clip 1: Area Under the Bell Curve'
 uid: fecddcf0-b02c-4cc2-77cf-c201057e0e83
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: zUEuKrxgHws
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses65a)
+» {{% resource_link 8f010974-972c-100f-3627-d4d7d55aca35 "Accompanying Notes (PDF)" %}}
 
-From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

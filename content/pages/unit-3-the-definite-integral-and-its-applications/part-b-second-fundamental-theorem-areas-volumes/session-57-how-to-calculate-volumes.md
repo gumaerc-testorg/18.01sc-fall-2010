@@ -9,7 +9,7 @@ title: 'Session 57: How to Calculate Volumes'
 uid: 896b940a-6076-521f-f57b-68f0bccc57a0
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis) »
+« {{% resource_link ab02e80b-2f16-511d-8148-1be8277cb20d "Previous" %}} | {{% resource_link ea17c591-946b-ebd5-f9a9-889e9e6fa3ee "Next" %}} »
 
 Overview
 --------
@@ -21,16 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Volumes by Slicing]({{< baseurl >}}/resources/clip-1-volumes-by-slicing)
+{{% resource_link 953eaa4c-168c-c5ee-eade-9d817a642b1f "Clip 1: Volumes by Slicing" %}}
 
-[Clip 2: Solids of Revolution]({{< baseurl >}}/resources/clip-2-solids-of-revolution)
+{{% resource_link 5f5a2b55-1d97-ca50-e52d-590dec025888 "Clip 2: Solids of Revolution" %}}
 
 Worked Example
 --------------
 
 Revolution About the x-axis
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex57prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex57sol)
+*   {{% resource_link d06918b9-18ec-707d-6923-f240d8d9803e "Problem (PDF)" %}}
+*   {{% resource_link bc1ab4a7-fc56-f6ac-d939-f29c072fe58f "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis) »
+« {{% resource_link ab02e80b-2f16-511d-8148-1be8277cb20d "Previous" %}} | {{% resource_link ea17c591-946b-ebd5-f9a9-889e9e6fa3ee "Next" %}} »

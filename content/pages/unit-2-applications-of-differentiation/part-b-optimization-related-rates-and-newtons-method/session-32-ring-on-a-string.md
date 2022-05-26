@@ -9,7 +9,7 @@ title: 'Session 32: Ring on a String'
 uid: b5f1b462-2711-48f7-75cc-618b67ef606b
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method) »
+« {{% resource_link 740c26e9-a52f-298e-76ec-9fb9679d1f19 "Previous" %}} | {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Next" %}} »
 
 Overview
 --------
@@ -21,6 +21,6 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Ring on a String]({{< baseurl >}}/resources/clip-1-ring-on-a-string)
+{{% resource_link da7e32f5-c460-de57-5161-d6fd2007d9bb "Clip 1: Ring on a String" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method) »
+« {{% resource_link 740c26e9-a52f-298e-76ec-9fb9679d1f19 "Previous" %}} | {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Next" %}} »

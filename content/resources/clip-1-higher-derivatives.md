@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2504'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 12: Higher Derivatives'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1966'
 title: 'Clip 1: Higher Derivatives'
 uid: 8f7a7e13-4c23-b73a-789e-be7d1184d863
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4sTKcvYMNxk
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses12a)
+» {{% resource_link bb103986-1d7b-28d7-5e6a-cbedf497639c "Accompanying Notes (PDF)" %}}
 
-From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

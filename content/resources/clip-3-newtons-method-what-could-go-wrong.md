@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '908'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 33: Newton''s Method'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '455'
 title: 'Clip 3: Newton''s Method: What Could Go Wrong?'
 uid: a3c4543c-c1d8-8ba3-9dda-2cd165ce78b9
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 4Q37iOyBq44
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses33c)
+» {{% resource_link d424c9a8-f0fc-24e2-8d42-206a1fd63df1 "Accompanying Notes (PDF)" %}}
 
-From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

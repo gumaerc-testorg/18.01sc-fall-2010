@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '209'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 24: Examples of Linear Approximation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '18'
 title: 'Clip 2: Relative Error'
 uid: f0bdbae5-d782-612b-027b-a3693eabd78d
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: eRCN3daFCmU
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses24e)
+» {{% resource_link 6bfd76aa-f26c-1e40-c414-19010dfba1ff "Accompanying Notes (PDF)" %}}
 
-From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

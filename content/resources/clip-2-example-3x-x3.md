@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3104'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2148'
 title: 'Clip 2: Example: 3x-x3'
 uid: bae609b7-29ae-b61c-18af-57bd4e0bef0c
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: eRCN3daFCmU
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses27b)
+» {{% resource_link e30fefcc-2e25-2965-1ee6-eebc8d7f664a "Accompanying Notes (PDF)" %}}
 
-From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

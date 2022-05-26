@@ -9,7 +9,7 @@ title: 'Session 45: Some Easy Integrals'
 uid: 4bffe5cc-1619-6016-e522-10964dbeddc4
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums) »
+« {{% resource_link 9f42b86c-bcb7-812f-84f2-846c3d7ce9f5 "Previous" %}} | {{% resource_link d5e0c7a6-f172-52a3-c694-d627faf12123 "Next" %}} »
 
 Overview
 --------
@@ -21,16 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Simple Definite Integrals]({{< baseurl >}}/resources/clip-1-simple-definite-integrals)
+{{% resource_link cf3655fd-b915-c7a2-de51-eb5f8a7270e0 "Clip 1: Simple Definite Integrals" %}}
 
-[Clip 2: Summary of Examples]({{< baseurl >}}/resources/clip-2-summary-of-examples)
+{{% resource_link 26f6623d-9d22-bf7c-88e7-1630a8cb811b "Clip 2: Summary of Examples" %}}
 
 Worked Example
 --------------
 
 Integral of |x|
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex45prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex45sol)
+*   {{% resource_link b09a9ab0-e113-c68d-30dd-7be9812fec19 "Problem (PDF)" %}}
+*   {{% resource_link 244ff558-563a-c817-868a-5d1b4494c234 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums) »
+« {{% resource_link 9f42b86c-bcb7-812f-84f2-846c3d7ce9f5 "Previous" %}} | {{% resource_link d5e0c7a6-f172-52a3-c694-d627faf12123 "Next" %}} »

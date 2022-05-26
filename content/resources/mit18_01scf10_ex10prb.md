@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains problem statements related to quotient rule.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7f48447afdcb22803f568bf5653707c5_MIT18_01SCF10_ex10prb.pdf
+description: ''
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7f48447afdcb22803f568bf5653707c5_MIT18_01SCF10_ex10prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,6 @@ resourcetype: Document
 title: MIT18_01SCF10_ex10prb.pdf
 uid: 7f48447a-fdcb-2280-3f56-8bf5653707c5
 ---
+None
+
+This resource contains problem statements related to quotient rule.

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '585'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 16: The Derivative of a^x'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '294'
 title: 'Clip 1: Difference Quotient of ax'
 uid: 86e8e0e0-dcf7-38a3-e928-d15f1e0437de
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses16c)
+» {{% resource_link a7688da9-6951-8364-6e43-94677c3a6022 "Accompanying Notes (PDF)" %}}
 
-From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

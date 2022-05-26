@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2354'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 101: Conclusion'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2294'
 title: 'Clip: Finale'
 uid: fd631450-a476-3f3e-ada1-3e63fba9688d
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: --lPz7VFnKI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses101a)
+» {{% resource_link b36b8b8d-0d00-11be-9625-13baabe7c760 "Accompanying Notes (PDF)" %}}
 
-From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

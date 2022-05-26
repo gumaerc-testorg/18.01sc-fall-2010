@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '818'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 64: Numerical Integration, Continued'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '672'
 title: 'Clip 3: Numerical Integration Study Tips'
 uid: 1d7042d0-7f1f-9a65-ec33-e5e2f0cf8287
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: zUEuKrxgHws
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses64c)
+» {{% resource_link d8e6f699-7d2b-7f4a-09f8-23dfcad065cc "Accompanying Notes (PDF)" %}}
 
-From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

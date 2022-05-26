@@ -9,7 +9,7 @@ title: Problem Set 4
 uid: 25ab3164-7d79-08fb-9293-7192dc7da1d0
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations) »
+« {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" %}} | {{% resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Applications of Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2prb-1) to do the problems below.
+Use {{% resource_link 9ed0d442-d259-90a9-8c1c-770ad331a17a "Applications of Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,11 +81,11 @@ Locating zeroes; Newton's method
 
 ### Solutions
 
-[Solutions to Applications Differentiation problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2sol-1)
+{{% resource_link ef541d98-8c5d-0e71-beb7-56d5c0104561 "Solutions to Applications Differentiation problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
   
  
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations) »
+« {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" %}} | {{% resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" %}} »

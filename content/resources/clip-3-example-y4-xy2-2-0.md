@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1743'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 14: Examples of Implicit Differentiation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1184'
 title: 'Clip 3: Example: y4+xy2-2=0'
 uid: fa4477d1-9a8b-e5f9-5b6f-acad471d89ef
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 5q_3FDOkVRQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses14c)
+» {{% resource_link 5c1f8c77-b588-b193-087f-1a59dab495d8 "Accompanying Notes (PDF)" %}}
 
-From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

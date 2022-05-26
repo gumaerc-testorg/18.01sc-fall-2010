@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: ' 2724'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 41: Review for Exam 2'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2615'
 title: 'Clip 1: Review for Exam II'
 uid: ff1c7606-23c8-2c73-441e-68dc6e4a8945
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 60VGKnYBpbg
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses41a)
+» {{% resource_link e90f948a-7163-116b-10b8-f9a6c09fbf2e "Accompanying Notes (PDF)" %}}
 
-From Lecture 16 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 16 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2733'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 62: Integrals and Probability'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2253'
 title: 'Clip 1: Probability Example'
 uid: be2cda1d-e808-0c2f-a839-184764113a23
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: R9a_NHXrBcg
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses62a)
+» {{% resource_link ca87fbbc-7c39-c0e6-5522-e050f1247b3d "Accompanying Notes (PDF)" %}}
 
-From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

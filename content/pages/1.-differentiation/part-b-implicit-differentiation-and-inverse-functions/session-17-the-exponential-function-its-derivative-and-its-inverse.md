@@ -9,7 +9,7 @@ title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
 uid: 625f9141-b9dc-5a93-65ac-ef497e19af09
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions) »
+« {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Previous" %}} | {{% resource_link 0cf2fa75-aeb6-82db-f14c-169c98cd1a15 "Next" %}} »
 
 Overview
 --------
@@ -23,22 +23,22 @@ Lecture Video and Notes
 
 [Clip 1: Definition of ex]({{< baseurl >}}/resources/clip-1-definition-of-ex)
 
-[Clip 2: Natural Log]({{< baseurl >}}/resources/clip-2-natural-log)
+{{% resource_link 08952d98-c63c-228b-17be-0412c524d36f "Clip 2: Natural Log" %}}
 
 Worked Example
 --------------
 
 Solving Equations with e and ln
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex17prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex17sol)
+*   {{% resource_link dd69d3c6-a003-824b-3720-38b310574867 "Problem (PDF)" %}}
+*   {{% resource_link 579220ae-8e0b-138f-c956-ee127c4f9879 "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Derivative of ax]({{< baseurl >}}/resources/clip-1-derivative-of-ax)
+{{% resource_link 36a525be-7086-37b3-7ccf-72368ce1973e "Clip 1: Derivative of ax" %}}
 
 Recitation Video
 ----------------
@@ -52,6 +52,6 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: The Most Natural Logarithmic Function]({{< baseurl >}}/resources/clip-1-the-most-natural-logarithmic-function)
+{{% resource_link 0e3d9342-2bde-13c6-7d31-5aff15ef61d9 "Clip 1: The Most Natural Logarithmic Function" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions) »
+« {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Previous" %}} | {{% resource_link 0cf2fa75-aeb6-82db-f14c-169c98cd1a15 "Next" %}} »

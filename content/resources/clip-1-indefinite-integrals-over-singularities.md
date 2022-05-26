@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2967'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 93: Indefinite Integrals and Singularities'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2704'
 title: "Clip 1: Inde\uFB01nite Integrals over Singularities"
 uid: 4883e304-14e4-3db0-3312-2478c67a3844
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: KhwQKE_tld0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses93a)
+» {{% resource_link 7bb94763-6ab1-8b08-8745-7c00209ab38e "Accompanying Notes (PDF)" %}}
 
-From Lecture 36 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 36 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

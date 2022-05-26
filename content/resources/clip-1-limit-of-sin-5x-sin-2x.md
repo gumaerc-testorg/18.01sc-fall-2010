@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '873'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 88: Examples of L''Hospital''s Rule'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '770'
 title: 'Clip 1: Limit of sin(5x)/sin(2x)'
 uid: 827530ca-77a2-59d7-b9e7-9d7f49b93601
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: PNTnmH6jsRI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses88a)
+» {{% resource_link ee82d756-3622-fa5e-8180-d2938d4c62e7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

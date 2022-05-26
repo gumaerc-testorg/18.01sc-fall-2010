@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2762'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 85: Review for Exam 4'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2238'
 title: 'Clip 2: Student Questions on Test IV'
 uid: 44cd0f64-95bc-1e98-62e4-b349eabea7c1
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: BGE3wb7H2PA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses85b)
+» {{% resource_link f0894469-b98e-99a2-09ff-44ebf8d87cfa "Accompanying Notes (PDF)" %}}
 
-From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

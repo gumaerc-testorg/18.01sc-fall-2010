@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2358'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 98: Taylor''s Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1956'
 title: 'Clip 1: Introduction to Taylor''s Series'
 uid: 1a8a83ed-9ab0-f55e-4e4e-6dc0bc500094
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: wOHrNt9ScYs
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses98a)
+» {{% resource_link 1f7a71d6-2dea-7f3b-637d-aedb410854a0 "Accompanying Notes (PDF)" %}}
 
-From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

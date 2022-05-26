@@ -9,7 +9,7 @@ title: 'Session 12: Higher Derivatives'
 uid: f0a4bb74-6fd7-34de-3811-8b0ff7607e0b
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1) »
+« {{% resource_link 68feb14b-a590-b3b0-88c9-89717ae12492 "Previous" %}} | {{% resource_link 93a0806f-20ed-6540-1e0e-178f23dae5d8 "Next" %}} »
 
 Overview
 --------
@@ -21,17 +21,17 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Higher Derivatives]({{< baseurl >}}/resources/clip-1-higher-derivatives)
+{{% resource_link 8f7a7e13-4c23-b73a-789e-be7d1184d863 "Clip 1: Higher Derivatives" %}}
 
-[Clip 2: Example: Dnxn]({{< baseurl >}}/resources/clip-2-example-dnxn)
+{{% resource_link 515078ff-3ad4-a116-4d2e-6634f2f43278 "Clip 2: Example: Dnxn" %}}
 
 Worked Example
 --------------
 
 Repeated Differentiation of Sine and Cosine
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex12prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex12sol)
+*   {{% resource_link 3c591168-dbbf-ee5a-8d89-fd6cc3daf97e "Problem (PDF)" %}}
+*   {{% resource_link c8a0089e-4888-f8d7-bdef-0fdd920c3760 "Solution (PDF)" %}}
 
 Use the mathlet below to complete the worked example.
 
@@ -40,4 +40,4 @@ Mathlet
 
 [Creating the Derivative](/ans7870/18/18.01SC/f10/mathlets/creatingDerivative.html "Open in a new window.")
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1) »
+« {{% resource_link 68feb14b-a590-b3b0-88c9-89717ae12492 "Previous" %}} | {{% resource_link 93a0806f-20ed-6540-1e0e-178f23dae5d8 "Next" %}} »

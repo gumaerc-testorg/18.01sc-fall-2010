@@ -10,7 +10,7 @@ title: 'Session 76: Integration by Parts'
 uid: b196b3d2-413f-a801-5d43-695883cc671a
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass) »
+« {{% resource_link b2d99644-53e8-9357-525c-798ec9a77daf "Previous" %}} | {{% resource_link fd429246-7eeb-d716-0d4a-260559201a7c "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Integration by Parts]({{< baseurl >}}/resources/clip-1-introduction-to-integration-by-parts)
+{{% resource_link 46256f07-34bc-ef62-8362-14eb186b5884 "Clip 1: Introduction to Integration by Parts" %}}
 
 Recitation Video
 ----------------
@@ -36,13 +36,13 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Integral of Natural Log]({{< baseurl >}}/resources/clip-1-integral-of-natural-log)
+{{% resource_link 7da07ac4-5c9c-8955-03c5-f24addcec7e1 "Clip 1: Integral of Natural Log" %}}
 
-[Clip 2: Integral of ln(x)2]({{< baseurl >}}/resources/clip-2-integral-of-ln-x-2)
+{{% resource_link f7d1ebe5-d9cb-78c3-d35f-dcc0712cce78 "Clip 2: Integral of ln(x)2" %}}
 
-[Clip 3: A Reduction Formula]({{< baseurl >}}/resources/clip-3-a-reduction-formula)
+{{% resource_link 856a5c4a-62df-05bd-4819-9f932b30dbaf "Clip 3: A Reduction Formula" %}}
 
-[Clip 4: Another Reduction Formula]({{< baseurl >}}/resources/clip-4-another-reduction-formula)
+{{% resource_link 7d821b93-8088-0344-23ca-cefd2f2ac1f6 "Clip 4: Another Reduction Formula" %}}
 
 Recitation Video
 ----------------
@@ -56,7 +56,7 @@ Worked Example
 
 Integral of x{{< sup "4" >}} cos(x)
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex76prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex76sol)
+*   {{% resource_link f3ce76b6-9d57-5ae6-b990-3e57a0459f79 "Problem (PDF)" %}}
+*   {{% resource_link a567b79f-6219-e6e2-9121-18f3bca160fd "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass) »
+« {{% resource_link b2d99644-53e8-9357-525c-798ec9a77daf "Previous" %}} | {{% resource_link fd429246-7eeb-d716-0d4a-260559201a7c "Next" %}} »

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3029'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 63: Numerical Integration'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2607'
 title: 'Clip 4: Simpson''s Rule'
 uid: ffb16330-ca31-f621-fbfb-28e49187170e
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: jBkXbAgMj6s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses63d)
+» {{% resource_link 6d3381fa-8d07-b76c-b500-4e9426a2cdaa "Accompanying Notes (PDF)" %}}
 
-From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

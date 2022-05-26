@@ -9,7 +9,7 @@ title: 'Session 18: Derivatives of other Exponential Functions'
 uid: 0cf2fa75-aeb6-82db-f14c-169c98cd1a15
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e) »
+« {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" %}} | {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" %}} »
 
 Overview
 --------
@@ -39,6 +39,6 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: The Power Rule]({{< baseurl >}}/resources/clip-1-the-power-rule)
+{{% resource_link c4ce10ba-bb2f-7a36-1f6a-3069cb0e1cdd "Clip 1: The Power Rule" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e) »
+« {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" %}} | {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" %}} »

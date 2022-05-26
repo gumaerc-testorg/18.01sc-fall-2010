@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
+file: /courses/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: Daimp.jar
 uid: fb921d37-9bc2-ce77-8fdf-b143ad0c0dec
 ---
+None
+

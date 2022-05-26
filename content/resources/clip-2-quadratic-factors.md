@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2646'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 75: Advanced Partial Fractions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1838'
 title: 'Clip 2: Quadratic Factors'
 uid: 2bb3005d-9b4c-f5cb-63ac-2fa5e733e714
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: HgEqXhsIq_g
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses75b)
+» {{% resource_link 8a0cc337-ce7b-b237-8371-47c9fffad4a5 "Accompanying Notes (PDF)" %}}
 
-From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

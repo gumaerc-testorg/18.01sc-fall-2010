@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2294'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 100: Operations on Power Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2117'
 title: 'Clip 1: Power Series Expansion of the Error Function'
 uid: 245d8878-895c-1cda-8227-8e7ae0f33dc4
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: --lPz7VFnKI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses100e)
+» {{% resource_link 4f477c58-93e4-96cd-5bf1-8e777e95414c "Accompanying Notes (PDF)" %}}
 
-From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

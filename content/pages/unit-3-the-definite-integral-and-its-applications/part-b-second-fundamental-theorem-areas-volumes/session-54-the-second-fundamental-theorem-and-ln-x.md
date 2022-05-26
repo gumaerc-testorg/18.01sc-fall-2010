@@ -9,7 +9,7 @@ title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 uid: 435c91b0-8acc-9a35-fc07-48ce22a11bfe
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem) »
+« {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Previous" %}} | {{% resource_link 2c680617-5167-ca26-dcd9-f490d43c4c0a "Next" %}} »
 
 Overview
 --------
@@ -21,16 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Alternate Definition of Natural Log]({{< baseurl >}}/resources/clip-1-alternate-definition-of-natural-log)
+{{% resource_link a75698d1-344c-16cd-a8fe-c73f90c2d090 "Clip 1: Alternate Definition of Natural Log" %}}
 
-[Clip 2: Log of a Product]({{< baseurl >}}/resources/clip-2-log-of-a-product)
+{{% resource_link 04597b12-0884-4991-106e-487e1a1c9ef7 "Clip 2: Log of a Product" %}}
 
 Worked Example
 --------------
 
 Logs and Exponents
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex54prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex54sol)
+*   {{% resource_link 80d5b62b-17fd-e9c9-f6c4-dd9fd704e751 "Problem (PDF)" %}}
+*   {{% resource_link 65cd6b4b-4cd6-c5a4-9383-ca3254fe8aed "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem) »
+« {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Previous" %}} | {{% resource_link 2c680617-5167-ca26-dcd9-f490d43c4c0a "Next" %}} »

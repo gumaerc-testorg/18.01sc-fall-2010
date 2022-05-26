@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Secant approximation mathlet from the d'Arbeloff Interactive Math Project.
@@ -15,3 +15,5 @@ resourcetype: Image
 title: CHP_secant.jpg
 uid: 7b739fdc-0a8f-b030-2fdb-e037fbaa89a3
 ---
+None
+
