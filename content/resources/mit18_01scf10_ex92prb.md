@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex92prb.pdf
 uid: 884e7622-68c5-467b-0ed1-70f597085c80
 ---
-None
-
 This resource contains problem statements related to integral comparison.
+

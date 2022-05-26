@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex01prb.pdf
 uid: e7035a3c-1ce0-03dc-a576-6a3746101695
 ---
-None
-
 This resource contains problem statements related to secants and tangents.
+

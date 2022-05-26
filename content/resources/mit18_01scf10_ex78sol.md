@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex78sol.pdf
 uid: ed84aebb-3083-404e-3ead-41aae683b245
 ---
-None
-
 This resource contains solutions for the problem statements related to computing the length of a curve.
+

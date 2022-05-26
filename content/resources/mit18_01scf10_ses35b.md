@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses35b.pdf
 uid: d564cd7f-e40f-ca45-b09e-bf3e11fbe08c
 ---
-None
-
 This resource contains information related to mean value theorem.
+

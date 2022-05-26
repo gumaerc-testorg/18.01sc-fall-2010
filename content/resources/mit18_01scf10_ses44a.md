@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses44a.pdf
 uid: 3cdcdfc7-dedd-0c6b-31c3-d76a3df67841
 ---
-None
-
 This resource contains information about adding areas of rectangles.
+

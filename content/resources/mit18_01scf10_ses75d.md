@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses75d.pdf
 uid: 9dc35202-a67d-316e-cff8-020ad5ab5f80
 ---
-None
-
 This resource contains informations related to advanced partial fractions.
+

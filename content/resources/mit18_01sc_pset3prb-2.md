@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset3prb.pdf
 uid: e79f21f7-91b0-8d2c-5d25-7fee8642d60c
 ---
-None
-
 This resource contains problem sets of integration. 
+

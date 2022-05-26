@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses34a.pdf
 uid: e880603e-c136-cc8e-baa6-8c7d72c22024
 ---
-None
-
 This resource contains information about introduction to the mean.
+

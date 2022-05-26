@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex48prb.pdf
 uid: f1fa0c83-7890-f510-6d02-accbc4b1e610
 ---
-None
-
 This resource contains problem statements related to integral of sin (x) + cos (x).
+

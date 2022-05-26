@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex24sol.pdf
 uid: 71d62ab9-e851-7a42-7285-09375403a51f
 ---
-None
-
 This resource contains solutions for the problem statements related to examples of linear approximations.
+

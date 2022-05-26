@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses84c.pdf
 uid: 958d7ea5-f505-b8ed-7977-87befee0e4a4
 ---
-None
-
 This resource contains informations related to polar coordinates and graphing.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex84prb.pdf
 uid: adfb7506-5705-b627-df52-b84e0bc6161a
 ---
-None
-
 This resource contains problem statements related to polar coordinates and graphing.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex33sol.pdf
 uid: 04e5867c-11f7-3c93-4cc8-10c772617eb1
 ---
-None
-
 This resource contains solutions for the problem statements related to newton's method.
+

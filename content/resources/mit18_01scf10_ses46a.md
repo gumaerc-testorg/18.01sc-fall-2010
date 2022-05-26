@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses46a.pdf
 uid: 523ebde5-1093-f1b0-1b42-191bde0ec1dc
 ---
-None
-
 This resource contains information about riemann sums.
+

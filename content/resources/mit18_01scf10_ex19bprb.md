@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex19bprb.pdf
 uid: d32149b6-89f9-9581-6eba-bd6214b838fe
 ---
-None
-
 This resource contains problem statements related to evaluating an interest using the limit.
+

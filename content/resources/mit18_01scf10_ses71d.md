@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses71d.pdf
 uid: b87628b9-43b8-b9eb-87f9-c355091b080e
 ---
-None
-
 This resource contains information about integrals involving secant, cosecant and cotangent.
+

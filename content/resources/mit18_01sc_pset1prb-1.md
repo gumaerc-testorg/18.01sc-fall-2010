@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset1prb.pdf
 uid: 87d9380b-a7de-44cb-eaca-3b655844a1d4
 ---
-None
-
 This resource contains problem sets of differentiation. 
+

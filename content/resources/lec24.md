@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec24.jpg
 uid: d1b728f0-d6e6-f1fa-3aa1-c29573666957
 ---
-None
-

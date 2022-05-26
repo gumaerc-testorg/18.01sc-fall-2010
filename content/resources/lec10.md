@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec10.jpg
 uid: 623ca94e-9f51-2428-0386-19da1d7b12ed
 ---
-None
-

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses93b.pdf
 uid: d19310b7-9b98-7c86-98b3-e1727e9cd2f7
 ---
-None
-
 This resource contains informations related to indefinite integrals and singularities.
+

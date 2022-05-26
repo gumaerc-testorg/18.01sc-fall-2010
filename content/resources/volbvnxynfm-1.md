@@ -9,5 +9,3 @@ resourcetype: Document
 title: 3play pdf file
 uid: 2f044499-1431-28df-a046-5afea33d0186
 ---
-None
-

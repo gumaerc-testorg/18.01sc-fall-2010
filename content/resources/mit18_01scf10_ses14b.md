@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses14b.pdf
 uid: 6a8991fa-9765-7dce-d411-33ec8c9e4f4d
 ---
-None
-
 This resource contains information related to examples of implicit differentiation.
+

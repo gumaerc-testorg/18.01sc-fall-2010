@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses40b.pdf
 uid: cc893556-7e20-312a-6879-f532b8e19f30
 ---
-None
-
 This resource contains information about separation of variables.
+

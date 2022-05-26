@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex101prb.pdf
 uid: 0f0e4cb3-f521-e99b-1300-d0ed3cf0c7ef
 ---
-None
-
 This resource contains problem statements related to Taylor's series.
+

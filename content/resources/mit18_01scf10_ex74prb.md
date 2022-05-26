@@ -12,5 +12,3 @@ resourcetype: Document
 title: MIT18_01SCF10_ex74prb.pdf
 uid: 160495eb-552e-15d3-a310-fb9a4d8844ef
 ---
-None
-

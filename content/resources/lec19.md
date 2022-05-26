@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec19.jpg
 uid: 78f04b1b-cab2-87c7-0810-9748b73f010c
 ---
-None
-

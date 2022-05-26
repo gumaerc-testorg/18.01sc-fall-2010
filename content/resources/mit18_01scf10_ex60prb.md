@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex60prb.pdf
 uid: 505691d6-7652-838e-a715-66b872225032
 ---
-None
-
 This resource contains problem statements related to average work balance.
+

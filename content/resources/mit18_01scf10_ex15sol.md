@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex15sol.pdf
 uid: 11c63174-17bd-f6c7-f976-183481025646
 ---
-None
-
 This resource contains solutions for the problem statements related to implicit differentiation and inverse functions.
+

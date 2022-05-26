@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses51a.pdf
 uid: 2459faee-7ec3-308a-fd5c-ca2b95fad48e
 ---
-None
-
 This resource contains information about the second fundamental theorem of calculus.
+

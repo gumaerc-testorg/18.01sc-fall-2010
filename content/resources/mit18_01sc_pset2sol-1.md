@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset2sol.pdf
 uid: ef541d98-8c5d-0e71-beb7-56d5c0104561
 ---
-None
-
 This resource contains solutions of applications of differentiation problems. 
+

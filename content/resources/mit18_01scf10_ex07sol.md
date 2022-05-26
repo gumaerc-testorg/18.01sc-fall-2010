@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex07sol.pdf
 uid: 62ed1c8d-2b1d-2802-6a66-480a7ce55a42
 ---
-None
-
 This resource contains solutions for the problem statements related to derivatives of sine and cosine.
+

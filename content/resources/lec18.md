@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec18.jpg
 uid: 9789e0ae-388b-395f-64d1-5b4e48d3eef7
 ---
-None
-

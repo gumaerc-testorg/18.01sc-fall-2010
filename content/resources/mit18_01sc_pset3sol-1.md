@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset3sol.pdf
 uid: a48839fb-6b53-e634-f6d0-63fd99340380
 ---
-None
-
 This resource contains solutions of integration problems. 
+

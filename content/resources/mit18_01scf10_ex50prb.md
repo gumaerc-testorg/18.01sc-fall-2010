@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex50prb.pdf
 uid: a7bb8a35-dacf-44c1-ae34-b89143656f82
 ---
-None
-
 This resource contains problem statements related to estimating ln (5).
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses7a.pdf
 uid: dfa14ed6-1544-7485-87c8-3f9b46f43c28
 ---
-None
-
 This resource contains information related to derivatives of sine and cosine.
+

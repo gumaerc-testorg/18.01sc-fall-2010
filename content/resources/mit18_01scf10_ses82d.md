@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses82d.pdf
 uid: ff8afc03-e73e-71fb-f141-c3c2ba7dbea7
 ---
-None
-
 This resource contains informations related to polar coordinates.
+

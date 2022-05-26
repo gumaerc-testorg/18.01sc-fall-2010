@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses62a.pdf
 uid: ca87fbbc-7c39-c0e6-5522-e050f1247b3d
 ---
-None
-
 This resource contains information about integrals and probability.
+

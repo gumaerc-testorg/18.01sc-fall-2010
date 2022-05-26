@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses12b.pdf
 uid: 5c958196-1d0f-94fe-ac92-53771dd94547
 ---
-None
-
 This resource contains information related to higher derivatives.
+

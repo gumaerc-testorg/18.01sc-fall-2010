@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec05.jpg
 uid: c184eaf5-1124-4491-ea69-17e46d53ca93
 ---
-None
-

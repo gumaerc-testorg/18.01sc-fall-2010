@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex75asol.pdf
 uid: 3d2d08d3-e8db-306a-be64-26cb9616eacd
 ---
-None
-
 This resource contains solutions for the problem statements related to advanced partial fractions.
+

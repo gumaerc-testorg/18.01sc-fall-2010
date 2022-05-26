@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex25prb.pdf
 uid: 782c3033-93c5-b39e-3a34-f51d315441b7
 ---
-None
-
 This resource contains problem statements related to comparing quadratic approximations to calculator computations.
+

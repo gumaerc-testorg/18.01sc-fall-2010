@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec36.jpg
 uid: 6ce0f1f0-e160-24f8-31ae-a3a63c6f8005
 ---
-None
-

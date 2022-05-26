@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex57sol.pdf
 uid: bc1ab4a7-fc56-f6ac-d939-f29c072fe58f
 ---
-None
-
 This resource contains solutions for the problem statements related to calculating volumes.
+

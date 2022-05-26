@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex95prb.pdf
 uid: 827156a8-50e1-f9bc-5617-d8d0c5856f63
 ---
-None
-
 This resource contains problem statements related to series comparison.
+

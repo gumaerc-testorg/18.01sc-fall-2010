@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses69b.pdf
 uid: c0494219-71b1-6bfe-e168-28e88ea87496
 ---
-None
-
 This resource contains information about integral of sin^n(x) cos^m(x), even exponents.
+

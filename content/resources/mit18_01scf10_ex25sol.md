@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex25sol.pdf
 uid: f806d7f0-6df8-2639-483a-24d467a4fa28
 ---
-None
-
 This resource contains solutions for the problem statements related to quadratic approximation.
+

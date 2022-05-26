@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex36prb.pdf
 uid: 9832ec4c-fd8e-d8eb-ff57-12987cad068c
 ---
-None
-
 This resource contains problem statements related to using differentials to study dynamics.
+

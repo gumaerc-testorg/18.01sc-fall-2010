@@ -15,5 +15,3 @@ resourcetype: Image
 title: CHP_secant.jpg
 uid: 7b739fdc-0a8f-b030-2fdb-e037fbaa89a3
 ---
-None
-

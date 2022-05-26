@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex05sol.pdf
 uid: 5014374a-5054-c09b-5204-1b1fe02774ba
 ---
-None
-
 This resource contains solutions for the problem statements related to discontinuity.
+

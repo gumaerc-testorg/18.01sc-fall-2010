@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses61c.pdf
 uid: d9ddb3fc-eb1e-2ced-3dd2-468d2754279c
 ---
-None
-
 This resource contains information about integrals and weighted averages.
+

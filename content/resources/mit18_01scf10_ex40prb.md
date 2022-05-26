@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex40prb.pdf
 uid: 3a605920-f61f-e441-4a84-e6393c68252c
 ---
-None
-
 This resource contains problem statements related to exponential growth and inhibited growth.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex30sol.pdf
 uid: 9b8a2a35-2943-50b3-87e2-4b0d8adfd632
 ---
-None
-
 This resource contains solutions for the problem statements related to optimization problems II.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex68sol.pdf
 uid: 64eaee7a-99c4-48ef-616d-e3f083c487b9
 ---
-None
-
 This resource contains solutions for the problem statements related to trigonometric powers, and completing the square.
+

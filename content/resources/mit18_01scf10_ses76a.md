@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses76a.pdf
 uid: 2516a0cd-d9a1-bb90-e783-36cf11d556fe
 ---
-None
-
 This resource contains informations related to integration by parts.
+

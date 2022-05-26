@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses99a.pdf
 uid: 2fb58393-2438-0703-2b79-05cbd6e8ce42
 ---
-None
-
 This resource contains informations related to taylor's series.
+

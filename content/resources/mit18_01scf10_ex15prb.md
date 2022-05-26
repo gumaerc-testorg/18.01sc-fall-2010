@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex15prb.pdf
 uid: 5194ae00-0d2b-14dc-7a9e-377fc2eff268
 ---
-None
-
 This resource contains problem statements related to derivative of the square root function.
+

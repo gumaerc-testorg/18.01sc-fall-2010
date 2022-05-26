@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex34prb.pdf
 uid: a91bdbc7-b1b9-80bf-109f-e3feb0b42b01
 ---
-None
-
 This resource contains problem statements related to mean value theorem and taylor's theorem.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses37a.pdf
 uid: 77e900e3-6bf3-abd8-51fa-bbb1dd816c09
 ---
-None
-
 This resource contains information about antidervatives.
+

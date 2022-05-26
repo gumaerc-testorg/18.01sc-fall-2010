@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses68b.pdf
 uid: d756b28f-d761-d982-a79b-6f24a34fb2c6
 ---
-None
-
 This resource contains information about integral of sin^n(x) cos^m(x), odd exponents.
+

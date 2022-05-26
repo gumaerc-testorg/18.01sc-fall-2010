@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec03.jpg
 uid: b5eda415-05c0-ac42-d552-7c12b6deb4f1
 ---
-None
-

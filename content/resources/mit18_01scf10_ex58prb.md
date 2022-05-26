@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex58prb.pdf
 uid: 26fd3790-de98-905f-b54a-05f427784e3c
 ---
-None
-
 This resource contains problem statements related to volume of a spheroid.
+

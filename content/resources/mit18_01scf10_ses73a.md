@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses73a.pdf
 uid: fb9139b8-1f46-3eaa-6764-2bcc598c620b
 ---
-None
-
 This resource contains information about completing the square.
+

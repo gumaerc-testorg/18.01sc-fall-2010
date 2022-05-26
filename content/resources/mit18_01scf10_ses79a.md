@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses79a.pdf
 uid: 2e10076b-7745-ad54-a6fe-43a52a7d043c
 ---
-None
-
 This resource contains informations related to surface area.
+

@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec33.jpg
 uid: c37d704d-f50f-cdf2-03ae-525e549f8c49
 ---
-None
-

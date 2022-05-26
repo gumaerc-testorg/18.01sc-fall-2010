@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex02sol.pdf
 uid: bde06f55-dbe7-91c6-4864-9b4b942df999
 ---
-None
-
 This resource contains solutions for the problem statements related to derivatives.
+

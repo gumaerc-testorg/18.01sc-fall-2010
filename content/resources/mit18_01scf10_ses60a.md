@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses60a.pdf
 uid: d47150e0-4af3-0cbc-47b2-51fff57c435c
 ---
-None
-
 This resource contains information about integrals and averages.
+

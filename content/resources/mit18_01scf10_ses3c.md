@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses3c.pdf
 uid: abb7e03c-eca1-4973-11d1-6b409e43676e
 ---
-None
-
 This resource contains information related to serivative as a rate of change.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex54prb.pdf
 uid: 80d5b62b-17fd-e9c9-f6c4-dd9fd704e751
 ---
-None
-
 This resource contains problem statements related to logs and exponents.
+

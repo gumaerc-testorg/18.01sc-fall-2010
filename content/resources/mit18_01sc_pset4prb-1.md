@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset4prb.pdf
 uid: 8c456863-5d5d-f671-ce78-59d2ec6f68b7
 ---
-None
-
 This resource contains problem sets of applications of integration. 
+

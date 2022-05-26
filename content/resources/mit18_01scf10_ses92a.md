@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses92a.pdf
 uid: d0076e85-a103-1280-8e7f-b4b1bad3c6ba
 ---
-None
-
 This resource contains informations related to indefinite integrals and comparison.
+

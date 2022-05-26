@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex09sol.pdf
 uid: b274df23-e6ad-a7c6-65e6-cfe72928b197
 ---
-None
-
 This resource contains solutions for the problem statements related to product rule.
+

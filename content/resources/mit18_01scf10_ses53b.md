@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses53b.pdf
 uid: c8cdad3e-6b8b-128d-19f5-4b884372a8e2
 ---
-None
-
 This resource contains information about new functions from old.
+

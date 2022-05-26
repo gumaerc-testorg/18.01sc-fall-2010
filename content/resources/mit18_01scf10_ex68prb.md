@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex68prb.pdf
 uid: 9c16a5be-38bb-0961-9760-c2467f0b64dc
 ---
-None
-
 This resource contains problem statements related to integral of sin^n(x) cos^m(x) and odd exponents.
+

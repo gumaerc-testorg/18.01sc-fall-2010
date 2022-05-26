@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex72sol.pdf
 uid: 9f237b02-4ea0-1e7c-287f-d426785d87f7
 ---
-None
-
 This resource contains solutions for the problem statements related to trig substitution.
+

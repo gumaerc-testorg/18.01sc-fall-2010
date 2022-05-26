@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses64c.pdf
 uid: d8e6f699-7d2b-7f4a-09f8-23dfcad065cc
 ---
-None
-
 This resource contains information about numerical integration, continued.
+

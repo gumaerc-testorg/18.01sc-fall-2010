@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex69prb.pdf
 uid: a9eb7129-f4d0-36d9-91d9-7f263277ef6b
 ---
-None
-
 This resource contains problem statements related to integral of sin^n(x) cos^m(x) and even exponents.
+

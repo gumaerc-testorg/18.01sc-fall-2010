@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec22.jpg
 uid: c9155da5-0d1b-ed83-655f-ae0d6f08642a
 ---
-None
-

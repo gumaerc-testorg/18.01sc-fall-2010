@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex47prb.pdf
 uid: 0d8492c8-6bd1-ec85-c635-c27381afc54c
 ---
-None
-
 This resource contains problem statements related to definite integrals.
+

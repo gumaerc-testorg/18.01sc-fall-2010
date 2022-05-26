@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses19b.pdf
 uid: 3bc168e2-6c9a-d158-6dc8-20ef1b83c183
 ---
-None
-
 This resource contains information related to limit involving e.
+

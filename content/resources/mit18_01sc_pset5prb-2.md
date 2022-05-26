@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset5prb.pdf
 uid: cfe0b375-ce6c-0d7b-b231-f30e4fa18e44
 ---
-None
-
 This resource contains problem sets of integration techniques. 
+

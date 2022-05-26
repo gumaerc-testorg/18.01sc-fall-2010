@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex14sol.pdf
 uid: df4b202a-5985-5a2a-7bdd-3c4dc44aad5c
 ---
-None
-
 This resource contains solutions for the problem statements related to examples of implicit differentiation.
+

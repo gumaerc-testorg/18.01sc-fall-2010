@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex33prb.pdf
 uid: 2947cca0-729b-9f04-26cd-848feaefb5e1
 ---
-None
-
 This resource contains problem statements related to cube root of x.
+

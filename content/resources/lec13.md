@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec13.jpg
 uid: 4d1e808a-9591-cb46-347e-9cce09223066
 ---
-None
-

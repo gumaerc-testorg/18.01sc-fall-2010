@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset5sol.pdf
 uid: d4e4321a-b77e-edd1-7d29-e30bea7d0965
 ---
-None
-
 This resource contains solutions of integration techniques problems. 
+

@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec27.jpg
 uid: 6fca20f3-8312-e8b7-f011-928f40f96265
 ---
-None
-

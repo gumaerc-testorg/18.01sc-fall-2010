@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex97prb.pdf
 uid: 5fb2a936-5a80-8d0d-f900-662aabb63fe5
 ---
-None
-
 This resource contains problem statements related to power series.
+

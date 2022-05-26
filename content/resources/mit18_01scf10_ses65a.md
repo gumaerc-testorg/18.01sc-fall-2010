@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses65a.pdf
 uid: 8f010974-972c-100f-3627-d4d7d55aca35
 ---
-None
-
 This resource contains information about bell curve, conclusion.
+

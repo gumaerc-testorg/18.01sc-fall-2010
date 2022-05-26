@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses17b.pdf
 uid: b946981e-19f7-54ed-2ab5-90cb7f9253c8
 ---
-None
-
 This resource contains information related to the exponential functions, its derivative and inverse.
+

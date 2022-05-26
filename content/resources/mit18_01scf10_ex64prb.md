@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex64prb.pdf
 uid: f15dde39-fa9c-ddb4-0ade-49bdf89094fc
 ---
-None
-
 This resource contains problem statements related to Simpson's rule for normal distribution.
+

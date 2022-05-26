@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex39prb.pdf
 uid: f84f0433-0523-2520-221e-776274e80597
 ---
-None
-
 This resource contains problem statements related to differential equations.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses72b.pdf
 uid: b38610b6-2565-b666-eca1-80c95f751f4f
 ---
-None
-
 This resource contains information about trig substitution.
+

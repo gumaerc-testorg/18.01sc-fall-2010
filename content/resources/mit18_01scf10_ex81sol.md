@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex81sol.pdf
 uid: 67baf73b-6ba9-ae11-a967-b3c792897b38
 ---
-None
-
 This resource contains the solutions for the problems related to the path of a falling object.
+

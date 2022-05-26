@@ -12,6 +12,5 @@ resourcetype: Document
 title: hiMIT18_01SCF10_Ses34b.pdf
 uid: 70b03126-d02c-df5b-87bc-59e6e515bc73
 ---
-None
-
 This resource contains information about introduction to the mean.
+

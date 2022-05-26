@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec02.jpg
 uid: 009c7281-e120-705c-a85b-76903cd67726
 ---
-None
-

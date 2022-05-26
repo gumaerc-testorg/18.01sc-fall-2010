@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses49a.pdf
 uid: e9c3e784-35d5-5e8c-4c54-7331786e36f0
 ---
-None
-
 This resource contains information about applications of the fundamental theorem of calculus.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex57prb.pdf
 uid: d06918b9-18ec-707d-6923-f240d8d9803e
 ---
-None
-
 This resource contains problem statements related to revolution about x-axis.
+

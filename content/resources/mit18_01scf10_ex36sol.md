@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex36sol.pdf
 uid: 1013dffc-f4b0-57f9-d636-6960bc648f87
 ---
-None
-
 This resource contains solutions for the problem statements related to differentials.
+

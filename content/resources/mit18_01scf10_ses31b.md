@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses31b.pdf
 uid: e56891a3-f066-0f93-860a-cb5828226adc
 ---
-None
-
 This resource contains information about related rates.
+

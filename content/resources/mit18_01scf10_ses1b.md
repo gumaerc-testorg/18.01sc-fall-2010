@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses1b.pdf
 uid: acf917af-6fb8-8659-fe64-f36e2b7c5d57
 ---
-None
-
 New file Upload
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses11b.pdf
 uid: cbb37b9d-5d70-83c3-e48b-9db01e32fb8c
 ---
-None
-
 This resource contains information related to chain rule.
+

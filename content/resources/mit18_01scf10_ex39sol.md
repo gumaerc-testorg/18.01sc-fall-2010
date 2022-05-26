@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex39sol.pdf
 uid: 75a33e09-9a23-48a6-b072-67b0794a57d3
 ---
-None
-
 This resource contains solutions for the problem statements related to differential equations.
+

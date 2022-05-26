@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec04.jpg
 uid: 29f3d9af-7b30-073a-4786-56282d0a2d30
 ---
-None
-

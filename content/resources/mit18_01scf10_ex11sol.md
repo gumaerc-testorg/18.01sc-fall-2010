@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex11sol.pdf
 uid: 185582db-40ef-98dd-7c70-eab7736ae70f
 ---
-None
-
 This resource contains solutions for the problem statements related to chain rule.
+

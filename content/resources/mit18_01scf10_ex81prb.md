@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex81prb.pdf
 uid: 73760153-dca7-b12c-949d-77f07f6140ca
 ---
-None
-
 This resource contains problem statements related to parametrized curves.
+

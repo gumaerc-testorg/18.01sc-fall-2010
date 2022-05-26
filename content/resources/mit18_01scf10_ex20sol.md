@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex20sol.pdf
 uid: ba645270-96fa-7e01-5c04-3cba55982c8b
 ---
-None
-
 This resource contains solutions for the problem statements related to hyperbolic functions.
+

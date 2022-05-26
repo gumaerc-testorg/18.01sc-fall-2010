@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec14.jpg
 uid: d163bb93-a6e2-ede2-f0cf-edeb766ba7d2
 ---
-None
-

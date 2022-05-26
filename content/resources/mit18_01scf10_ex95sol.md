@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex95sol.pdf
 uid: deb763be-346e-b1b8-42a1-88b4d453149e
 ---
-None
-
 This resource contains the solutions for the problems related to the using the ratio test.
+

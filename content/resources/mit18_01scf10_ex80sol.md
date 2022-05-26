@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex80sol.pdf
 uid: 15f8e387-86ae-3b73-8375-debb112ee660
 ---
-None
-
 This resource contains the solutions for the problems related to the exploring a parametric curve.
+

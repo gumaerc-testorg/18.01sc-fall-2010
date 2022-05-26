@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex14prb.pdf
 uid: 7a7d3f0e-340d-dff6-b31f-08134f9ef302
 ---
-None
-
 This resource contains problem statements related to the implicit differentiation and the chain rule.
+

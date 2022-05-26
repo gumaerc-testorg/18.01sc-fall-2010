@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses45b.pdf
 uid: a76b14bf-67d6-0914-d0ec-b38e9d32cfb3
 ---
-None
-
 This resource contains information about some easy integrals.
+

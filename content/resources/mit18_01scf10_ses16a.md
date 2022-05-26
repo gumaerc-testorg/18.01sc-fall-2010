@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses16a.pdf
 uid: b24b2d45-5e45-059b-e6ba-7e2efb4d6529
 ---
-None
-
 this resource contains information related to the derivative of a^x.
+

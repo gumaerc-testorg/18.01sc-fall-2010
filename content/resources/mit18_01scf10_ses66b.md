@@ -12,5 +12,3 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses66b.pdf
 uid: 21d83f83-9bd5-0c9c-c132-f77d2bb4b093
 ---
-None
-

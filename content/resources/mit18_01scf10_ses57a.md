@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses57a.pdf
 uid: db954590-72c8-0eb2-d2cb-db18ec0824fb
 ---
-None
-
 This resource contains information about how to calculate volumes.
+

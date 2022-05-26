@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex69sol.pdf
 uid: 3d8a4f06-7f9f-164a-86bc-a621dbcf11c2
 ---
-None
-
 This resource contains solutions for the problem statements related to inetgral of sin^n(x) and even exponents.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses78c.pdf
 uid: 7520a365-f27c-d004-4501-2bd383d7b9ed
 ---
-None
-
 This resource contains informations related to computing the length of a curve.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses95b.pdf
 uid: dd2325e1-d0a4-86ca-7e65-b7e13c674595
 ---
-None
-
 This resource contains informations related to series comparison.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex45sol.pdf
 uid: 244ff558-563a-c817-868a-5d1b4494c234
 ---
-None
-
 This resource contains solutions for the problem statements related to easy integrals.
+

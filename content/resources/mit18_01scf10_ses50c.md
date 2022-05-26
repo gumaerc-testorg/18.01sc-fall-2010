@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses50c.pdf
 uid: 714de9d1-8a95-a751-ff79-7baa17fe6d17
 ---
-None
-
 This resource contains information about combining the fundamental theorem and the mean value theorem.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses8d.pdf
 uid: cdf3c677-7477-3f33-450e-cbdc6f79d579
 ---
-None
-
 This resource contains information related to limits of sine and cosine.
+

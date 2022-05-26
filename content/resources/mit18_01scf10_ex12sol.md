@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex12sol.pdf
 uid: c8a0089e-4888-f8d7-bdef-0fdd920c3760
 ---
-None
-
 This resource contains solutions for the problem statements related to higher derivatives.
+

@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec32.jpg
 uid: 21aa699e-04a7-c957-6bb2-2daaf74dd9f1
 ---
-None
-

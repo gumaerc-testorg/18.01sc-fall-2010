@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex91sol.pdf
 uid: 07163bb0-b7ba-935b-72ae-14d3d0850ed2
 ---
-None
-
 This resource contains the solutions for the problems related to the Integrating 1/(5x+2)^2 from 1 to inﬁnity. 
+

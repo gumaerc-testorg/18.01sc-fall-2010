@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex45prb.pdf
 uid: b09a9ab0-e113-c68d-30dd-7be9812fec19
 ---
-None
-
 This resource contains problem statements related to integral of |x|.
+

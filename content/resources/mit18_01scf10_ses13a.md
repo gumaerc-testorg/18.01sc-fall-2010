@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses13a.pdf
 uid: c87d3691-9689-9c8a-3171-084e513c4c21
 ---
-None
-
 This resource contains information related to implicit differentiation.
+

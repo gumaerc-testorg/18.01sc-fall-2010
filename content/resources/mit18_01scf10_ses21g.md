@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses21g.pdf
 uid: b3146a02-88a1-571b-1f35-b92c20449237
 ---
-None
-
 This resource contains continuation of exam 1 review. 
+

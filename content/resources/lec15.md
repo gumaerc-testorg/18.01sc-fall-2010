@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec15.jpg
 uid: 2e81f162-1288-40ee-c8ba-503a0a1d6276
 ---
-None
-

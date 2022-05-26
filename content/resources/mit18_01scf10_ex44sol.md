@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex44sol.pdf
 uid: 0bc1cc1e-b12d-c569-01b8-0073959a100d
 ---
-None
-
 This resource contains solutions for the problem statements related to adding areas of rectangles.
+

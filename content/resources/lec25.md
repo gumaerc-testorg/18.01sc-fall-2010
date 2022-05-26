@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec25.jpg
 uid: 6ec6f572-68c0-140d-1479-0876ca96fcf2
 ---
-None
-

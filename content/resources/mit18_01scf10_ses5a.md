@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses5a.pdf
 uid: e9959b5c-91eb-8602-638d-940b3b20ab27
 ---
-None
-
 This resource contains information related to discontinuity.
+

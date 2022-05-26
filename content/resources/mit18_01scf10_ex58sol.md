@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex58sol.pdf
 uid: f7e181ed-0aa0-984e-be78-f91dbd6915ca
 ---
-None
-
 This resource contains solutions for the problem statements related to volume of a sphere, revolving about x-axis.
+

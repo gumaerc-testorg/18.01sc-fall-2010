@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses21a.pdf
 uid: 22a520d8-a1c3-15ad-85c0-36d88678c826
 ---
-None
-
 This resource contains information related to differentiation formulas. 
+

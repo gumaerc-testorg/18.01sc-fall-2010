@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex30prb.pdf
 uid: 8f30d27e-4838-ab76-7b4f-9c4a5538df18
 ---
-None
-
 This resource contains problem statements related to can design.
+

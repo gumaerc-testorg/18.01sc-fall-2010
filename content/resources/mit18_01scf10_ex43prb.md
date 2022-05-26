@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex43prb.pdf
 uid: e39753c4-8220-e844-b2fb-f59a6ca3c284
 ---
-None
-
 This resource contains problem statements related to integration intuition.
+

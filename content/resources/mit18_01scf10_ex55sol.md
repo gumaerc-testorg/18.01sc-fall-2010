@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex55sol.pdf
 uid: a1e1c55e-6e45-fe9e-006f-ccdf88cfe6dc
 ---
-None
-
 This resource contains solutions for the problem statements related to second fundamental theorem.
+

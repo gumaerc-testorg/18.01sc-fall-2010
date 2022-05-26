@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex19aprb.pdf
 uid: cd0bdfcd-fd8b-d1ab-482e-dfc795431c30
 ---
-None
-
 This resource contains problem statements related to the evaluating an interesting limit.
+

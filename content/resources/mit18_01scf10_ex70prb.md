@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex70prb.pdf
 uid: 8b37b56d-2f59-ee41-cc63-f9e0410c4831
 ---
-None
-
 This resource contains problem statements related to alternate solutions.
+

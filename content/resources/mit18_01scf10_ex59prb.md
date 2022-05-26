@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex59prb.pdf
 uid: d415dfc3-a3d9-0d26-00be-6042a65b45c4
 ---
-None
-
 This resource contains problem statements related to volume of revolution via washers.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex84sol.pdf
 uid: 407390a1-de98-8f80-074f-8f5565b3749c
 ---
-None
-
 This resource contains the solutions for the problems related to the lemniscate.
+

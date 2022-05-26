@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses87a.pdf
 uid: 1272ef66-8d6d-89eb-a3a6-c00286240acb
 ---
-None
-
 This resource contains informations related to l'hospital's rule.
+

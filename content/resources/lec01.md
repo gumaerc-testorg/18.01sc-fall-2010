@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec01.jpg
 uid: 58f14f93-bc3b-108a-8146-24e35dd8e8d5
 ---
-None
-

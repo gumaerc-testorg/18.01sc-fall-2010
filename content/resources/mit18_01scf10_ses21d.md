@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses21d.pdf
 uid: 00aa4665-e058-4fac-f6ec-2efc2a4dd83e
 ---
-None
-
 This resource contains information related to derivative of ln(sec x)).
+

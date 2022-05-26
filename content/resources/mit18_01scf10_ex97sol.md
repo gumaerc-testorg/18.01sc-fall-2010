@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex97sol.pdf
 uid: ce95c611-1e8e-778a-8105-153518663d99
 ---
-None
-
 This resource contains the solutions for the problems related to the finding the radius of convergence.
+

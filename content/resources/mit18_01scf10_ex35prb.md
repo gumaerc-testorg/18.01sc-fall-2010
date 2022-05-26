@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex35prb.pdf
 uid: d2fe64df-2bcc-4926-9e84-34b79e37acaa
 ---
-None
-
 this resource contains problem statements related to mean value theorem.
+

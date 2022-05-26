@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses21f.pdf
 uid: 063490be-6ab8-c2d6-367d-57dfedb3afe5
 ---
-None
-
 This resource contains information related to derivative of e^xtan^-1 x. 
+

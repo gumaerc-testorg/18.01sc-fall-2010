@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses96b.pdf
 uid: 2f7f68a9-1f87-18c6-c213-641b6cae94b3
 ---
-None
-
 This resource contains informations related to Introduction to stacking blocks.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses77b.pdf
 uid: 0e7db8a3-1431-750b-188e-8750d34ef8d4
 ---
-None
-
 This resource contains informations related to volume of a wine glass.
+

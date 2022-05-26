@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset1prb.pdf
 uid: 1557acc7-f3cd-5d15-38b7-1fe77bcf9ec0
 ---
-None
-
 This resource contains information related to differentiation. 
+

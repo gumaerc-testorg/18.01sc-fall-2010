@@ -12,5 +12,3 @@ resourcetype: Document
 title: MIT18_01SCF10_ex74sol.pdf
 uid: b1dc48ac-3e57-67fc-71ca-4d887ae9cbbc
 ---
-None
-

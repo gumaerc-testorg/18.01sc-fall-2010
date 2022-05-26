@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex63prb.pdf
 uid: aa8d3256-e1dc-70a7-a1fb-5b7734d90ab6
 ---
-None
-
 This resource contains problem statements related to numerical integration.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex55prb.pdf
 uid: 48a084d9-9c58-1864-5a82-9e3c49c356ed
 ---
-None
-
 This resource contains problem statements related to probability function.
+

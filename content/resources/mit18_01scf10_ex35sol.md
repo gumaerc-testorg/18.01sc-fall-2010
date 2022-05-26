@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex35sol.pdf
 uid: 0779a559-464b-16a0-18a0-508a08449470
 ---
-None
-
 This resource contains solutions for the problem statements related to using mean value theorem.
+

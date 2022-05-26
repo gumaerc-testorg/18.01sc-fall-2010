@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses21c.pdf
 uid: f8e05f6f-6d7f-75b5-4b6d-990eaa667901
 ---
-None
-
 This resource contains information related to derivative of secant. 
+

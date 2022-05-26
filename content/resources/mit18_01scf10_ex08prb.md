@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex08prb.pdf
 uid: 915b9b76-6e04-27c2-af59-1b286f4e37ff
 ---
-None
-
 This resource contains problem statements related to the function |x|.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex49sol.pdf
 uid: 4c5b3493-101f-ac5c-2cfb-7d47deb10514
 ---
-None
-
 This resource contains solutions for the problem statements related to applications of the fundamental theorem of calculus.
+

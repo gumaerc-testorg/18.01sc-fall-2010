@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses6b.pdf
 uid: 19d6ff99-de1d-78c9-a841-6717c6ef6116
 ---
-None
-
 This resource contains information related to calculating derivatives.
+

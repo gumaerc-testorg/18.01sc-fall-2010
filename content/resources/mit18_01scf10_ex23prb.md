@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex23prb.pdf
 uid: f94c79bc-e97c-8292-a73f-4a678200d80e
 ---
-None
-
 This resource contains problem statements related to linear approximation to calculator computations.
+

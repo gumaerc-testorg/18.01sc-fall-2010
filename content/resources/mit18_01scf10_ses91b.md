@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses91b.pdf
 uid: 367637b0-b2bd-20a7-4315-ce8b233ef4e3
 ---
-None
-
 This resource contains informations related to improper integrals.
+

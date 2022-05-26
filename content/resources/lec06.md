@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec06.jpg
 uid: 3a99c48b-9975-9330-100c-d6c1ae21ec62
 ---
-None
-

@@ -9,5 +9,3 @@ resourcetype: Other
 title: 3play caption file
 uid: 8550af35-a960-5ae3-8bb5-abf367bd85a2
 ---
-None
-

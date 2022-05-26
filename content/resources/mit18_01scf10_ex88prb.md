@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex88prb.pdf
 uid: e39e92db-dd0c-0942-f2ff-a428076342ea
 ---
-None
-
 This resource contains problem statements related to L'hospital's rule.
+

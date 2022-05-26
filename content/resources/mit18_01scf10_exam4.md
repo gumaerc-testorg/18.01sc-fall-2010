@@ -12,5 +12,3 @@ resourcetype: Document
 title: MIT18_01SCF10_exam4.pdf
 uid: b8d6291f-6109-adf0-a4b4-cc623ef5f213
 ---
-None
-

@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec31.jpg
 uid: ad876c12-0cb6-79ff-4431-3947607b9c0c
 ---
-None
-

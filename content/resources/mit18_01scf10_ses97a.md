@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses97a.pdf
 uid: d6accb47-e5fd-104d-2d51-2b08a8f60b6e
 ---
-None
-
 This resource contains informations related to operations on power series.
+

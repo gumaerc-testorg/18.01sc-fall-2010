@@ -12,5 +12,3 @@ resourcetype: Document
 title: lec9ses2ex1-linearprod.pdf
 uid: f9559e03-93ec-511d-d940-23a5ea8b3aad
 ---
-None
-

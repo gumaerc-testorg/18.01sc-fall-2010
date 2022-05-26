@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses9a.pdf
 uid: b248c90c-b762-0c87-3e17-81f41b217049
 ---
-None
-
 This resource contains information related to product rule.
+

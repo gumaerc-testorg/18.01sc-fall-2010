@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex20prb.pdf
 uid: 19beee56-94df-5686-f971-de3c1bc4abec
 ---
-None
-
 This resource contains problem statements related to hyperbolic angle sum formula.
+

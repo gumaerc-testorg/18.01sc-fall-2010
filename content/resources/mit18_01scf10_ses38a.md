@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses38a.pdf
 uid: 4ae5ff13-fdcb-547a-5b8e-184f69f83043
 ---
-None
-
 This resource contains information about integration by substitution.
+

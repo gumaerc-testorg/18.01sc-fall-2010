@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_10SCF10_Ses2d.pdf
 uid: b7a038cf-8441-7db9-072b-4ad0f36f75ba
 ---
-None
-
 This resource contains examples of derivatives. 
+

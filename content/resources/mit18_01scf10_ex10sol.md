@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex10sol.pdf
 uid: 52f9d8dc-2dd6-79f9-b04a-ad2d581ac7b7
 ---
-None
-
 This resource contains solutions for the problem statements related to quotient rule.
+

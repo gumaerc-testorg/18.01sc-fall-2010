@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses18a.pdf
 uid: 149902aa-1b5f-caed-5a05-8e1d318efa58
 ---
-None
-
 Tis resource contains information related to derivatives of other exponential functions.
+

@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec09.jpg
 uid: 581cba00-3af1-3ea8-a589-4a3e8c29f5c8
 ---
-None
-

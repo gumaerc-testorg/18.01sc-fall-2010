@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec29.jpg
 uid: 7a17dd5c-338f-1ac0-7b53-0c9af7466eda
 ---
-None
-

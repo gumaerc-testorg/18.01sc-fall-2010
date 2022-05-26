@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses4a.pdf
 uid: 7055d8a3-31cd-9aef-8519-3146a52943b2
 ---
-None
-
 This resource contains information related to limits.
+

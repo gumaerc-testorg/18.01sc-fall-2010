@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses43a.pdf
 uid: afc9cd2d-3f0b-87d0-a313-b3188013a102
 ---
-None
-
 This resource contains information about definite integrals.
+

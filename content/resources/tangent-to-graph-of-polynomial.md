@@ -23,5 +23,3 @@ video_files:
 video_metadata:
   youtube_id: rfx1x-2dwSI
 ---
-None
-

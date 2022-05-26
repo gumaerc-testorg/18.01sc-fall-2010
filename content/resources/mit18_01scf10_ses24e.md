@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses24e.pdf
 uid: 6bfd76aa-f26c-1e40-c414-19010dfba1ff
 ---
-None
-
 This resource contains information related to examples of linear approximation.
+

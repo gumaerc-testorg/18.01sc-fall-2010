@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset4sol.pdf
 uid: 4a247b06-5570-1dfe-bcbd-4e235c16c726
 ---
-None
-
 This resource contains solutions of applications of integration problems. 
+

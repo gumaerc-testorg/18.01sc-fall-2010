@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex87sol.pdf
 uid: 7d8a36ca-15f9-a679-1ae1-f6a08d815f01
 ---
-None
-
 This resource contains the solutions for the problems related to the L'Hospital's Rule.
+

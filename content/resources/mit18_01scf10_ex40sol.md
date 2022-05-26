@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex40sol.pdf
 uid: b6a7ab20-c45d-4272-9cf5-11a6c85943de
 ---
-None
-
 This resource contains solutions for the problem statements related to separation of variables.
+

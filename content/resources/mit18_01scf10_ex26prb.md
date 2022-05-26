@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex26prb.pdf
 uid: dfcfe7b2-7c37-3626-da08-816b84885cdc
 ---
-None
-
 This resource contains problem statements related to finding a formula for the best degree n approximation.
+

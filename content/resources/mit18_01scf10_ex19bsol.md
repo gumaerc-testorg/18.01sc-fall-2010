@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex19bsol.pdf
 uid: 8988d219-f9ea-21f0-8184-4df41b649e9e
 ---
-None
-
 This resource contains solutions for the problem statements related to interesting limit involving e.
+

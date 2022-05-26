@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses20a.pdf
 uid: ce3200a4-eb0a-928b-f282-ed6bb833ae27
 ---
-None
-
 This resource contains information related to hyperbolic trig functions.
+

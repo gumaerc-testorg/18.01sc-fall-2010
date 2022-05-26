@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex50sol.pdf
 uid: d57f59c5-0b7f-e8ea-e95e-25e0f64a44d1
 ---
-None
-
 This resource contains solutions for the problem statements related to combining theorem and the mean value theorem.
+

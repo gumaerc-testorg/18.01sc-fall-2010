@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex09prb.pdf
 uid: 83e5279a-611d-9d3f-5231-4a5176c34df8
 ---
-None
-
 This resource contains problem statements related to piecewise polynomial.
+

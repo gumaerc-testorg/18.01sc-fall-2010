@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses55a.pdf
 uid: 37ea67d3-369c-94db-84ff-2586ead82c37
 ---
-None
-
 This resource contains information about creating new functions using the second fundamental theorem.
+

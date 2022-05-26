@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses90a.pdf
 uid: a836267e-97f4-50ae-2bc7-588b73a9ffc6
 ---
-None
-
 This resource contains informations related to advanced examples of l'hospital's rule.
+

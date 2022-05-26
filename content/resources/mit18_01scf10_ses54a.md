@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses54a.pdf
 uid: 911e69c6-5921-74f6-8657-67e3db049f35
 ---
-None
-
 This resource contains information about The second fundamental theorm and in (x).
+

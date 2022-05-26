@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex73prb.pdf
 uid: b172c1e0-a629-5d5e-3487-052c19135caa
 ---
-None
-
 This resource contains problem statements related to completing the square.
+

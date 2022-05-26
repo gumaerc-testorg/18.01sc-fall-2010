@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses52b.pdf
 uid: e5e4813a-c3a0-b21f-6153-2842c7ce8a8c
 ---
-None
-
 This resource contains information about proving the fundamental theorem of calculus.
+

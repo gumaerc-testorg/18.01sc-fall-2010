@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex79sol.pdf
 uid: 95219df9-dd0e-cab0-4b11-70fd84348fc1
 ---
-None
-
 This resource contains solutions for the problem statements related to surface area.
+

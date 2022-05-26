@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses27a.pdf
 uid: 17daff6a-2631-74df-a0a1-4b73a4d36d91
 ---
-None
-
 This resource contains information about sketching graphs I - polynomials and rational functions.
+

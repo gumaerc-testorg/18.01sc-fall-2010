@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses30a.pdf
 uid: cfe64290-26ae-441c-61a0-97904ccda0cb
 ---
-None
-
 This resource contains information about optimization problems II.
+

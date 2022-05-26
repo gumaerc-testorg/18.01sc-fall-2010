@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses81a.pdf
 uid: f6b80bf9-2372-79fe-2b9d-d35275ad8f74
 ---
-None
-
 This resource contains informations related to examples using parametrized curves.
+

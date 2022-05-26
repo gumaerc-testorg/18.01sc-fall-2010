@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses59a.pdf
 uid: f0b19384-7ca8-f817-a239-ad783b26db15
 ---
-None
-
 This resource contains information about volume of a parabaloid, revolving about y-axis.
+

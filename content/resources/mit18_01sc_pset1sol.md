@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset1sol.pdf
 uid: bc48678e-f179-556c-c639-b6b28e42d81c
 ---
-None
-
 This resource contains solutions to differentiation. 
+

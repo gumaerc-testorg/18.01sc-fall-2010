@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex46prb.pdf
 uid: e79beab6-8e0b-64a7-b4bd-5ae06ee74313
 ---
-None
-
 This resource contains problem statements related to Riemann sum practice.
+

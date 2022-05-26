@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex43sol.pdf
 uid: e0806c4c-e8d4-9089-51ea-f15d0f7832cf
 ---
-None
-
 This resource contains solutions for the problem statements related to definite integrals,
+

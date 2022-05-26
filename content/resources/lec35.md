@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec35.jpg
 uid: 55c72ff3-854c-efed-0f4f-4406ca7aa7e0
 ---
-None
-

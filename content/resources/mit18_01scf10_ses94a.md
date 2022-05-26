@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses94a.pdf
 uid: 9191e0b5-5ca8-bdd0-1c89-77accbb6fb97
 ---
-None
-
 This resource contains informations related to infinite series.
+

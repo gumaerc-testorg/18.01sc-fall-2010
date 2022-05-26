@@ -12,5 +12,3 @@ resourcetype: Other
 title: Daimp.jar
 uid: fb921d37-9bc2-ce77-8fdf-b143ad0c0dec
 ---
-None
-

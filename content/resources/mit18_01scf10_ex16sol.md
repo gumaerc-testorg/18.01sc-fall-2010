@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex16sol.pdf
 uid: 41a61f85-8e06-6ddc-b402-f34c0e4697af
 ---
-None
-
 This resource contains solutions for the problem statements related to the deriative of a^x.
+

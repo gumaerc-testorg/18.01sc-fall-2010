@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses48c.pdf
 uid: 8237b6e3-2924-0fcc-89f2-dc931bf41e14
 ---
-None
-
 This resource contains information about the fundamental theorem of calculus.
+

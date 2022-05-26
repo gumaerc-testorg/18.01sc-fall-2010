@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec07.jpg
 uid: baf60754-691c-7d20-8c3d-126904a1702b
 ---
-None
-

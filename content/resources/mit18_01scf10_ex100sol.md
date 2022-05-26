@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex100sol.pdf
 uid: e5f42993-78ee-8748-4d49-640281ca1828
 ---
-None
-
 This resource contains the solutions for the problems related to the operations on power series and taylor series.
+

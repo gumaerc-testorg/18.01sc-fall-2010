@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses33a.pdf
 uid: 40bc34f4-471c-7c81-3910-d7e006b28919
 ---
-None
-
 This resource contains information about newton's method.
+

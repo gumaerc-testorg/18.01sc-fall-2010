@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec21.jpg
 uid: 384e4ad3-29e2-f8c7-f23c-bb24b5b7e076
 ---
-None
-

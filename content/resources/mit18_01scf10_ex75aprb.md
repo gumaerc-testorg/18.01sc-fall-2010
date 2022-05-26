@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex75aprb.pdf
 uid: db74068e-2123-0555-7bce-c0edaf1a313b
 ---
-None
-
 This resource contains problem statements related to advanced partial fractions.
+

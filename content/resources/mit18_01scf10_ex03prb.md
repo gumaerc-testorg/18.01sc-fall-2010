@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex03prb.pdf
 uid: 1c60cf64-42dc-bf9d-6bfe-b939127f430e
 ---
-None
-
 This resource contains problem statements related to checking account balances.
+

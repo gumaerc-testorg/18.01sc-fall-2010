@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses23d.pdf
 uid: 5b82e4d8-781c-e4a1-88cc-5a88e2cf4c07
 ---
-None
-
 This resource contains information related to linear approximation.
+

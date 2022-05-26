@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex37sol.pdf
 uid: f51f271e-3252-a71b-8d69-8c3457f39c8e
 ---
-None
-
 This resource contains solutions for the problem statements related to antiderivatives.
+

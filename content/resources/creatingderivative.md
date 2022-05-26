@@ -12,5 +12,3 @@ resourcetype: Other
 title: CreatingDerivative.jar
 uid: aec521b6-e664-d086-06a5-f8043b56d01f
 ---
-None
-

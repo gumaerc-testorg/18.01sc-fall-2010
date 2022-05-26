@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses3b.pdf
 uid: 19fa7a24-c444-7562-1835-523f84a3761b
 ---
-None
-
 this resource contains information related to derivate as a rate of change.
+

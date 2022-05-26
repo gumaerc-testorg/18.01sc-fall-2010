@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex92sol.pdf
 uid: d6bdcc71-64b5-4c3e-8416-5f05a34cdc60
 ---
-None
-
 This resource contains the solutions for the problems related to the conﬁrming an integral converges.
+

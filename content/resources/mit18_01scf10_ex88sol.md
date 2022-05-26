@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex88sol.pdf
 uid: 30e0d666-6463-5459-3044-bb9e2349bd02
 ---
-None
-
 This resource contains the solutions for the problems related to the rational expressions.
+

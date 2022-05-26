@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec23.jpg
 uid: e0770e20-ce79-0b63-59ed-e1f4abc7096b
 ---
-None
-

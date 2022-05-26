@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses8a.pdf
 uid: fecace15-f606-0acc-444d-d977ee45abb0
 ---
-None
-
 This resource contains information related to sine and cosine.
+

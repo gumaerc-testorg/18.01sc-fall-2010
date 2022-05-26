@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex05prb.pdf
 uid: a1e0d052-dd84-5914-254b-ffa2686b3fa5
 ---
-None
-
 This resource contains problem statements related to limits and discontinuity.
+

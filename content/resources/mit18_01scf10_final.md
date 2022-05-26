@@ -12,6 +12,5 @@ resourcetype: Document
 title: 18.01SC Final Exam
 uid: 93c7107d-3349-0a89-2fdf-426e5033062e
 ---
-None
-
 This resource contains problem statements of final exam.
+

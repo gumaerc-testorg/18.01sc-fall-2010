@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec12.jpg
 uid: b5b8f011-f9d6-d445-da16-1f00e58f9d5a
 ---
-None
-

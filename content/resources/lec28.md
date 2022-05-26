@@ -16,5 +16,3 @@ resourcetype: Image
 title: lec28.jpg
 uid: dc321976-a5a0-be09-b6d5-6ffb38b419aa
 ---
-None
-

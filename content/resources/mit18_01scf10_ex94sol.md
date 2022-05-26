@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex94sol.pdf
 uid: 63683785-ad83-4a6a-8b6d-cb66fcee9066
 ---
-None
-
 This resource contains the solutions for the problems related to the summing the geometric series.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex91prb.pdf
 uid: a66fcfeb-7409-639c-6cce-6ad67831c25c
 ---
-None
-
 This resource contains problem statements related to improper integrals.
+

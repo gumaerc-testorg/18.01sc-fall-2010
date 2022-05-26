@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses28a.pdf
 uid: 04248907-c72e-201f-7e64-41e43127d34f
 ---
-None
-
 This resource contains information about sketching graphs II - general strategies.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex31prb.pdf
 uid: f10b7a01-6835-6ed2-b47d-9f64f4d33ad1
 ---
-None
-
 This resource contains problem statements related to solving an optimization problem using implicit differentiation.
+

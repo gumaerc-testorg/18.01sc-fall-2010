@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses80b.pdf
 uid: 07a04541-2b6c-1539-c2d0-c4a757a8c964
 ---
-None
-
 This resource contains informations related to parametric curves.
+

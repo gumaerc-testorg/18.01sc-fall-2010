@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex76prb.pdf
 uid: f3ce76b6-9d57-5ae6-b990-3e57a0459f79
 ---
-None
-
 This resource contains problem statements related to integration by parts.
+

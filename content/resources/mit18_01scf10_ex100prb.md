@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex100prb.pdf
 uid: ff9bfeeb-6e76-2bcf-c5e5-4ce32ee69b7c
 ---
-None
-
 This resource contains problem statements related to operations on power series.
+

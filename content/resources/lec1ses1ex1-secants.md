@@ -12,5 +12,3 @@ resourcetype: Document
 title: lec1ses1ex1-secants.pdf
 uid: 68a59e6c-2e77-7ee2-9a92-36d54f779a64
 ---
-None
-

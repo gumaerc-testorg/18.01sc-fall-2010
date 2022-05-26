@@ -23,5 +23,3 @@ video_files:
 video_metadata:
   youtube_id: G_HS1Dan_x4
 ---
-None
-

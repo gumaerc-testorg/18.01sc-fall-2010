@@ -23,5 +23,3 @@ video_files:
 video_metadata:
   youtube_id: aar099Xh5W4
 ---
-None
-

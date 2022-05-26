@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex71sol.pdf
 uid: c05c0517-2bf0-f754-3b3c-2daeaf308521
 ---
-None
-
 This resource contains solutions related to integrals involving secant, cosecant and cotangent.
+

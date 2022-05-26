@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex79prb.pdf
 uid: 595db913-9d7b-8372-fa33-916b4c02bbce
 ---
-None
-
 This resource contains problem statements related surface area.
+

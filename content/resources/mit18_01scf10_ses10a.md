@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses10a.pdf
 uid: 709f6672-888f-18e2-2656-ca8700218cb6
 ---
-None
-
 This resource contains information related to quotient rule.
+

@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SC_pset2prb.pdf
 uid: 9ed0d442-d259-90a9-8c1c-770ad331a17a
 ---
-None
-
 This resource contains problem sets of applications of differentiation. 
+

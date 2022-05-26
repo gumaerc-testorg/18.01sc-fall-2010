@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex28prb.pdf
 uid: ac72acef-5944-940f-c75a-76ca8bee16a9
 ---
-None
-
 This resource contains problem statements related to graph features.
+

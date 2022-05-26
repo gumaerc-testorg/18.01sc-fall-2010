@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses56a.pdf
 uid: 01d3a640-ba2b-ee59-aabe-c8a6e0a8361d
 ---
-None
-
 This resource contains information about geometric interpretation of definite integrals.
+

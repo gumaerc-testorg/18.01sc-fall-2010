@@ -12,6 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses26a.pdf
 uid: 9234711f-a8f7-df3d-42d5-9fc652f0885f
 ---
-None
-
 This resource contains information about using quadratic approximations.
+
