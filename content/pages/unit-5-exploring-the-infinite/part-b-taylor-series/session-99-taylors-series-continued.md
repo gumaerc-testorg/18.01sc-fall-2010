@@ -15,7 +15,7 @@ uid: 9714534f-bc62-1758-9e4a-b69f5ad147a4
 
 In this session we discuss convergence of an alternating Taylor's series and calculate a few more examples.
 
-test
+test 2
 
 ## Lecture Video and Notes
 
