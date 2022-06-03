@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2851'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 98: Taylor''s Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2609'
 title: 'Clip 3: Taylor''s Formula Examples'
 uid: 287ec0ab-827f-d269-ab1a-68863a8abd4d
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: wOHrNt9ScYs
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses98c)
+» {{% resource_link d46cad6f-fad6-8cd6-70c7-be2ad861f8d1 "Accompanying Notes (PDF)" %}}
 
-From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

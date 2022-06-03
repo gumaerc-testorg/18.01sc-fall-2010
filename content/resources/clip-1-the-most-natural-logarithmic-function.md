@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '854'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '601'
 title: 'Clip 1: The Most Natural Logarithmic Function'
 uid: 0e3d9342-2bde-13c6-7d31-5aff15ef61d9
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses17d)
+» {{% resource_link 61aaf938-aa0d-a3a7-c2a9-75deebd5bbf4 "Accompanying Notes (PDF)" %}}
 
-From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

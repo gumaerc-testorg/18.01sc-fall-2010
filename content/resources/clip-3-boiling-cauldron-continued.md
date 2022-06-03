@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2253'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 61: Integrals and Weighted Averages'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1375'
 title: 'Clip 3: Boiling Cauldron, Continued'
 uid: 95ffa0f7-25d9-000d-d2ca-1c936d63e896
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: R9a_NHXrBcg
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses61c)
+» {{% resource_link d9ddb3fc-eb1e-2ced-3dd2-468d2754279c "Accompanying Notes (PDF)" %}}
 
-From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 23 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

@@ -9,7 +9,7 @@ title: 'Session 19: An Interesting Limit Involving e'
 uid: 60442492-7fbe-5ea4-76fd-72662493105b
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions) »
+« {{% resource_link 0cf2fa75-aeb6-82db-f14c-169c98cd1a15 "Previous" %}} | {{% resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Next" %}} »
 
 Overview
 --------
@@ -23,19 +23,19 @@ Lecture Video and Notes
 
 [Clip 1: Value of e]({{< baseurl >}}/resources/clip-1-value-of-e)
 
-[Clip 2: Value of e, Revisited]({{< baseurl >}}/resources/clip-2-value-of-e-revisited)
+{{% resource_link ca34ad24-29c5-06af-a9ce-c1a783853611 "Clip 2: Value of e, Revisited" %}}
 
 Worked Examples
 ---------------
 
 Evaluating an Interesting Limit
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex19aprb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex19asol)
+*   {{% resource_link cd0bdfcd-fd8b-d1ab-482e-dfc795431c30 "Problem (PDF)" %}}
+*   {{% resource_link a6e9cc2a-2e08-6191-f7ef-6311d933431b "Solution (PDF)" %}}
 
 Evaluating Interest Using the Limit
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex19bprb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex19bsol)
+*   {{% resource_link d32149b6-89f9-9581-6eba-bd6214b838fe "Problem (PDF)" %}}
+*   {{% resource_link 8988d219-f9ea-21f0-8184-4df41b649e9e "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions) »
+« {{% resource_link 0cf2fa75-aeb6-82db-f14c-169c98cd1a15 "Previous" %}} | {{% resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Next" %}} »

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '770'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 87: L''Hospital''s Rule'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '592'
 title: 'Clip 2: L''Hospital''s Rule, Version 1'
 uid: f7d225d4-3ad0-224e-5a39-596c13d8f001
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: PNTnmH6jsRI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses87d)
+» {{% resource_link f3b4a479-d737-2657-961c-56569ef89883 "Accompanying Notes (PDF)" %}}
 
-From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

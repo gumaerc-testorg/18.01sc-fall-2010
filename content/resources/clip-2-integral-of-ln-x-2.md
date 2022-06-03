@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1646'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 76: Integration by Parts'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1474'
 title: 'Clip 2: Integral of ln(x)2'
 uid: f7d1ebe5-d9cb-78c3-d35f-dcc0712cce78
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: aeXp1zC6Hls
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses76c)
+» {{% resource_link ef17da93-45cd-ba98-1a58-2b8658799a4e "Accompanying Notes (PDF)" %}}
 
-From Lecture 30 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 30 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

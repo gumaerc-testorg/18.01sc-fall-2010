@@ -9,7 +9,7 @@ title: 'Session 86: Materials for Exam 4'
 uid: c0baf8c0-ea33-46ee-54ad-50f5dc690161
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite) »
+« {{% resource_link 4699d63d-2fc1-6b8b-d7fc-498a382dc972 "Previous" %}} | {{% resource_link 6e3abd11-deb0-9fc4-9199-b1e8893935e7 "Next" %}} »
 
 Overview
 --------
@@ -22,8 +22,8 @@ In this session you will:
 Exam Materials
 --------------
 
-[Exam IV (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam4)
+{{% resource_link b8d6291f-6109-adf0-a4b4-cc623ef5f213 "Exam IV (PDF)" %}}
 
-[Solutions to Exam IV (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam4sol)
+{{% resource_link f1c8096b-6d2d-8021-709b-313e87991bd0 "Solutions to Exam IV (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite) »
+« {{% resource_link 4699d63d-2fc1-6b8b-d7fc-498a382dc972 "Previous" %}} | {{% resource_link 6e3abd11-deb0-9fc4-9199-b1e8893935e7 "Next" %}} »

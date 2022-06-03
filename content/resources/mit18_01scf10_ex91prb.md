@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains problem statements related to improper integrals.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/a66fcfeb7409639c6cce6ad67831c25c_MIT18_01SCF10_ex91prb.pdf
+description: ''
+file: /courses/18-01sc-single-variable-calculus-fall-2010/a66fcfeb7409639c6cce6ad67831c25c_MIT18_01SCF10_ex91prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MIT18_01SCF10_ex91prb.pdf
 uid: a66fcfeb-7409-639c-6cce-6ad67831c25c
 ---
+This resource contains problem statements related to improper integrals.
+

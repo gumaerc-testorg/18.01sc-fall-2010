@@ -9,7 +9,7 @@ title: 'Session 30: Optimization Problems II'
 uid: 1adc3400-c6b3-7f82-e7f6-5de33469e2b6
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates) »
+« {{% resource_link 588fcaec-bbe5-0916-60df-df0b2efe6908 "Previous" %}} | {{% resource_link 740c26e9-a52f-298e-76ec-9fb9679d1f19 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Minimal Surface Area of a Box: Direct Solution]({{< baseurl >}}/resources/clip-1-minimal-surface-area-of-a-box-direct-solution)
+{{% resource_link b548a56b-38c5-8b31-e5a3-436f177c1ab9 "Clip 1: Minimal Surface Area of a Box: Direct Solution" %}}
 
-[Clip 2: Minimal Surface Area of a Box: Implicit Differentiation]({{< baseurl >}}/resources/clip-2-minimal-surface-area-of-a-box-implicit-differentiation)
+{{% resource_link 86818551-bc8f-bba3-55e8-5f6069468d41 "Clip 2: Minimal Surface Area of a Box: Implicit Differentiation" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +37,7 @@ Worked Example
 
 Can Design
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex30prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex30sol)
+*   {{% resource_link 8f30d27e-4838-ab76-7b4f-9c4a5538df18 "Problem (PDF)" %}}
+*   {{% resource_link 9b8a2a35-2943-50b3-87e2-4b0d8adfd632 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates) »
+« {{% resource_link 588fcaec-bbe5-0916-60df-df0b2efe6908 "Previous" %}} | {{% resource_link 740c26e9-a52f-298e-76ec-9fb9679d1f19 "Next" %}} »

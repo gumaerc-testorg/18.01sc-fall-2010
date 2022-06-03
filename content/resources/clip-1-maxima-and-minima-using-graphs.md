@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3104'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 29: Optimization Problems'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2659'
 title: 'Clip 1: Maxima and Minima Using Graphs'
 uid: 2b5b0255-3beb-7e4b-5611-f43156cf17e1
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: twzGBqPeW0M
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses29a)
+» {{% resource_link 9184c0c6-6b24-143e-4e47-b3e99a30159c "Accompanying Notes (PDF)" %}}
 
-From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

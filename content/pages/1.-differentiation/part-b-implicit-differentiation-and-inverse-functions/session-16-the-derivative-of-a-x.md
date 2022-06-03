@@ -9,7 +9,7 @@ title: 'Session 16: The Derivative of a^x'
 uid: a08812a6-29e7-6732-837d-8a39d48fc8fa
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse) »
+« {{% resource_link 5668bfaf-4a48-49cd-c9fb-5962b4a18003 "Previous" %}} | {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Next" %}} »
 
 Overview
 --------
@@ -21,25 +21,25 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Differentiating Logs and Exponentials]({{< baseurl >}}/resources/clip-1-differentiating-logs-and-exponentials)
+{{% resource_link cdd74169-811a-88c6-42c1-b55fa4849a8b "Clip 1: Differentiating Logs and Exponentials" %}}
 
-[Clip 2: Exponent Review]({{< baseurl >}}/resources/clip-2-exponent-review)
+{{% resource_link 2c2a291f-026b-abb2-f0c3-d54d796800dd "Clip 2: Exponent Review" %}}
 
 Worked Example
 --------------
 
 Compound Interest
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex16prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex16sol)
+*   {{% resource_link fe31d67d-ca13-1a9e-328b-ad9d864e2a0f "Problem (PDF)" %}}
+*   {{% resource_link 41a61f85-8e06-6ddc-b402-f34c0e4697af "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Difference Quotient of ax]({{< baseurl >}}/resources/clip-1-difference-quotient-of-ax)
+{{% resource_link 86e8e0e0-dcf7-38a3-e928-d15f1e0437de "Clip 1: Difference Quotient of ax" %}}
 
-[Clip 2: Slope of ax at 0]({{< baseurl >}}/resources/clip-2-slope-of-ax-at-0)
+{{% resource_link 8486afd8-ccea-362d-200e-30100ece5688 "Clip 2: Slope of ax at 0" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse) »
+« {{% resource_link 5668bfaf-4a48-49cd-c9fb-5962b4a18003 "Previous" %}} | {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Next" %}} »

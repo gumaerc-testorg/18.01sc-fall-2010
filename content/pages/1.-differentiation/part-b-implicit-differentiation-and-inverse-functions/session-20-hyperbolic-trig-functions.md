@@ -9,7 +9,7 @@ title: 'Session 20: Hyperbolic Trig Functions'
 uid: da268fb0-fd08-ed16-c1b1-988ed700633a
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/problem-set-2) »
+« {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Previous" %}} | {{% resource_link 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1 "Next" %}} »
 
 Overview
 --------
@@ -19,7 +19,7 @@ Hyperbolic trig functions are analogous to the trig functions like sine, cosine 
 Reading
 -------
 
-[Hyperbolic Trig Functions (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses20a)
+{{% resource_link ce3200a4-eb0a-928b-f282-ed6bb833ae27 "Hyperbolic Trig Functions (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -33,7 +33,7 @@ Worked Example
 
 sinh (x+y) and cosh (x+y) in Terms of Their Constituent Parts
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex20prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex20sol)
+*   {{% resource_link 19beee56-94df-5686-f971-de3c1bc4abec "Problem (PDF)" %}}
+*   {{% resource_link ba645270-96fa-7e01-5c04-3cba55982c8b "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/problem-set-2) »
+« {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Previous" %}} | {{% resource_link 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1 "Next" %}} »

@@ -9,7 +9,7 @@ title: 'Session 81: Examples Using Parametrized Curves'
 uid: 7aa6522b-6e8e-0d13-937e-54ed6e52710d
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates) »
+« {{% resource_link b58d1c03-b5e7-2b4f-c2ef-553cda5d94b7 "Previous" %}} | {{% resource_link 6b43151f-2ea4-f32c-ac0a-7709358919db "Next" %}} »
 
 Overview
 --------
@@ -21,16 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Non-Constant Speed Parametrization]({{< baseurl >}}/resources/clip-1-non-constant-speed-parametrization)
+{{% resource_link a20e892c-2e73-087c-b790-1f6311bad2c5 "Clip 1: Non-Constant Speed Parametrization" %}}
 
-[Clip 2: Surface Area of an Ellipsoid]({{< baseurl >}}/resources/clip-2-surface-area-of-an-ellipsoid)
+{{% resource_link 5fc0efb0-2b63-e4b2-cd4b-c9fbdd8919de "Clip 2: Surface Area of an Ellipsoid" %}}
 
 Worked Example
 --------------
 
 Path of a Falling Object
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex81prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex81sol)
+*   {{% resource_link 73760153-dca7-b12c-949d-77f07f6140ca "Problem (PDF)" %}}
+*   {{% resource_link 67baf73b-6ba9-ae11-a967-b3c792897b38 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates) »
+« {{% resource_link b58d1c03-b5e7-2b4f-c2ef-553cda5d94b7 "Previous" %}} | {{% resource_link 6b43151f-2ea4-f32c-ac0a-7709358919db "Next" %}} »

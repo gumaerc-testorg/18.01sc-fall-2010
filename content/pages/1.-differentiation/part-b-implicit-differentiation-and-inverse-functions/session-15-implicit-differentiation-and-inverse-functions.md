@@ -9,7 +9,7 @@ title: 'Session 15: Implicit Differentiation and Inverse Functions'
 uid: 5668bfaf-4a48-49cd-c9fb-5962b4a18003
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x) »
+« {{% resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" %}} | {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Derivative of the Inverse of a Function]({{< baseurl >}}/resources/clip-1-derivative-of-the-inverse-of-a-function)
+{{% resource_link 3fa63db0-186a-5fcc-a075-8cc5a5c531af "Clip 1: Derivative of the Inverse of a Function" %}}
 
-[Clip 2: Derivative of the Arctan Function]({{< baseurl >}}/resources/clip-2-derivative-of-the-arctan-function)
+{{% resource_link fadb7e63-6011-5142-1f1c-cddc71cb33d6 "Clip 2: Derivative of the Arctan Function" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +37,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Derivative of the Arcsin Function]({{< baseurl >}}/resources/clip-1-derivative-of-the-arcsin-function)
+{{% resource_link 597e91de-c65d-5b29-b425-70984dd79e04 "Clip 1: Derivative of the Arcsin Function" %}}
 
 Recitation Video
 ----------------
@@ -51,7 +51,7 @@ Worked Example
 
 Derivative of the Square Root Function
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex15prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex15sol)
+*   {{% resource_link 5194ae00-0d2b-14dc-7a9e-377fc2eff268 "Problem (PDF)" %}}
+*   {{% resource_link 11c63174-17bd-f6c7-f976-183481025646 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x) »
+« {{% resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" %}} | {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" %}} »

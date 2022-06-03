@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '537'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 13: Implicit Differentiation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '101'
 title: 'Clip 2: Implicit Differentiation: Rational Exponent Rule'
 uid: c22bb9f3-8d53-bfa3-1de4-29a979f83b22
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: 5q_3FDOkVRQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses13b)
+» {{% resource_link 07738b62-c007-872f-31bc-fdf108ad1905 "Accompanying Notes (PDF)" %}}
 
-From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

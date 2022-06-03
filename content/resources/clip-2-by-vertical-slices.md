@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3083'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 77: Volume of a Wine Glass'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2760'
 title: 'Clip 2: By Vertical Slices'
 uid: a235ac85-23f6-eeb7-3bb2-effa45e2a2b3
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: aeXp1zC6Hls
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses77b)
+» {{% resource_link 0e7db8a3-1431-750b-188e-8750d34ef8d4 "Accompanying Notes (PDF)" %}}
 
-From Lecture 30 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 30 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

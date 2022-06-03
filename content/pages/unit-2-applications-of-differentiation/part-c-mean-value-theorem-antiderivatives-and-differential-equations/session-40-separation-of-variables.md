@@ -9,7 +9,7 @@ title: 'Session 40: Separation of Variables'
 uid: 6e674d24-154a-95a2-d7b4-dac2db7d6427
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-39-introduction-to-differential-equations) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5) »
+« {{% resource_link 282fb519-87e0-067f-fc0e-5d6f637739cf "Previous" %}} | {{% resource_link 97254795-b765-e86a-aa7a-43d7e75579c3 "Next" %}} »
 
 Overview
 --------
@@ -21,15 +21,15 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: dy/dx=f(x)]({{< baseurl >}}/resources/clip-1-dy-dx-f-x)
+{{% resource_link f0cfecc4-0ef6-04cc-1a66-f6f6a2940c7c "Clip 1: dy/dx=f(x)" %}}
 
 Worked Example
 --------------
 
 Exponential Growth and Inhibited Growth
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex40prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex40sol)
+*   {{% resource_link 3a605920-f61f-e441-4a84-e6393c68252c "Problem (PDF)" %}}
+*   {{% resource_link b6a7ab20-c45d-4272-9cf5-11a6c85943de "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -43,9 +43,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Differential Equations and Slope, Part 1]({{< baseurl >}}/resources/clip-1-differential-equations-and-slope-part-1)
+{{% resource_link 4b963f2d-c678-102b-2f16-ffa460d153a7 "Clip 1: Differential Equations and Slope, Part 1" %}}
 
-[Clip 2: Differential Equations and Slope, Part 2]({{< baseurl >}}/resources/clip-2-differential-equations-and-slope-part-2)
+{{% resource_link d09cece9-5e04-5ad8-1eff-d0f9369c8175 "Clip 2: Differential Equations and Slope, Part 2" %}}
 
 Recitation Video
 ----------------
@@ -54,4 +54,4 @@ Recitation Video
 
 {{< resource 2efd24df-bef2-645b-2eaa-7a3ccea57d57 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-39-introduction-to-differential-equations) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5) »
+« {{% resource_link 282fb519-87e0-067f-fc0e-5d6f637739cf "Previous" %}} | {{% resource_link 97254795-b765-e86a-aa7a-43d7e75579c3 "Next" %}} »

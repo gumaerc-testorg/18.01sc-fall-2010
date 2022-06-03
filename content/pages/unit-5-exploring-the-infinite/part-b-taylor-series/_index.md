@@ -9,17 +9,17 @@ title: 'Part B: Taylor Series'
 uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series) »
+« {{% resource_link f502f183-c03e-6d5e-51e8-24f9afc4cf8c "Previous" %}} | {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Next" %}} »
 
 We can use limits to formally define sums of infinitely many values. Taylor Series are infinite sums defined in terms of polynomials, and provide an alternate means of describing standard functions.
 
-> » [Session 94: Infinite Series]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series)  
-> » [Session 95: Series Comparison]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison)  
-> » [Session 96: Stacking Blocks]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks)  
-> » [Session 97: Power Series]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series)  
-> » [Session 98: Taylor's Series]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series)  
-> » [Session 99: Taylor's Series, Continued]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued)  
-> » [Session 100: Operations on Power Series]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series)  
-> » [Session 101: Conclusion]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion)
+> » {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Session 94: Infinite Series" %}}  
+> » {{% resource_link e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542 "Session 95: Series Comparison" %}}  
+> » {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Session 96: Stacking Blocks" %}}  
+> » {{% resource_link bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d "Session 97: Power Series" %}}  
+> » {{% resource_link 30f32e82-5b1a-1974-da6c-98b8de0aafd3 "Session 98: Taylor's Series" %}}  
+> » {{% resource_link 9714534f-bc62-1758-9e4a-b69f5ad147a4 "Session 99: Taylor's Series, Continued" %}}  
+> » {{% resource_link 7aaff014-23b9-22b3-46af-dcd6c0328e83 "Session 100: Operations on Power Series" %}}  
+> » {{% resource_link c22c3207-88f0-9de5-fe78-a6e305cad2b4 "Session 101: Conclusion" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series) »
+« {{% resource_link f502f183-c03e-6d5e-51e8-24f9afc4cf8c "Previous" %}} | {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Next" %}} »

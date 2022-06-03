@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '601'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 18: Derivatives of other Exponential Functions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '335'
 title: 'Clip 1: The Power Rule'
 uid: c4ce10ba-bb2f-7a36-1f6a-3069cb0e1cdd
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: eHJuAByQf5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses18d)
+» {{% resource_link cc53f4a1-2df6-00e1-e43b-4f02b9badac7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

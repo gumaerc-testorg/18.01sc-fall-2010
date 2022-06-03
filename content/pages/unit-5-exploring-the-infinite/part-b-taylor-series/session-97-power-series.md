@@ -9,7 +9,7 @@ title: 'Session 97: Power Series'
 uid: bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series) »
+« {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Previous" %}} | {{% resource_link 30f32e82-5b1a-1974-da6c-98b8de0aafd3 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Power Series]({{< baseurl >}}/resources/clip-1-introduction-to-power-series)
+{{% resource_link 8abae4c8-256b-7cd5-11dc-2c87f9c36087 "Clip 1: Introduction to Power Series" %}}
 
-[Clip 2: General Power Series]({{< baseurl >}}/resources/clip-2-general-power-series)
+{{% resource_link 1c99b360-50ff-e6be-17a1-6d6faa28a530 "Clip 2: General Power Series" %}}
 
 Recitation Video
 ----------------
@@ -37,8 +37,8 @@ Worked Example
 
 Finding the Radius of Convergence
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex97prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex97sol)
+*   {{% resource_link 5fb2a936-5a80-8d0d-f900-662aabb63fe5 "Problem (PDF)" %}}
+*   {{% resource_link ce95c611-1e8e-778a-8105-153518663d99 "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -47,4 +47,4 @@ Recitation Video
 
 {{< resource 12e5d444-e22b-4141-17b7-2b72bd1e4d30 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series) »
+« {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Previous" %}} | {{% resource_link 30f32e82-5b1a-1974-da6c-98b8de0aafd3 "Next" %}} »

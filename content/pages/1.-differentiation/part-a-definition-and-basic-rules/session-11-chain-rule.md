@@ -9,7 +9,7 @@ title: 'Session 11: Chain Rule'
 uid: 68feb14b-a590-b3b0-88c9-89717ae12492
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives) »
+« {{% resource_link 94a0d0fd-de32-4bb5-4b34-d0ea12a6d94d "Previous" %}} | {{% resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Next" %}} »
 
 Overview
 --------
@@ -21,7 +21,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Chain Rule]({{< baseurl >}}/resources/clip-1-chain-rule)
+{{% resource_link 125c0920-928e-0fe3-7331-acf5e6c074d3 "Clip 1: Chain Rule" %}}
 
 Recitation Video
 ----------------
@@ -35,14 +35,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Example: sin(10t)]({{< baseurl >}}/resources/clip-1-example-sin-10t)
+{{% resource_link 96ed319b-d636-f0d3-8ffa-92ea05a67095 "Clip 1: Example: sin(10t)" %}}
 
 Worked Example
 --------------
 
 Do We Need the Quotient Rule?
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex11prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex11sol)
+*   {{% resource_link cc1f0327-0101-97b9-b87e-66b3408b27ec "Problem (PDF)" %}}
+*   {{% resource_link 185582db-40ef-98dd-7c70-eab7736ae70f "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives) »
+« {{% resource_link 94a0d0fd-de32-4bb5-4b34-d0ea12a6d94d "Previous" %}} | {{% resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Next" %}} »

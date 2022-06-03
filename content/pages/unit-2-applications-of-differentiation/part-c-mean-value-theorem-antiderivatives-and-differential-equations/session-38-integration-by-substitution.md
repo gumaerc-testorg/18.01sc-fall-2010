@@ -9,7 +9,7 @@ title: 'Session 38: Integration by Substitution'
 uid: def23901-ebba-d92e-a90a-23199cbba444
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-39-introduction-to-differential-equations) »
+« {{% resource_link 876df37c-3cbc-00d4-7b66-6c04e5047a17 "Previous" %}} | {{% resource_link 282fb519-87e0-067f-fc0e-5d6f637739cf "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Substitution]({{< baseurl >}}/resources/clip-1-substitution)
+{{% resource_link 6f2769cc-535a-36e9-0aba-3dc0e7ff31ba "Clip 1: Substitution" %}}
 
-[Clip 2: Integration by "Advanced Guessing"]({{< baseurl >}}/resources/clip-2-integration-by-advanced-guessing-1)
+{{% resource_link f82e29b8-72d7-6101-98c0-45e3dc6eb273 "Clip 2: Integration by \"Advanced Guessing\"" %}}
 
-[Clip 3: More Examples of Integration]({{< baseurl >}}/resources/clip-3-more-examples-of-integration)
+{{% resource_link 54ce1cab-b09a-94ed-f693-2aa0684bb0d8 "Clip 3: More Examples of Integration" %}}
 
 Recitation Video
 ----------------
@@ -39,7 +39,7 @@ Worked Example
 
 Antiderivative of tan x sec{{< sup "2" >}}x
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex38prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex38sol)
+*   {{% resource_link 7ba77820-e3c6-2210-093b-a02359def088 "Problem (PDF)" %}}
+*   {{% resource_link 6b123e1f-fe83-0e9a-e2a4-e61dfecbbb3b "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-39-introduction-to-differential-equations) »
+« {{% resource_link 876df37c-3cbc-00d4-7b66-6c04e5047a17 "Previous" %}} | {{% resource_link 282fb519-87e0-067f-fc0e-5d6f637739cf "Next" %}} »

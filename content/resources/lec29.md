@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7a17dd5c338f1ac07b530c9af7466eda_lec29.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7a17dd5c338f1ac07b530c9af7466eda_lec29.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

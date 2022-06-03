@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2387'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2102'
 title: 'Clip 3: Comparing Growth of ln(x) and x1/3'
 uid: 9d115bd0-2419-655e-06fe-ff0bd27cb562
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: PNTnmH6jsRI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses89c)
+» {{% resource_link 9c9fed8a-05ff-aec6-b597-ca77756bb91f "Accompanying Notes (PDF)" %}}
 
-From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

@@ -9,7 +9,7 @@ title: 'Session 4: Limits and Continuity'
 uid: 5878551f-3d21-546e-5d3a-bcc5b156e7d2
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity) »
+« {{% resource_link 4eff05d7-dd9b-d856-611c-fe4f4cddcb98 "Previous" %}} | {{% resource_link d0bc8735-c3a4-50ca-5aad-8ed8059d679d "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Limits]({{< baseurl >}}/resources/clip-1-limits)
+{{% resource_link 73fb7bba-1d80-d790-a7ec-8068b12ccc28 "Clip 1: Limits" %}}
 
-[Clip 2: Continuity]({{< baseurl >}}/resources/clip-2-continuity)
+{{% resource_link 2c0832a0-f058-5487-3dc9-df6f1e7a9464 "Clip 2: Continuity" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +37,7 @@ Worked Example
 
 Continuous but not Smooth
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex04prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex04sol)
+*   {{% resource_link f8502402-ca94-817e-dcc6-cd996eb538ad "Problem (PDF)" %}}
+*   {{% resource_link 992aa560-5f07-9984-77a1-f9e2cba0737d "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity) »
+« {{% resource_link 4eff05d7-dd9b-d856-611c-fe4f4cddcb98 "Previous" %}} | {{% resource_link d0bc8735-c3a4-50ca-5aad-8ed8059d679d "Next" %}} »

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1630'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1230'
 title: 'Clip 2: Natural Log'
 uid: 08952d98-c63c-228b-17be-0412c524d36f
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses17b)
+» {{% resource_link b946981e-19f7-54ed-2ab5-90cb7f9253c8 "Accompanying Notes (PDF)" %}}
 
-From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

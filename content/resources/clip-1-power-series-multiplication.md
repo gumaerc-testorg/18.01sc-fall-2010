@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1475'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 100: Operations on Power Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1316'
 title: 'Clip 1: Power Series Multiplication'
 uid: e11e5864-fc6d-47a2-7430-edeb75b7fcfa
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: --lPz7VFnKI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses100a)
+» {{% resource_link da3fe4bc-eb55-35ea-0a47-b6ed2427c388 "Accompanying Notes (PDF)" %}}
 
-From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

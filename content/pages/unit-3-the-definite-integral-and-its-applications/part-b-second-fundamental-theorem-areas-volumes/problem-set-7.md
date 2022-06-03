@@ -9,7 +9,7 @@ title: Problem Set 7
 uid: fdbe350c-a59a-fe09-833c-9efd91b52a3f
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration) »
+« {{% resource_link 2a892d50-ed01-26e1-5d36-03ad2d218d9e "Previous" %}} | {{% resource_link e1f8a1b7-89b8-3e57-da0e-01f4ada7283a "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb-1) to do the problems below.
+Use {{% resource_link 8c456863-5d5d-f671-ce78-59d2ec6f68b7 "Applications of Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,8 +81,8 @@ Other applications
 
 ### Solutions
 
-[Solutions to Applications of Integration problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4sol-1)
+{{% resource_link 0c5de02d-4b28-63ad-0037-03f9b5ee1783 "Solutions to Applications of Integration problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration) »
+« {{% resource_link 2a892d50-ed01-26e1-5d36-03ad2d218d9e "Previous" %}} | {{% resource_link e1f8a1b7-89b8-3e57-da0e-01f4ada7283a "Next" %}} »

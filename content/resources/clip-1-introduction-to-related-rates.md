@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2994'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 31: Related Rates'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2693'
 title: 'Clip 1: Introduction to Related Rates'
 uid: d48a5907-b540-e74f-6b50-a8a566fd267b
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: YN7k_bXXggY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses31a)
+» {{% resource_link 456b7e51-03bc-532b-c70e-493a81aa2be9 "Accompanying Notes (PDF)" %}}
 
-From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

@@ -10,7 +10,7 @@ title: 'Session 73: Completing the Square'
 uid: 3d81cd65-aedb-bd55-7617-501fb6a0b493
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/problem-set-9) »
+« {{% resource_link 9894378c-e8db-9017-3778-fc7a13cad022 "Previous" %}} | {{% resource_link 14f8514c-d814-3524-d623-7c820201bc0c "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Completing the Square]({{< baseurl >}}/resources/clip-1-completing-the-square)
+{{% resource_link f63fde57-3e9a-993e-59b9-30b45700d9aa "Clip 1: Completing the Square" %}}
 
 Recitation Video
 ----------------
@@ -36,7 +36,7 @@ Worked Example
 
 Complete the Square
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex73prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex73sol)
+*   {{% resource_link b172c1e0-a629-5d5e-3487-052c19135caa "Problem (PDF)" %}}
+*   {{% resource_link 526b1570-31c0-3165-56de-629bf69c099d "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/problem-set-9) »
+« {{% resource_link 9894378c-e8db-9017-3778-fc7a13cad022 "Previous" %}} | {{% resource_link 14f8514c-d814-3524-d623-7c820201bc0c "Next" %}} »

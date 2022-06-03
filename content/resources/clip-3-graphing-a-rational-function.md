@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1162'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 3: Graphing a Rational Function'
 uid: 886021db-8e2f-9eee-60ad-ba70195ba44f
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: twzGBqPeW0M
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses27c)
+» {{% resource_link aa735916-c7f7-fcc1-fa45-ec8592c2085a "Accompanying Notes (PDF)" %}}
 
-From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

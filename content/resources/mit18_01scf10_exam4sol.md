@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/f1c8096b6d2d8021709b313e87991bd0_MIT18_01SCF10_exam4sol.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/f1c8096b6d2d8021709b313e87991bd0_MIT18_01SCF10_exam4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

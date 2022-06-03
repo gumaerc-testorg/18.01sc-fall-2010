@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2383'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 30: Optimization Problems II'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1128'
 title: 'Clip 1: Minimal Surface Area of a Box: Direct Solution'
 uid: b548a56b-38c5-8b31-e5a3-436f177c1ab9
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: YN7k_bXXggY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses30a)
+» {{% resource_link cfe64290-26ae-441c-61a0-97904ccda0cb "Accompanying Notes (PDF)" %}}
 
-From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 12 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

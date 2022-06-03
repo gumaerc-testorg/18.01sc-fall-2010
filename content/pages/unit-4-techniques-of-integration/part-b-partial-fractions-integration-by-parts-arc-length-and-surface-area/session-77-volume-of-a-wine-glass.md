@@ -10,7 +10,7 @@ title: 'Session 77: Volume of a Wine Glass'
 uid: fd429246-7eeb-d716-0d4a-260559201a7c
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve) »
+« {{% resource_link b196b3d2-413f-a801-5d43-695883cc671a "Previous" %}} | {{% resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Next" %}} »
 
 Overview
 --------
@@ -22,8 +22,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: By Horizontal Slices]({{< baseurl >}}/resources/clip-1-by-horizontal-slices)
+{{% resource_link 42f56bde-2c5b-66c9-735b-7332dde1bc08 "Clip 1: By Horizontal Slices" %}}
 
-[Clip 2: By Vertical Slices]({{< baseurl >}}/resources/clip-2-by-vertical-slices)
+{{% resource_link a235ac85-23f6-eeb7-3bb2-effa45e2a2b3 "Clip 2: By Vertical Slices" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve) »
+« {{% resource_link b196b3d2-413f-a801-5d43-695883cc671a "Previous" %}} | {{% resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Next" %}} »

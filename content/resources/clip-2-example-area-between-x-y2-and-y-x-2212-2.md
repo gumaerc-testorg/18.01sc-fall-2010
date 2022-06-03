@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3016'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1940'
 title: "Clip 2: Example: Area Between x = y2 and y = x \u2212 2"
 uid: 01bbfa59-1b57-8216-eced-3cb210524b9b
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: _JXPe2J069c
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses56b)
+» {{% resource_link f1509314-14da-3229-2aac-b71a86a55acd "Accompanying Notes (PDF)" %}}
 
-From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

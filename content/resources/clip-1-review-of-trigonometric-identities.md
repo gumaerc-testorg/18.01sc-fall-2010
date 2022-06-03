@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '349'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Review of Trigonometric Identities'
 uid: e2403073-dc6d-611b-1aaf-2ea0ec3d6dfa
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses71a)
+» {{% resource_link 361e135c-566d-33d2-543b-9aa1c9405f87 "Accompanying Notes (PDF)" %}}
 
-From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

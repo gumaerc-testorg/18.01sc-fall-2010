@@ -9,7 +9,7 @@ title: 'Session 37: Antiderivatives'
 uid: 876df37c-3cbc-00d4-7b66-6c04e5047a17
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution) »
+« {{% resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Previous" %}} | {{% resource_link def23901-ebba-d92e-a90a-23199cbba444 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Antiderivatives]({{< baseurl >}}/resources/clip-1-introduction-to-antiderivatives)
+{{% resource_link e3ae377c-282e-773c-ad21-43b164a5f095 "Clip 1: Introduction to Antiderivatives" %}}
 
-[Clip 2: Antiderivative of xa]({{< baseurl >}}/resources/clip-2-antiderivative-of-xa)
+{{% resource_link 22bfcd5c-6c76-7ae7-4f1e-c119bdfc0885 "Clip 2: Antiderivative of xa" %}}
 
 Recitation Video
 ----------------
@@ -37,21 +37,21 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: More Antiderivatives]({{< baseurl >}}/resources/clip-1-more-antiderivatives)
+{{% resource_link 183f9d8e-4fff-7ab8-c31e-bbebf03b81c3 "Clip 1: More Antiderivatives" %}}
 
 Worked Example
 --------------
 
 Exploiting Derivative Rules
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex37prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex37sol)
+*   {{% resource_link c083a2a2-def4-1a9c-22a0-f09e4c1fa623 "Problem (PDF)" %}}
+*   {{% resource_link f51f271e-3252-a71b-8d69-8c3457f39c8e "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Unique Up to a Constant]({{< baseurl >}}/resources/clip-1-unique-up-to-a-constant)
+{{% resource_link dfb75152-409c-e679-6b40-7f4591085130 "Clip 1: Unique Up to a Constant" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution) »
+« {{% resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Previous" %}} | {{% resource_link def23901-ebba-d92e-a90a-23199cbba444 "Next" %}} »

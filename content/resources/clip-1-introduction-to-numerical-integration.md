@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2108'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 63: Numerical Integration'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2004'
 title: 'Clip 1: Introduction to Numerical Integration'
 uid: 63c690c4-b565-b7ee-6ba8-97e4d1c64e66
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: jBkXbAgMj6s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses63a)
+» {{% resource_link 0cf9871c-995f-6ff3-0af8-2618990f8961 "Accompanying Notes (PDF)" %}}
 
-From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

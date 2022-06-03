@@ -9,7 +9,7 @@ title: 'Session 67: Materials for Exam 3'
 uid: be018db8-3528-77b7-1152-e364bf12af4b
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration) »
+« {{% resource_link 28c8d6e8-c2c0-dfa6-2a9b-458789417a05 "Previous" %}} | {{% resource_link 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83 "Next" %}} »
 
 Overview
 --------
@@ -22,8 +22,8 @@ In this session you will:
 Exam Materials
 --------------
 
-[Exam III (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam3)
+{{% resource_link a24ae17a-1585-cc32-0e55-02b586fdc08d "Exam III (PDF)" %}}
 
-[Solutions to Exam III (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam3sol)
+{{% resource_link 2045fef2-f2fa-83e3-91fd-95b39b083173 "Solutions to Exam III (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration) »
+« {{% resource_link 28c8d6e8-c2c0-dfa6-2a9b-458789417a05 "Previous" %}} | {{% resource_link 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83 "Next" %}} »

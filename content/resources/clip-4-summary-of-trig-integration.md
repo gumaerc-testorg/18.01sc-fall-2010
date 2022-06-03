@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '932'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '743'
 title: 'Clip 4: Summary of Trig Integration'
 uid: cc4fcfaf-0b5e-5948-e7a1-0786f114764d
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses71d)
+» {{% resource_link b87628b9-43b8-b9eb-87f9-c355091b080e "Accompanying Notes (PDF)" %}}
 
-From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

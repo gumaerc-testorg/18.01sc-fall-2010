@@ -10,7 +10,7 @@ title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
 uid: 60fd16b3-d72f-efca-7209-8904f15c0f02
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates) »
+« {{% resource_link f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075 "Previous" %}} | {{% resource_link a38f4a8d-d90b-153b-d08f-5ba8ba270970 "Next" %}} »
 
 Overview
 --------
@@ -22,16 +22,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Integral of cos2(x)]({{< baseurl >}}/resources/clip-1-integral-of-cos2-x)
+{{% resource_link 5f7dd980-2deb-aa6c-d92d-7937e74b95a6 "Clip 1: Integral of cos2(x)" %}}
 
-[Clip 2: Integral of sin2(x) cos2(x)]({{< baseurl >}}/resources/clip-2-integral-of-sin2-x-cos2-x)
+{{% resource_link b9b40761-377d-9051-d99c-2c68b2cea7f6 "Clip 2: Integral of sin2(x) cos2(x)" %}}
 
 Worked Example
 --------------
 
 Integral of sin{{< sup "4" >}}(x) cos{{< sup "2" >}}(x)
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex69prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex69sol)
+*   {{% resource_link a9eb7129-f4d0-36d9-91d9-7f263277ef6b "Problem (PDF)" %}}
+*   {{% resource_link 3d8a4f06-7f9f-164a-86bc-a621dbcf11c2 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates) »
+« {{% resource_link f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075 "Previous" %}} | {{% resource_link a38f4a8d-d90b-153b-d08f-5ba8ba270970 "Next" %}} »

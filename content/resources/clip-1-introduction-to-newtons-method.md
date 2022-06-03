@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3203'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 33: Newton''s Method'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2440'
 title: 'Clip 1: Introduction to Newton''s Method '
 uid: 13a76551-ad95-d9ac-7aa8-de6f6d92cd7b
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: sRIDVAcoG5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses33a)
+» {{% resource_link 40bc34f4-471c-7c81-3910-d7e006b28919 "Accompanying Notes (PDF)" %}}
 
-From Lecture 13 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 13 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

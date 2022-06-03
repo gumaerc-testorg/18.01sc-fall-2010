@@ -10,7 +10,7 @@ title: 'Session 70: Preview of Trig Substitution and Polar Coordinates'
 uid: a38f4a8d-d90b-153b-d08f-5ba8ba270970
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent) »
+« {{% resource_link 60fd16b3-d72f-efca-7209-8904f15c0f02 "Previous" %}} | {{% resource_link 369ea1a0-42d3-4dea-55d0-7a2b967f59af "Next" %}} »
 
 Overview
 --------
@@ -22,14 +22,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Area of Part of a Circle]({{< baseurl >}}/resources/lip-1-area-of-part-of-a-circle)
+{{% resource_link 6f1d7013-8360-e619-5459-de4f5f3af331 "Clip 1: Area of Part of a Circle" %}}
 
 Worked Example
 --------------
 
 An Alternate Solution
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex70prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex70sol)
+*   {{% resource_link 8b37b56d-2f59-ee41-cc63-f9e0410c4831 "Problem (PDF)" %}}
+*   {{% resource_link b9d6f62d-80c9-783b-30aa-6c9379a5e771 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent) »
+« {{% resource_link 60fd16b3-d72f-efca-7209-8904f15c0f02 "Previous" %}} | {{% resource_link 369ea1a0-42d3-4dea-55d0-7a2b967f59af "Next" %}} »

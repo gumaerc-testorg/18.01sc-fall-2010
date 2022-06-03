@@ -9,7 +9,7 @@ title: 'Session 53: New Functions From Old'
 uid: 28016eb0-0515-039e-bda8-eb0f6b6ddb58
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x) »
+« {{% resource_link 593f1575-26f1-927f-d6ea-05e37c3d4475 "Previous" %}} | {{% resource_link 435c91b0-8acc-9a35-fc07-48ce22a11bfe "Next" %}} »
 
 Overview
 --------
@@ -21,8 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Antiderivative of 1/x]({{< baseurl >}}/resources/clip-1-antiderivative-of-1-x)
+{{% resource_link 59393dbb-3698-09d4-f886-d1bca212eedf "Clip 1: Antiderivative of 1/x" %}}
 
-[Clip 2: Area Under the Bell Curve]({{< baseurl >}}/resources/clip-2-area-under-the-bell-curve)
+{{% resource_link 691b34a4-9a70-0ecb-340e-cabded0fdd6b "Clip 2: Area Under the Bell Curve" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x) »
+« {{% resource_link 593f1575-26f1-927f-d6ea-05e37c3d4475 "Previous" %}} | {{% resource_link 435c91b0-8acc-9a35-fc07-48ce22a11bfe "Next" %}} »

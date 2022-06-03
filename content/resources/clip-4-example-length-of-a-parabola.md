@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1507'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 78: Computing the Length of a Curve'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1176'
 title: 'Clip 4: Example: Length of a Parabola'
 uid: b15a0be4-9fb3-6a05-48dd-e597f2bb428a
 video_files:
@@ -23,6 +24,9 @@ video_metadata:
   youtube_id: TpWQlKHPyJ4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses78d)
+» {{% resource_link 7f65f0e5-6a09-41f3-720d-c79b89c6de37 "Accompanying Notes (PDF)" %}}
 
-From Lecture 31 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 31 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
+
+

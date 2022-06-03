@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/732670595e675b109e85ac41dd93c6fb_CXKoCMVqM9s.vtt
+file: /courses/18-01sc-single-variable-calculus-fall-2010/732670595e675b109e85ac41dd93c6fb_CXKoCMVqM9s.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

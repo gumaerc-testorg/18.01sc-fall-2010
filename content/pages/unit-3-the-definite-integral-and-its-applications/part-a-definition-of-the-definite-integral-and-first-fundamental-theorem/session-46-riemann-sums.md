@@ -9,7 +9,7 @@ title: 'Session 46: Riemann Sums'
 uid: d5e0c7a6-f172-52a3-c694-d627faf12123
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus) »
+« {{% resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Previous" %}} | {{% resource_link 49d44d0c-d4d7-368f-b654-10f6924c7265 "Next" %}} »
 
 Overview
 --------
@@ -21,15 +21,15 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Riemann Sums]({{< baseurl >}}/resources/clip-1-introduction-to-riemann-sums)
+{{% resource_link 20c7d614-77a9-507b-e4f7-51a842ca7075 "Clip 1: Introduction to Riemann Sums" %}}
 
 Worked Example
 --------------
 
 Riemann Sum Practice
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex46prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex46sol)
+*   {{% resource_link e79beab6-8e0b-64a7-b4bd-5ae06ee74313 "Problem (PDF)" %}}
+*   {{% resource_link 4753403f-8cb7-f8cc-48f6-e5196c051160 "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -43,7 +43,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Example: Cumulative Debts]({{< baseurl >}}/resources/clip-1-example-cumulative-debts)
+{{% resource_link 2176fe2c-33f5-7b13-5857-dd40964ece06 "Clip 1: Example: Cumulative Debts" %}}
 
 Recitation Video
 ----------------
@@ -56,4 +56,4 @@ Recitation Video
 
 {{< resource 128211cd-e495-9162-d2a9-35a3325ead1e >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus) »
+« {{% resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Previous" %}} | {{% resource_link 49d44d0c-d4d7-368f-b654-10f6924c7265 "Next" %}} »

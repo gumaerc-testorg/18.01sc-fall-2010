@@ -9,19 +9,19 @@ title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus) »
+« {{% resource_link bc72db41-0b84-f2d1-a10a-6c5a9399e431 "Previous" %}} | {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Next" %}} »
 
 The Second Fundamental Theorem of Calculus describes how integration is the opposite of differentiation. It allows us to understand functions defined in terms of definite integrals, some of which are impossible to describe using more elementary methods. This part of the course also covers the use of integration to calculate volumes of solids.
 
-> » [Session 51: The Second Fundamental Theorem of Calculus]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus)  
-> » [Session 52: Proving the Fundamental Theorem of Calculus]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus)  
-> » [Session 53: New Functions From Old]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old)  
-> » [Session 54: The Second Fundamental Theorem and ln(x)]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x)  
-> » [Session 55: Creating New Functions Using the Second Fundamental Theorem]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem)  
-> » [Session 56: Geometric Interpretation of Definite Integrals]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals)  
-> » [Session 57: How to Calculate Volumes]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes)  
-> » [Session 58: Volume of a Sphere, Revolving About x-axis]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis)  
-> » [Session 59: Volume of a Parabaloid, Revolving About y-axis]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis)  
-> » [Problem Set 7]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7)
+> » {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Session 51: The Second Fundamental Theorem of Calculus" %}}  
+> » {{% resource_link 593f1575-26f1-927f-d6ea-05e37c3d4475 "Session 52: Proving the Fundamental Theorem of Calculus" %}}  
+> » {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Session 53: New Functions From Old" %}}  
+> » {{% resource_link 435c91b0-8acc-9a35-fc07-48ce22a11bfe "Session 54: The Second Fundamental Theorem and ln(x)" %}}  
+> » {{% resource_link 2c680617-5167-ca26-dcd9-f490d43c4c0a "Session 55: Creating New Functions Using the Second Fundamental Theorem" %}}  
+> » {{% resource_link ab02e80b-2f16-511d-8148-1be8277cb20d "Session 56: Geometric Interpretation of Definite Integrals" %}}  
+> » {{% resource_link 896b940a-6076-521f-f57b-68f0bccc57a0 "Session 57: How to Calculate Volumes" %}}  
+> » {{% resource_link ea17c591-946b-ebd5-f9a9-889e9e6fa3ee "Session 58: Volume of a Sphere, Revolving About x-axis" %}}  
+> » {{% resource_link 2a892d50-ed01-26e1-5d36-03ad2d218d9e "Session 59: Volume of a Parabaloid, Revolving About y-axis" %}}  
+> » {{% resource_link fdbe350c-a59a-fe09-833c-9efd91b52a3f "Problem Set 7" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus) »
+« {{% resource_link bc72db41-0b84-f2d1-a10a-6c5a9399e431 "Previous" %}} | {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Next" %}} »
