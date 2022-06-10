@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_Ses73a.pdf
 uid: fb9139b8-1f46-3eaa-6764-2bcc598c620b
 ---
 This resource contains information about completing the square.
-

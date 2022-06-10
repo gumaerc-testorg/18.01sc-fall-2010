@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_Ses7b.pdf
 uid: 5e568f34-e774-d2a5-6b3f-bc07335a5fbb
 ---
 This resource contains information related to derivatives of sine and cosine.
-

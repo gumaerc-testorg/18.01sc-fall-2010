@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/087fa3b146bb594e84a92a55e4e336dc_MIT18_01SCF10_Ses88d.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/087fa3b146bb594e84a92a55e4e336dc_MIT18_01SCF10_Ses88d.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_Ses88d.pdf
 uid: 087fa3b1-46bb-594e-84a9-2a55e4e336dc
 ---
 This resource contains informations related to examples of l'hospital's rule.
-
