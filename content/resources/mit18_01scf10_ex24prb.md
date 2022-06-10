@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6e8aadf9ec0a5e4e299ff94932d72f40_MIT18_01SCF10_ex24prb.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/6e8aadf9ec0a5e4e299ff94932d72f40_MIT18_01SCF10_ex24prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_ex24prb.pdf
 uid: 6e8aadf9-ec0a-5e4e-299f-f94932d72f40
 ---
 This resource contains problem statements related to product of linear approximation.
-

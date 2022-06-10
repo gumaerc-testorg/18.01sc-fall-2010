@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/c9317592db3623094a918cff09f3887f_MIT18_01SCF10_Ses33b.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/c9317592db3623094a918cff09f3887f_MIT18_01SCF10_Ses33b.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_Ses33b.pdf
 uid: c9317592-db36-2309-4a91-8cff09f3887f
 ---
 This resource contains information about newton's method.
-

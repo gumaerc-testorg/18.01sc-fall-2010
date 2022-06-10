@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/314dbc6c5650dbaa248f396fd5226034_MIT18_01SCF10_Ses82b.pdf
+file: /media/courses/18-01sc-single-variable-calculus-fall-2010/314dbc6c5650dbaa248f396fd5226034_MIT18_01SCF10_Ses82b.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,3 @@ title: MIT18_01SCF10_Ses82b.pdf
 uid: 314dbc6c-5650-dbaa-248f-396fd5226034
 ---
 This resource contains informations related to polar coordinates.
-
