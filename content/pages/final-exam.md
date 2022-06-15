@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the final exam for the course and solutions.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
