@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on finding the surface area of a curve revolved
+  around an axis.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface

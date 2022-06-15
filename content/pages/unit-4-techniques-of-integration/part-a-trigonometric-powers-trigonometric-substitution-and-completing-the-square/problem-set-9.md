@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions and solutions
+  on integration techniques.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing

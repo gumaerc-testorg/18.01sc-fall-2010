@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture video excerpt, lecture notes, and a worked
+  example on trig substitution and polar coordinates.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing

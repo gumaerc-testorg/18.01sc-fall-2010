@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to Unit 5, which unit covers topics
+  related to limits, infinitely many, or infinitely small values.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 5. Exploring the Infinite

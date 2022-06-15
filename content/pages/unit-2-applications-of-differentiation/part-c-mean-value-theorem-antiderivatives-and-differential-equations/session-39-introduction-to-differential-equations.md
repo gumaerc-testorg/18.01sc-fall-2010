@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and worked
+  examples on differential equations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'

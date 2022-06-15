@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This unit describes techniques for using differentiation to solve many
+  important problems. Part C of this unit presents the Mean Value Theorem and introduces
+  notation and concepts used in the study of integration, the subject of the next
+  two units.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 2. Applications of Differentiation

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lectures on the second fundamental theorem of calculus,
+  geometric interpretation of definite integrals, and how to calculate volumes.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications

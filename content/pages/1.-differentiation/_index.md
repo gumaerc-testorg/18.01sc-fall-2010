@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes the unit on differentiation, one of the five major
+  units of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 1. Differentiation

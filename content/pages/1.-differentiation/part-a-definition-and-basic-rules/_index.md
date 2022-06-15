@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section explains what differentiation is and gives rules for differentiating
+  familiar functions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 1. Differentiation

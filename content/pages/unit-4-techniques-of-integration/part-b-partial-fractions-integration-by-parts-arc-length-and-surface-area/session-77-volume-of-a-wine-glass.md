@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on calculating
+  the volume of a solid of revolution in two different ways.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface

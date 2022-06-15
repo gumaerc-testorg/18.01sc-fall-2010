@@ -1,7 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/a4f718fcbc599aaa69e7393645533210_MIT18_01SCF10_ex71prb.pdf
+description: This resource contains problem statements related to integrals involving
+  secant, co secant and cotangent.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/a4f718fcbc599aaa69e7393645533210_MIT18_01SCF10_ex71prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +14,4 @@ title: MIT18_01SCF10_ex71prb.pdf
 uid: a4f718fc-bc59-9aaa-69e7-393645533210
 ---
 This resource contains problem statements related to integrals involving secant, co secant and cotangent.
+

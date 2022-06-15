@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes the unit on techniques of integration, one of the
+  five major units of the course. The unit covers advanced integration techniques,
+  methods for calculating the length of a curved line or the area of a curved surface,
+  and "polar coordinates" which are an alternative to the Cartesian coordinates most
+  often used to describe positions in the plane.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 4. Techniques of Integration

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review materials and an exam on computing derivatives
+  using differentiation rules, solutions, and review materials.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 1. Differentiation

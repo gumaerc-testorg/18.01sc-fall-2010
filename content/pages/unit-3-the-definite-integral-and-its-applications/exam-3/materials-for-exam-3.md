@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an exam on the definite integral and its applications,
+  and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 3

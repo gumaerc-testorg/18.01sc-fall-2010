@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lectures on partial fractions, integration by parts,
+  volume, arc length, and surface area.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 4. Techniques of Integration

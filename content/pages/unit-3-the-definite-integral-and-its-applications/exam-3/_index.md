@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review materials and an exam on the definite integral
+  and its applications.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications

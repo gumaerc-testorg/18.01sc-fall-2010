@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and problem
+  solving videos as review materials for an exam on techniques of integration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 4

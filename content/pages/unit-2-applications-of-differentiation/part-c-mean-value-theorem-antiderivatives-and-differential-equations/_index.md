@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lectures on mean value theorem, antiderivatives,
+  and differential Equations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 2. Applications of Differentiation

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on how
+  to integrate the function 1/x.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'

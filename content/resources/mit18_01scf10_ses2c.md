@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/a0ac1e4088a800a54a16839494fbd16e_MIT18_01SCF10_Ses2c.pdf
+description: This resource contains examples of derivatives.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/a0ac1e4088a800a54a16839494fbd16e_MIT18_01SCF10_Ses2c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_Ses2c.pdf
 uid: a0ac1e40-88a8-00a5-4a16-839494fbd16e
 ---
 This resource contains examples of derivatives.
+

@@ -1,7 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/6d5d4159c4543a9eb0da70a3ed82ba42_MIT18_01SCF10_ex59sol.pdf
+description: This resource contains solutions for the problem statements related to
+  volume of a parabaloid, revolving about x-axis.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/6d5d4159c4543a9eb0da70a3ed82ba42_MIT18_01SCF10_ex59sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +14,4 @@ title: MIT18_01SCF10_ex59sol.pdf
 uid: 6d5d4159-c454-3a9e-b0da-70a3ed82ba42
 ---
 This resource contains solutions for the problem statements related to volume of a parabaloid, revolving about x-axis.
+

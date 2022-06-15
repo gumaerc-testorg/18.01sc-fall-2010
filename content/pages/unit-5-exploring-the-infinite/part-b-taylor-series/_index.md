@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes lectures on Taylor series.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 5. Exploring the Infinite

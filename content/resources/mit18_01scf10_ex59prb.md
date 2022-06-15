@@ -1,7 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/d415dfc3a3d90d2600be6042a65b45c4_MIT18_01SCF10_ex59prb.pdf
+description: This resource contains problem statements related to volume of revolution
+  via washers.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/d415dfc3a3d90d2600be6042a65b45c4_MIT18_01SCF10_ex59prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +14,4 @@ title: MIT18_01SCF10_ex59prb.pdf
 uid: d415dfc3-a3d9-0d26-00be-6042a65b45c4
 ---
 This resource contains problem statements related to volume of revolution via washers.
+

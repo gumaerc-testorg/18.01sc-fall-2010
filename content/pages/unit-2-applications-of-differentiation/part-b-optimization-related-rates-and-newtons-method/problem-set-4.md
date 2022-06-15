@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on optimization,
+  related rates, and Newton's method.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Optimization, Related Rates and Newton''s Method'

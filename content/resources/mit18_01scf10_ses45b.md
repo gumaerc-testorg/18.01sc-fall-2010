@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/a76b14bf67d60914d0ecb38e9d32cfb3_MIT18_01SCF10_Ses45b.pdf
+description: This resource contains information about some easy integrals.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/a76b14bf67d60914d0ecb38e9d32cfb3_MIT18_01SCF10_Ses45b.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_Ses45b.pdf
 uid: a76b14bf-67d6-0914-d0ec-b38e9d32cfb3
 ---
 This resource contains information about some easy integrals.
+

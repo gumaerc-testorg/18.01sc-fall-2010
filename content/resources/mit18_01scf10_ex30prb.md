@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/8f30d27e4838ab767b4f9c4a5538df18_MIT18_01SCF10_ex30prb.pdf
+description: This resource contains problem statements related to can design.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/8f30d27e4838ab767b4f9c4a5538df18_MIT18_01SCF10_ex30prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_ex30prb.pdf
 uid: 8f30d27e-4838-ab76-7b4f-9c4a5538df18
 ---
 This resource contains problem statements related to can design.
+

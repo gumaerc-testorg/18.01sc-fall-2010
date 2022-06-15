@@ -1,7 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/d06918b918ec707d6923f240d8d9803e_MIT18_01SCF10_ex57prb.pdf
+description: This resource contains problem statements related to revolution about
+  x-axis.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/d06918b918ec707d6923f240d8d9803e_MIT18_01SCF10_ex57prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +14,4 @@ title: MIT18_01SCF10_ex57prb.pdf
 uid: d06918b9-18ec-707d-6923-f240d8d9803e
 ---
 This resource contains problem statements related to revolution about x-axis.
+

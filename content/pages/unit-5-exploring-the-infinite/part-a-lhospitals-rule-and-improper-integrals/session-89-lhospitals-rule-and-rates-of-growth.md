@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on L'Hospital's
+  rule and rates of growth.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'

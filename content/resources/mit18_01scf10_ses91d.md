@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/3436435ea9b2f8a9ce0ea837d1e64217_MIT18_01SCF10_Ses91d.pdf
+description: This resource contains informations related to improper integrals.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/3436435ea9b2f8a9ce0ea837d1e64217_MIT18_01SCF10_Ses91d.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_Ses91d.pdf
 uid: 3436435e-a9b2-f8a9-ce0e-a837d1e64217
 ---
 This resource contains informations related to improper integrals.
+

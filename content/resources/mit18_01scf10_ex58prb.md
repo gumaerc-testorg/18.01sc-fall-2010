@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/26fd3790de98905fb54a05f427784e3c_MIT18_01SCF10_ex58prb.pdf
+description: This resource contains problem statements related to volume of a spheroid.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/26fd3790de98905fb54a05f427784e3c_MIT18_01SCF10_ex58prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_ex58prb.pdf
 uid: 26fd3790-de98-905f-b54a-05f427784e3c
 ---
 This resource contains problem statements related to volume of a spheroid.
+

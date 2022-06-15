@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/f8502402ca94817edcc6cd996eb538ad_MIT18_01SCF10_ex04prb.pdf
+description: This resource contains information related to continuous but not smooth.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/f8502402ca94817edcc6cd996eb538ad_MIT18_01SCF10_ex04prb.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ title: MIT18_01SCF10_ex04prb.pdf
 uid: f8502402-ca94-817e-dcc6-cd996eb538ad
 ---
 This resource contains information related to continuous but not smooth.
+
