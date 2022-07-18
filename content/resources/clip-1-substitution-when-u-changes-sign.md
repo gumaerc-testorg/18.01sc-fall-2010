@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2894'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2687'
 title: 'Clip 1: Substitution When u'' Changes Sign'
 uid: 9bf78a07-0409-1203-f5e8-6499961cc320
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 1RLctDS2hUQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses49c)
+» {{% resource_link df3338c7-a4e0-f30c-39b3-03d8e21b4d9d "Accompanying Notes (PDF)" %}}
 
-From Lecture 19 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 19 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

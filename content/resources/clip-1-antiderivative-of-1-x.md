@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2770'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 53: New Functions From Old'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2505'
 title: 'Clip 1: Antiderivative of 1/x'
 uid: 59393dbb-3698-09d4-f886-d1bca212eedf
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Pd2xP5zDsRw
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses53a)
+» {{% resource_link 357771ae-0a60-838d-757b-2e062650fe09 "Accompanying Notes (PDF)" %}}
 
-From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

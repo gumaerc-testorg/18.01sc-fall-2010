@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2103'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 21: Review for Exam 1'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1978'
 title: 'Clip 6: The Derivative of Everything?'
 uid: db72e3be-9987-e7cf-fe7c-e83999f2f2fb
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: eHJuAByQf5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses21f)
+» {{% resource_link 063490be-6ab8-c2d6-367d-57dfedb3afe5 "Accompanying Notes (PDF)" %}}
 
-From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

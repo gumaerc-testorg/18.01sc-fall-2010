@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on partial
+  fractions, integration by parts, volume, arc length, and surface area.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
@@ -10,7 +12,7 @@ title: Problem Set 10
 uid: 1fe1bcbe-1302-9213-7c7b-4820b5a8b3a0
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates) »
+« {{% resource_link 17929c9e-c324-e987-cc81-f0233bae0eee "Previous" %}} | {{% resource_link f19e1f54-f348-a68a-7308-89ee63f5b9d6 "Next" %}} »
 
 Overview
 --------
@@ -23,7 +25,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Integration Techniques (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5prb-2) to do the problems below.
+Use {{% resource_link cfe0b375-ce6c-0d7b-b231-f30e4fa18e44 "Integration Techniques (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -70,8 +72,8 @@ Integration by parts; Reduction formulas
 
 ### Solutions
 
-[Solutions to Integration Techniques problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5sol-2)
+{{% resource_link b8f998f4-a1e0-47a5-1a59-f1db698062af "Solutions to Integration Techniques problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates) »
+« {{% resource_link 17929c9e-c324-e987-cc81-f0233bae0eee "Previous" %}} | {{% resource_link f19e1f54-f348-a68a-7308-89ee63f5b9d6 "Next" %}} »

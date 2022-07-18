@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1184'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 14: Examples of Implicit Differentiation'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '833'
 title: 'Clip 2: Slope of Tangent to Circle: Implicit'
 uid: 21cba796-97d1-6197-5ea4-a92cb2b3d356
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 5q_3FDOkVRQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses14b)
+» {{% resource_link 6a8991fa-9765-7dce-d411-33ec8c9e4f4d "Accompanying Notes (PDF)" %}}
 
-From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 5 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

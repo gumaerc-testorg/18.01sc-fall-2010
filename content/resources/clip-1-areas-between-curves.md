@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1940'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1652'
 title: 'Clip 1: Areas Between Curves'
 uid: 2558fb30-1cf6-7016-7163-fdaf5f1bf318
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: _JXPe2J069c
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses56a)
+» {{% resource_link 01d3a640-ba2b-ee59-aabe-c8a6e0a8361d "Accompanying Notes (PDF)" %}}
 
-From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 21 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

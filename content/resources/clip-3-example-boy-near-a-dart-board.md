@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2004'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 62: Integrals and Probability'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '132'
 title: 'Clip 3: Example: Boy Near a Dart Board'
 uid: 5467a0f4-3642-1043-d98a-7ba2cd1226dd
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: jBkXbAgMj6s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses62d)
+» {{% resource_link e334c816-6da0-d389-882d-6dfbc4558477 "Accompanying Notes (PDF)" %}}
 
-From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 24 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

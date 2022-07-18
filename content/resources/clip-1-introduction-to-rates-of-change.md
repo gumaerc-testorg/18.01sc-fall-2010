@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '104'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 3: Derivative as Rate of Change'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Introduction to Rates of Change'
 uid: edebd5cb-3957-bf58-5013-4cddff465037
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: ryLdyDrBfvI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses3a)
+» {{% resource_link f8d5c2c9-a0c2-1641-5d02-b12d7e11dad9 "Accompanying Notes (PDF)" %}}
 
-From Lecture 2 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 2 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

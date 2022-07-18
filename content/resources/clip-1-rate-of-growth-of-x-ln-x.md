@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1784'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1542'
 title: 'Clip 1: Rate of Growth of x ln(x)'
 uid: 62cb8338-ddc3-6272-d8dd-9ec6f31f1ccf
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: PNTnmH6jsRI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses89a)
+» {{% resource_link d98016dc-c13f-1485-fbdd-9d23b36ed376 "Accompanying Notes (PDF)" %}}
 
-From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 35 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

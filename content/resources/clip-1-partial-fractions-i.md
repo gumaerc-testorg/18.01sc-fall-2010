@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '323'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 74: Integration by Partial Fractions'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Partial Fractions I'
 uid: 7aed1309-8982-e77f-20e1-3ccc99bde6f9
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: HgEqXhsIq_g
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses74a)
+» {{% resource_link 6eea4c77-8beb-1a4d-20c0-9ff69aee364f "Accompanying Notes (PDF)" %}}
 
-From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

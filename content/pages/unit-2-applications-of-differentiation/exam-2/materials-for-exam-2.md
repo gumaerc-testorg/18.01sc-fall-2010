@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains an exam on differentiation and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 2
@@ -9,7 +10,7 @@ title: 'Session 42: Materials for Exam 2'
 uid: 786c8726-3a74-59b9-e1df-bbb39f339887
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications) »
+« {{% resource_link e554ede2-ce57-704e-a428-384bd09a8e16 "Previous" %}} | {{% resource_link 4c201b00-a047-0284-ebd6-c546e0cc59ab "Next" %}} »
 
 Overview
 --------
@@ -22,8 +23,8 @@ In this session you will:
 Exam Materials
 --------------
 
-[Exam II (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam2)
+{{% resource_link 31f017f3-3940-5b5c-2d7b-273462522c23 "Exam II (PDF)" %}}
 
-[Solutions to Exam II (PDF)]({{< baseurl >}}/resources/mit18_01scf10_exam2sol)
+{{% resource_link 8bc1745c-c348-551c-b9b3-0fb6cc7f9ecf "Solutions to Exam II (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications) »
+« {{% resource_link e554ede2-ce57-704e-a428-384bd09a8e16 "Previous" %}} | {{% resource_link 4c201b00-a047-0284-ebd6-c546e0cc59ab "Next" %}} »

@@ -2,9 +2,10 @@
 content_type: resource
 description: This resource contains informations related to computing the length of
   a curve.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7520a365f27cd00445012bd383d7b9ed_MIT18_01SCF10_Ses78c.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7520a365f27cd00445012bd383d7b9ed_MIT18_01SCF10_Ses78c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 78: Computing the Length of a Curve'
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses78c.pdf
 uid: 7520a365-f27c-d004-4501-2bd383d7b9ed
 ---
+This resource contains informations related to computing the length of a curve.

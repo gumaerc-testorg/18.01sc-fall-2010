@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: This resource contains information about completing the square.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 73: Completing the Square'
 parent_type: CourseSection
@@ -12,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses73a.pdf
 uid: fb9139b8-1f46-3eaa-6764-2bcc598c620b
 ---
+This resource contains information about completing the square.

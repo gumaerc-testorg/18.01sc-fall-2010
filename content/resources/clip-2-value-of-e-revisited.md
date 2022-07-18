@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '335'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 19: An Interesting Limit Involving e'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 2: Value of e, Revisited'
 uid: ca34ad24-29c5-06af-a9ce-c1a783853611
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: eHJuAByQf5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses19b)
+» {{% resource_link 3bc168e2-6c9a-d158-6dc8-20ef1b83c183 "Accompanying Notes (PDF)" %}}
 
-From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

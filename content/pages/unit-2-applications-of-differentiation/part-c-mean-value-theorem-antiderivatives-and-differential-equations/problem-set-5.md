@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on the mean
+  value theorem, differentiation, and integration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
@@ -9,7 +11,7 @@ title: Problem Set 5
 uid: 97254795-b765-e86a-aa7a-43d7e75579c3
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/exam-2) »
+« {{% resource_link 6e674d24-154a-95a2-d7b4-dac2db7d6427 "Previous" %}} | {{% resource_link 2e8fc5a2-7f94-964a-4603-c27ff84434fc "Next" %}} »
 
 Overview
 --------
@@ -22,7 +24,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Applications of Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2prb-2) to do the problems below.
+Use {{% resource_link 0d7855ac-225e-4020-cd3f-258691a286cd "Applications of Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -55,7 +57,7 @@ Mean Value Theorem
 
 {{< tableclose >}}
 
-Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb) to do the problems below.
+Use {{% resource_link eaabc6c7-4a11-4023-41db-c120fffa5ea5 "Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -102,10 +104,10 @@ Differential equations: Separation of variables
 
 ### Solutions
 
-[Solutions to Applications of Differentiation problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2sol-2)
+{{% resource_link 56a6f202-a528-49dd-06f3-7dece53df29d "Solutions to Applications of Differentiation problems (PDF)" %}}
 
-[Solutions to Integration problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3sol)
+{{% resource_link 0c2dce08-3a72-b357-8eb1-803326353b67 "Solutions to Integration problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/exam-2) »
+« {{% resource_link 6e674d24-154a-95a2-d7b4-dac2db7d6427 "Previous" %}} | {{% resource_link 2e8fc5a2-7f94-964a-4603-c27ff84434fc "Next" %}} »

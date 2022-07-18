@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '510'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 7: Derivatives of Sine and Cosine'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '135'
 title: 'Clip 1: Derivative of sin(x), Algebraic Proof'
 uid: db7a32a1-49bc-77dd-172c-8fb5394cb5ab
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: kCPVBl953eY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses7a)
+» {{% resource_link dfa14ed6-1544-7485-87c8-3f9b46f43c28 "Accompanying Notes (PDF)" %}}
 
-From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

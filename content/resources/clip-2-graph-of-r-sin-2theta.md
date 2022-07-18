@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1309'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 84: Polar Coordinates and Graphing'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1060'
 title: 'Clip 2: Graph of r = sin(2&theta;)'
 uid: d144a8df-a938-110d-c248-250a5d0c0b71
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: BGE3wb7H2PA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses84b)
+» {{% resource_link af708d30-978d-f082-9e68-3d5ad3173cd6 "Accompanying Notes (PDF)" %}}
 
-From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

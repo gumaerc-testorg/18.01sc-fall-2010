@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1322'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1087'
 title: 'Clip 1: Integral of cos2(x)'
 uid: 5f7dd980-2deb-aa6c-d92d-7937e74b95a6
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Bv9kVDcj7yo
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses69a)
+» {{% resource_link 6cdd1829-fb6f-d739-3cf9-13c012551d7f "Accompanying Notes (PDF)" %}}
 
-From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '135'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 6: Calculating Derivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '76'
 title: 'Clip 2: Derivative of the Sum of Two Functions'
 uid: 4c18bf6a-dc98-ec8e-d31f-4326c29513d2
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: kCPVBl953eY
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses6b)
+» {{% resource_link 19d6ff99-de1d-78c9-a841-6717c6ef6116 "Accompanying Notes (PDF)" %}}
 
-From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

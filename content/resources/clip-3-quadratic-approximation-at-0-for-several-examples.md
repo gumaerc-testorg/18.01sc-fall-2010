@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2807'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 25: Introduction to Quadratic Approximation'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2505'
 title: 'Clip 3: Quadratic Approximation at 0 for Several Examples'
 uid: aca7d082-e903-4e2d-ba1e-f0b35ef6baa7
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: BSAA0akmPEU
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses25c)
+» {{% resource_link a5740d03-3bd0-9700-415b-b0589d0c5bff "Accompanying Notes (PDF)" %}}
 
-From Lecture 9 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 9 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

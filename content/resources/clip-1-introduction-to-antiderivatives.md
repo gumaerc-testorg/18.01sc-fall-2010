@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1088'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 37: Antiderivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '835'
 title: 'Clip 1: Introduction to Antiderivatives'
 uid: e3ae377c-282e-773c-ad21-43b164a5f095
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: -MI0b4h3rS0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses37a)
+» {{% resource_link 77e900e3-6bf3-abd8-51fa-bbb1dd816c09 "Accompanying Notes (PDF)" %}}
 
-From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

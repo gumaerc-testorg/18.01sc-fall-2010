@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1438'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 51: The Second Fundamental Theorem of Calculus'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1175'
 title: 'Clip 1: Second Fundamental Theorem of Calculus'
 uid: 752975a3-19c1-6369-42cb-3ed478cd0048
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Pd2xP5zDsRw
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses51a)
+» {{% resource_link 2459faee-7ec3-308a-fd5c-ca2b95fad48e "Accompanying Notes (PDF)" %}}
 
-From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

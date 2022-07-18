@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3092'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 2: Examples of Derivatives'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2607'
 title: 'Clip 4: Example 2: y=xn'
 uid: 884d82f1-5f19-51da-6cfe-a3fcd83fa713
 video_files:
@@ -23,6 +24,7 @@ video_metadata:
   youtube_id: 7K1sB05pE0A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_10scf10_ses2d)
+» {{% resource_link "b7a038cf-8441-7db9-072b-4ad0f36f75ba" "Accompanying Notes (PDF)" %}}
 
-From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

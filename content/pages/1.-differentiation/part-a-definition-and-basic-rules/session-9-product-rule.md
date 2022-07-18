@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on the product rule.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
@@ -9,7 +11,7 @@ title: 'Session 9: Product Rule'
 uid: d35aadf5-c6d2-e154-3aee-74e2dfdda970
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule) »
+« {{% resource_link efc851d8-16c4-5817-0838-c60287c6388d "Previous" %}} | {{% resource_link 94a0d0fd-de32-4bb5-4b34-d0ea12a6d94d "Next" %}} »
 
 Overview
 --------
@@ -21,11 +23,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction of Product and Quotient Rules]({{< baseurl >}}/resources/clip-1-introduction-of-product-and-quotient-rules)
+{{% resource_link 681df52e-99aa-508f-4eb7-22fe8b53e58b "Clip 1: Introduction of Product and Quotient Rules" %}}
 
-[Clip 2: Introduction to General Rules for Differentiation]({{< baseurl >}}/resources/clip-2-introduction-to-general-rules-for-differentiation)
+{{% resource_link 0668c074-9a3c-95c9-b0e9-62b71556ffbf "Clip 2: Introduction to General Rules for Differentiation" %}}
 
-[Clip 3: Product Rule]({{< baseurl >}}/resources/clip-3-product-rule)
+{{% resource_link 16133996-3009-898a-c35c-db10ca8742fd "Clip 3: Product Rule" %}}
 
 Recitation Video
 ----------------
@@ -39,7 +41,7 @@ Worked Example
 
 Smoothing a Piecewise Polynomial
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex09prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex09sol)
+*   {{% resource_link 83e5279a-611d-9d3f-5231-4a5176c34df8 "Problem (PDF)" %}}
+*   {{% resource_link b274df23-e6ad-a7c6-65e6-cfe72928b197 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule) »
+« {{% resource_link efc851d8-16c4-5817-0838-c60287c6388d "Previous" %}} | {{% resource_link 94a0d0fd-de32-4bb5-4b34-d0ea12a6d94d "Next" %}} »

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2908'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 73: Completing the Square'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2257'
 title: 'Clip 1: Completing the Square'
 uid: f63fde57-3e9a-993e-59b9-30b45700d9aa
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses73a)
+» {{% resource_link fb9139b8-1f46-3eaa-6764-2bcc598c620b "Accompanying Notes (PDF)" %}}
 
-From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

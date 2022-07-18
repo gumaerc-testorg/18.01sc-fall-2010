@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/581cba003af13ea8a5894a3e8c29f5c8_lec09.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/581cba003af13ea8a5894a3e8c29f5c8_lec09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 23: Linear Approximation'
 parent_type: CourseSection

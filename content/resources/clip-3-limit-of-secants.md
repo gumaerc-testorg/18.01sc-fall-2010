@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '712'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 1: Introduction to Derivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '525'
 title: 'Clip 3: Limit of Secants'
 uid: d3b6c68e-d743-811c-1b74-168eb258fa73
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 7K1sB05pE0A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses1c)
+» {{% resource_link c1d53189-e48d-c5e3-63a3-61930a1327e1 "Accompanying Notes (PDF)" %}}
 
-From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

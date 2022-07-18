@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '625'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '127'
 title: 'Clip 2: The Fundamental Theorem and the Mean Value Theorem'
 uid: 283b3679-0ae6-6283-e88a-d91da10563ef
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Pd2xP5zDsRw
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses50b)
+» {{% resource_link 520c9c6b-406e-92e5-9c53-3890c5c1e8f4 "Accompanying Notes (PDF)" %}}
 
-From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

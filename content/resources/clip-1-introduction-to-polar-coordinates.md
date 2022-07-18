@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2110'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 82: Polar Coordinates'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1691'
 title: 'Clip 1: Introduction to Polar Coordinates'
 uid: e48d3e0b-923b-3b92-1df0-b930b7b99d1b
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: XRkgBWbWvg4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses82a)
+» {{% resource_link 28e29ec3-5ff9-af85-cb9b-a7f176f3c41b "Accompanying Notes (PDF)" %}}
 
-From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2927'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 95: Series Comparison'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2804'
 title: 'Clip 3: Examples of Comparison'
 uid: 7360e2ad-8187-eadd-e3cb-45d5c3b0b7b9
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: MK_0QHbUnIA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses95c)
+» {{% resource_link a960e6b8-441b-5e3e-c8ac-c385397c2fd6 "Accompanying Notes (PDF)" %}}
 
-From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

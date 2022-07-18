@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2099'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 45: Some Easy Integrals'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1863'
 title: 'Clip 2: Summary of Examples'
 uid: 26f6623d-9d22-bf7c-88e7-1630a8cb811b
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: hjZhPczMkL4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses45b)
+» {{% resource_link a76b14bf-67d6-0914-d0ec-b38e9d32cfb3 "Accompanying Notes (PDF)" %}}
 
-From Lecture 18 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 18 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2424'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 66: Review for Exam 3'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2269'
 title: 'Clip 2: Types of Riemann Sums'
 uid: d59e58ac-aac5-7ebb-694c-f341e282159a
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: zUEuKrxgHws
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses66b)
+» {{% resource_link 21d83f83-9bd5-0c9c-c132-f77d2bb4b093 "Accompanying Notes (PDF)" %}}
 
-From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

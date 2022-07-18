@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and problem
+  solving videos as review materials for an exam on techniques of integration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 4
@@ -9,7 +11,7 @@ title: 'Session 85: Review for Exam 4'
 uid: 4699d63d-2fc1-6b8b-d7fc-498a382dc972
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4) »
+« {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" %}} | {{% resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" %}} »
 
 Overview
 --------
@@ -21,11 +23,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Review for Test IV]({{< baseurl >}}/resources/clip-1-review-for-test-iv)
+{{% resource_link 2ca56aab-b828-4dd3-65a7-78bfa6095a42 "Clip 1: Review for Test IV" %}}
 
-[Clip 2: Student Questions on Test IV]({{< baseurl >}}/resources/clip-2-student-questions-on-test-iv)
+{{% resource_link 44cd0f64-95bc-1e98-62e4-b349eabea7c1 "Clip 2: Student Questions on Test IV" %}}
 
-[Clip 3: Integral of x arctan(x)]({{< baseurl >}}/resources/clip-3-integral-of-x-arctan-x)
+{{% resource_link e35027b3-3aae-d5cc-c601-5ec61e810b7e "Clip 3: Integral of x arctan(x)" %}}
 
 Recitation Video
 ----------------
@@ -46,4 +48,4 @@ Recitation Video
 
 {{< resource f33bb888-4fb5-85aa-ed04-98e62a77a339 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4) »
+« {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" %}} | {{% resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" %}} »

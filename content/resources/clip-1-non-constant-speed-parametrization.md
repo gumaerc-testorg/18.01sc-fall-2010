@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1368'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 81: Examples Using Parametrized Curves'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '620'
 title: 'Clip 1: Non-Constant Speed Parametrization'
 uid: a20e892c-2e73-087c-b790-1f6311bad2c5
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: XRkgBWbWvg4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses81a)
+» {{% resource_link f6b80bf9-2372-79fe-2b9d-d35275ad8f74 "Accompanying Notes (PDF)" %}}
 
-From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

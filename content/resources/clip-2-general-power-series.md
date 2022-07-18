@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1956'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 97: Power Series'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1631'
 title: 'Clip 2: General Power Series'
 uid: 1c99b360-50ff-e6be-17a1-6d6faa28a530
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: wOHrNt9ScYs
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses97a)
+» {{% resource_link d6accb47-e5fd-104d-2d51-2b08a8f60b6e "Accompanying Notes (PDF)" %}}
 
-From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

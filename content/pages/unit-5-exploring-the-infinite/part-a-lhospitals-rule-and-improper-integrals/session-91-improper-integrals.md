@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on improper
+  integrals, problem solving videos, and a worked example.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
@@ -9,7 +11,7 @@ title: 'Session 91: Improper Integrals'
 uid: 3fa26881-9900-b3ee-4bc8-d590323f17dc
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison) »
+« {{% resource_link 6cc72b08-f871-7a2d-7b73-7df7f698c876 "Previous" %}} | {{% resource_link ed231e9c-5635-6bb1-e18c-555d00f08398 "Next" %}} »
 
 Overview
 --------
@@ -21,21 +23,21 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Improper Integrals]({{< baseurl >}}/resources/clip-1-introduction-to-improper-integrals)
+{{% resource_link a1b145e8-1662-c317-4693-c8019f5e8c2f "Clip 1: Introduction to Improper Integrals" %}}
 
-[Clip 2: Integral of e-kx]({{< baseurl >}}/resources/clip-2-integral-of-e2212kx)
+{{% resource_link 701d97e9-3387-aae0-3af4-99f9fa14663a "Clip 2: Integral of e-kx" %}}
 
-[Clip 3: Integral of e-x2]({{< baseurl >}}/resources/clip-3-integral-of-e2212x2)
+{{% resource_link 84fb0684-cb2d-1a77-d22d-2388f0f6c17a "Clip 3: Integral of e-x2" %}}
 
-[Clip 4: Integral of 1/x]({{< baseurl >}}/resources/clip-4-integral-of-1-x)
+{{% resource_link 856c2ef2-077d-5244-b0c2-bdf1f5ac42fa "Clip 4: Integral of 1/x" %}}
 
 Worked Example
 --------------
 
 Integrating 1/(5x + 2){{< sup "2" >}} from 1 to Inﬁnity
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex91prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex91sol)
+*   {{% resource_link a66fcfeb-7409-639c-6cce-6ad67831c25c "Problem (PDF)" %}}
+*   {{% resource_link 07163bb0-b7ba-935b-72ae-14d3d0850ed2 "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -49,7 +51,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Integral of 1/(xp)]({{< baseurl >}}/resources/clip-1-integral-of-1-xp)
+{{% resource_link c9635997-f882-cad9-8020-47fb4c3d78e5 "Clip 1: Integral of 1/(xp)" %}}
 
 Recitation Video
 ----------------
@@ -58,4 +60,4 @@ Recitation Video
 
 {{< resource a5f9ac2b-f477-7ed4-e8ad-9cdfd146ae7c >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison) »
+« {{% resource_link 6cc72b08-f871-7a2d-7b73-7df7f698c876 "Previous" %}} | {{% resource_link ed231e9c-5635-6bb1-e18c-555d00f08398 "Next" %}} »

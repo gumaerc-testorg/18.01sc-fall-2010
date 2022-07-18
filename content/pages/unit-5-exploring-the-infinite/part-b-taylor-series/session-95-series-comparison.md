@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, problem
+  solving videos, and a worked example on using Riemann sums to compare series to
+  indefinite integrals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'
@@ -9,7 +12,7 @@ title: 'Session 95: Series Comparison'
 uid: e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks) »
+« {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" %}} | {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" %}} »
 
 Overview
 --------
@@ -21,11 +24,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Comparison of the Harmonic Series]({{< baseurl >}}/resources/clip-1-comparison-of-the-harmonic-series)
+{{% resource_link 8457d830-2260-7871-6c20-ba475c31040d "Clip 1: Comparison of the Harmonic Series" %}}
 
-[Clip 2: Comparison Tests]({{< baseurl >}}/resources/clip-2-comparison-tests)
+{{% resource_link 0fae367a-b6ad-00a1-134e-90a124d98f74 "Clip 2: Comparison Tests" %}}
 
-[Clip 3: Examples of Comparison]({{< baseurl >}}/resources/clip-3-examples-of-comparison)
+{{% resource_link 7360e2ad-8187-eadd-e3cb-45d5c3b0b7b9 "Clip 3: Examples of Comparison" %}}
 
 Recitation Video
 ----------------
@@ -43,8 +46,8 @@ Worked Example
 
 Using the Ratio Test
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex95prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex95sol)
+*   {{% resource_link 827156a8-50e1-f9bc-5617-d8d0c5856f63 "Problem (PDF)" %}}
+*   {{% resource_link deb763be-346e-b1b8-42a1-88b4d453149e "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -57,4 +60,4 @@ Recitation Video
 
 {{< resource 9da4dde8-80bb-2ef0-f288-4ee46a2efca0 >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks) »
+« {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" %}} | {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on infinite series.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'
@@ -9,7 +11,7 @@ title: 'Session 94: Infinite Series'
 uid: 1825bfbb-d364-7c86-fa97-71d985c21513
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison) »
+« {{% resource_link 1c9b9277-6c16-c587-013d-2f3b4e9b94a0 "Previous" %}} | {{% resource_link e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542 "Next" %}} »
 
 Overview
 --------
@@ -21,13 +23,13 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Inﬁnite Series]({{< baseurl >}}/resources/clip-1-introduction-to-infinite-series)
+{{% resource_link 1602117f-778e-b5e7-eb1c-34b09a4456f5 "Clip 1: Introduction to Inﬁnite Series" %}}
 
-[Clip 2: Divergent Series]({{< baseurl >}}/resources/clip-2-divergent-series)
+{{% resource_link eb4aa9c6-d11e-d1a6-56d9-1c573593761e "Clip 2: Divergent Series" %}}
 
-[Clip 3: Notation for Series]({{< baseurl >}}/resources/clip-3-notation-for-series)
+{{% resource_link 9f12422b-43a4-4958-7071-49a79308cc3d "Clip 3: Notation for Series" %}}
 
-[Clip 4: Examples of Series]({{< baseurl >}}/resources/clip-4-examples-of-series)
+{{% resource_link 7afcc397-1c5c-9f71-c23b-226ff406ddc2 "Clip 4: Examples of Series" %}}
 
 Recitation Video
 ----------------
@@ -41,7 +43,7 @@ Worked Example
 
 Summing the Geometric Series
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex94prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex94sol)
+*   {{% resource_link db8f7368-a52e-e6e6-9946-ef40ecd5f9e3 "Problem (PDF)" %}}
+*   {{% resource_link 63683785-ad83-4a6a-8b6d-cb66fcee9066 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison) »
+« {{% resource_link 1c9b9277-6c16-c587-013d-2f3b4e9b94a0 "Previous" %}} | {{% resource_link e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542 "Next" %}} »

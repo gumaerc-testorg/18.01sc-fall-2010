@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on prerequisites, goals, course structure, lecture videos, recitation videos, readings,
+  assignments, exams, technical requirements, and study groups.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 08db2ed9-10ad-c41a-6bce-da6c3bf65e1f
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/1.-differentiation) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link ff2c27ef-f0de-3981-0c3e-51a37548e568 "Next" %}} »
 
 Introduction
 ------------
@@ -105,4 +108,4 @@ Technical Requirements
 
 This course includes features that do not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/1.-differentiation) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link ff2c27ef-f0de-3981-0c3e-51a37548e568 "Next" %}} »

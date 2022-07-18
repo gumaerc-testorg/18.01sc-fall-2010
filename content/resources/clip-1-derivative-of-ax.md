@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1950'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1630'
 title: 'Clip 1: Derivative of ax'
 uid: 36a525be-7086-37b3-7ccf-72368ce1973e
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses17c)
+» {{% resource_link defa7c81-5e8c-8471-c6dd-d99a9d0d730a "Accompanying Notes (PDF)" %}}
 
-From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

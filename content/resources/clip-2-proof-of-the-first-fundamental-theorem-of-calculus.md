@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2505'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 52: Proving the Fundamental Theorem of Calculus'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1990'
 title: 'Clip 2: Proof of the First Fundamental Theorem of Calculus'
 uid: 58f5b4f2-afb2-20f1-ec7a-5eb30727a2b1
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Pd2xP5zDsRw
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses52b)
+» {{% resource_link e5e4813a-c3a0-b21f-6153-2842c7ce8a8c "Accompanying Notes (PDF)" %}}
 
-From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

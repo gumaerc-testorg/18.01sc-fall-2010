@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review materials and an exam on computing derivatives
+  using differentiation rules, solutions, and review materials.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 1. Differentiation
@@ -9,11 +11,11 @@ title: Exam 1
 uid: ffc4ad3d-8715-27a0-ef73-8ec4809f2038
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/problem-set-2) | [Next]({{< baseurl >}}/pages/1.-differentiation/exam-1/session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules) »
+« {{% resource_link 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1 "Previous" %}} | {{% resource_link 0bc7f9cd-2fd4-5990-1983-2c45df40e073 "Next" %}} »
 
 Congratulations! You've made it through Unit 1. Now it's time to test your knowledge. Begin with the review, and when you're ready, take the exam. When you're done, use the included solutions to check your answers.
 
-> » [Session 21: Review for Exam 1 - Computing Derivatives Using Differentiation Rules]({{< baseurl >}}/pages/1.-differentiation/exam-1/session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules)  
-> » [Session 22: Materials for Exam 1]({{< baseurl >}}/pages/1.-differentiation/exam-1/session-22-materials-for-exam-1)
+> » {{% resource_link 0bc7f9cd-2fd4-5990-1983-2c45df40e073 "Session 21: Review for Exam 1 - Computing Derivatives Using Differentiation Rules" %}}  
+> » {{% resource_link 6d519874-7ffe-03bd-ab00-3afba5203c7d "Session 22: Materials for Exam 1" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/problem-set-2) | [Next]({{< baseurl >}}/pages/1.-differentiation/exam-1/session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules) »
+« {{% resource_link 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1 "Previous" %}} | {{% resource_link 0bc7f9cd-2fd4-5990-1983-2c45df40e073 "Next" %}} »

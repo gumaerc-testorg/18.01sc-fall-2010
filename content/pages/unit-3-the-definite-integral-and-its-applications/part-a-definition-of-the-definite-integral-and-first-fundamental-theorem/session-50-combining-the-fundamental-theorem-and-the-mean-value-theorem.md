@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a worked
+  example on combining the fundamental theorem and the mean value theorem.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
@@ -9,7 +11,7 @@ title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem
 uid: 40dfd7f7-2524-55d1-041a-5ecfb183cd9f
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6) »
+« {{% resource_link bd925f6f-8a78-fde6-be8c-709ded2799e9 "Previous" %}} | {{% resource_link bc72db41-0b84-f2d1-a10a-6c5a9399e431 "Next" %}} »
 
 Overview
 --------
@@ -21,18 +23,18 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Review of the Fundamental Theorem]({{< baseurl >}}/resources/clip-1-review-of-the-fundamental-theorem)
+{{% resource_link c207e7c4-151e-2084-9581-e05f1ba4058c "Clip 1: Review of the Fundamental Theorem" %}}
 
-[Clip 2: The Fundamental Theorem and the Mean Value Theorem]({{< baseurl >}}/resources/clip-2-the-fundamental-theorem-and-the-mean-value-theorem)
+{{% resource_link 283b3679-0ae6-6283-e88a-d91da10563ef "Clip 2: The Fundamental Theorem and the Mean Value Theorem" %}}
 
-[Clip 3: The Mean Value Theorem and Estimation]({{< baseurl >}}/resources/clip-3-the-mean-value-theorem-and-estimation)
+{{% resource_link 09b631e8-98bb-2abc-d19c-2df04d1a0c63 "Clip 3: The Mean Value Theorem and Estimation" %}}
 
 Worked Example
 --------------
 
 Estimating ln(5)
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex50prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex50sol)
+*   {{% resource_link a7bb8a35-dacf-44c1-ae34-b89143656f82 "Problem (PDF)" %}}
+*   {{% resource_link d57f59c5-0b7f-e8ea-e95e-25e0f64a44d1 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6) »
+« {{% resource_link bd925f6f-8a78-fde6-be8c-709ded2799e9 "Previous" %}} | {{% resource_link bc72db41-0b84-f2d1-a10a-6c5a9399e431 "Next" %}} »

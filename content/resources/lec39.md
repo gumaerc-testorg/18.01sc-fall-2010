@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ad905e28c967bfd4c6ddc75e2714f761_lec39.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ad905e28c967bfd4c6ddc75e2714f761_lec39.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 99: Taylor''s Series, Continued'
 parent_type: CourseSection

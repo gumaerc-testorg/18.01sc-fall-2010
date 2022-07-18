@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: This resource contains information related to examples of linear approximation.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/016abeae7a6e2c220798361d6105dae7_MIT18_01SCF10_Ses24d.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/016abeae7a6e2c220798361d6105dae7_MIT18_01SCF10_Ses24d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection
@@ -12,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses24d.pdf
 uid: 016abeae-7a6e-2c22-0798-361d6105dae7
 ---
+This resource contains information related to examples of linear approximation.

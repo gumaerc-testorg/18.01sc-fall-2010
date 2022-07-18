@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/41db82fdf13a58f6a70743d85011a96e_W7sNkRpcydk.vtt
+file: /courses/18-01sc-single-variable-calculus-fall-2010/41db82fdf13a58f6a70743d85011a96e_W7sNkRpcydk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

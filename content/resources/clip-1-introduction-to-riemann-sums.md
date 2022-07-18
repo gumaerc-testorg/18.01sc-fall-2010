@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2392'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 46: Riemann Sums'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2099'
 title: 'Clip 1: Introduction to Riemann Sums'
 uid: 20c7d614-77a9-507b-e4f7-51a842ca7075
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: hjZhPczMkL4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses46a)
+» {{% resource_link 523ebde5-1093-f1b0-1b42-191bde0ec1dc "Accompanying Notes (PDF)" %}}
 
-From Lecture 18 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 18 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

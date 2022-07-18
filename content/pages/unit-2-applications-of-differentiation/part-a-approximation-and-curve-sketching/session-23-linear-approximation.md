@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a worked
+  example on linear approximation.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Approximation and Curve Sketching'
@@ -9,7 +11,7 @@ title: 'Session 23: Linear Approximation'
 uid: 6c111f0f-1d0b-5fad-e36a-1ca3687104d2
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation) »
+« {{% resource_link 8c88ae04-1747-5c6d-ae97-e569853bfd9e "Previous" %}} | {{% resource_link 332503c0-9be8-a2d7-ca74-9e218630b6f3 "Next" %}} »
 
 Overview
 --------
@@ -21,27 +23,27 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Introduction to Linear Approximation]({{< baseurl >}}/resources/clip-1-introduction-to-linear-approximation)
+{{% resource_link 6f2e5165-3d0a-b6a7-6028-4f89a387ec1a "Clip 1: Introduction to Linear Approximation" %}}
 
-[Clip 2: Linear Approximation to ln x at x=1]({{< baseurl >}}/resources/clip-2-linear-approximation-to-ln-x-at-x-1)
+{{% resource_link 1829ea7f-0b84-4f60-7dc5-cf440a6d3737 "Clip 2: Linear Approximation to ln x at x=1" %}}
 
-[Clip 3: Linear Approximation and the Definition of the Derivative]({{< baseurl >}}/resources/clip-3-linear-approximation-and-the-definition-of-the-derivative)
+{{% resource_link b04e8b12-2634-1893-a32f-ff2f8e7ca789 "Clip 3: Linear Approximation and the Definition of the Derivative" %}}
 
-[Clip 4: Approximations at 0 for Sine, Cosine and Exponential Functions]({{< baseurl >}}/resources/clip-4-approximations-at-0-for-sine-cosine-and-exponential-functions)
+{{% resource_link d05d2844-d71c-e6e4-b188-56df7c3bd252 "Clip 4: Approximations at 0 for Sine, Cosine and Exponential Functions" %}}
 
 Worked Example
 --------------
 
 Comparing Linear Approximations and Calculator Computations
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex23prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex23sol)
+*   {{% resource_link f94c79bc-e97c-8292-a73f-4a678200d80e "Problem (PDF)" %}}
+*   {{% resource_link 3ec09c2e-10fb-07da-17fc-cb0097419b3c "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Approximations at 0 for ln(1+x) and (1+x)r]({{< baseurl >}}/resources/clip-1-approximations-at-0-for-ln-1-x-and-1-x-r)
+{{% resource_link f94e298e-6404-225b-1dcb-b3e56d7c5192 "Clip 1: Approximations at 0 for ln(1+x) and (1+x)r" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation) »
+« {{% resource_link 8c88ae04-1747-5c6d-ae97-e569853bfd9e "Previous" %}} | {{% resource_link 332503c0-9be8-a2d7-ca74-9e218630b6f3 "Next" %}} »

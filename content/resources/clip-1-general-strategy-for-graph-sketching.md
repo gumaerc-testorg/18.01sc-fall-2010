@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1594'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 28: Sketching Graphs II - General Strategies'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1162'
 title: 'Clip 1: General Strategy for Graph Sketching'
 uid: c88b54fd-0cc4-6ca0-b8d0-b1637d0ae31c
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: twzGBqPeW0M
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses28a)
+» {{% resource_link 04248907-c72e-201f-7e64-41e43127d34f "Accompanying Notes (PDF)" %}}
 
-From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 11 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

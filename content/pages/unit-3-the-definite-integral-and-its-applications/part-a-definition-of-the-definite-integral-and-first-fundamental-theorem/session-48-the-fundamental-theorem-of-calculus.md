@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a worked
+  example on the fundamental theorem of calculus.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
@@ -9,7 +11,7 @@ title: 'Session 48: The Fundamental Theorem of Calculus'
 uid: bdc58167-f550-8759-dd27-9c33d7d08852
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus) »
+« {{% resource_link 49d44d0c-d4d7-368f-b654-10f6924c7265 "Previous" %}} | {{% resource_link bd925f6f-8a78-fde6-be8c-709ded2799e9 "Next" %}} »
 
 Overview
 --------
@@ -21,18 +23,18 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Interpretation of the Fundamental Theorem]({{< baseurl >}}/resources/clip-1-interpretation-of-the-fundamental-theorem)
+{{% resource_link 3d0e48d9-709b-ecc8-6a6b-010ab5a65917 "Clip 1: Interpretation of the Fundamental Theorem" %}}
 
-[Clip 2: The Fundamental Theorem and Negative Integrands]({{< baseurl >}}/resources/clip-2-the-fundamental-theorem-and-negative-integrands)
+{{% resource_link 83ede839-1575-8b9e-c732-ce30c0b4083e "Clip 2: The Fundamental Theorem and Negative Integrands" %}}
 
-[Clip 3: Properties of Integrals]({{< baseurl >}}/resources/clip-3-properties-of-integrals)
+{{% resource_link 44c7a859-7fab-fcc7-3a10-95481ed65928 "Clip 3: Properties of Integrals" %}}
 
 Worked Example
 --------------
 
 Integral of sin(x) + cos(x)
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex48prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex48sol)
+*   {{% resource_link f1fa0c83-7890-f510-6d02-accbc4b1e610 "Problem (PDF)" %}}
+*   {{% resource_link 6b761d37-d9d2-17a4-20ee-2be18f8c1887 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus) »
+« {{% resource_link 49d44d0c-d4d7-368f-b654-10f6924c7265 "Previous" %}} | {{% resource_link bd925f6f-8a78-fde6-be8c-709ded2799e9 "Next" %}} »

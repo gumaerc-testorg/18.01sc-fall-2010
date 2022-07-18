@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '825'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 99: Taylor''s Series, Continued'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '622'
 title: 'Clip 2: Taylor''s Series of 1/(1 + x)'
 uid: 52214f10-b4bf-d356-3b04-b560ea00fe26
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: --lPz7VFnKI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses99b)
+» {{% resource_link 0d2a3329-ac09-9f33-4a1d-44c56fcbbf62 "Accompanying Notes (PDF)" %}}
 
-From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

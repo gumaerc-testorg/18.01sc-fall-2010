@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/9789e0ae388b395f64d15b4e48d3eef7_lec18.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/9789e0ae388b395f64d15b4e48d3eef7_lec18.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 43: Definite Integrals'
 parent_type: CourseSection

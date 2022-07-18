@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '525'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 1: Introduction to Derivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '229'
 title: 'Clip 2: Geometric Interpretation of Differentiation'
 uid: c792b8c6-7c9d-5e16-2de2-70472fc10cbc
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 7K1sB05pE0A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses1b)
+» {{% resource_link acf917af-6fb8-8659-fe64-f36e2b7c5d57 "Accompanying Notes (PDF)" %}}
 
-From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

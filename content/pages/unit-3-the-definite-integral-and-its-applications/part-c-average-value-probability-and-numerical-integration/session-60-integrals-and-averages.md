@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on integrals and averages.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Average Value, Probability and Numerical Integration'
@@ -9,7 +11,7 @@ title: 'Session 60: Integrals and Averages'
 uid: 7e226a8f-f629-6ef6-9052-4c46584132b9
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages) »
+« {{% resource_link e1f8a1b7-89b8-3e57-da0e-01f4ada7283a "Previous" %}} | {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Next" %}} »
 
 Overview
 --------
@@ -21,11 +23,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Average Value]({{< baseurl >}}/resources/clip-1-average-value)
+{{% resource_link 2e69c78b-735d-12dd-5cf8-119f116194b5 "Clip 1: Average Value" %}}
 
-[Clip 2: Average Height (3 min)]({{< baseurl >}}/resources/clip-2-average-height-3-min)
+{{% resource_link 23b977c2-15c6-c476-cfc3-d8c93c944fdc "Clip 2: Average Height (3 min)" %}}
 
-[Clip 3: Average Height with Respect to Arc Length]({{< baseurl >}}/resources/clip-3-average-height-with-respect-to-arc-length)
+{{% resource_link 405986cd-097b-17cc-4740-e7351b2d9a91 "Clip 3: Average Height with Respect to Arc Length" %}}
 
 Recitation Video
 ----------------
@@ -39,7 +41,7 @@ Worked Example
 
 Average Bank Balance
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex60prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex60sol)
+*   {{% resource_link 505691d6-7652-838e-a715-66b872225032 "Problem (PDF)" %}}
+*   {{% resource_link ea21a4fd-21c7-b1c8-45cc-3bc6cdbb63ca "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages) »
+« {{% resource_link e1f8a1b7-89b8-3e57-da0e-01f4ada7283a "Previous" %}} | {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Next" %}} »

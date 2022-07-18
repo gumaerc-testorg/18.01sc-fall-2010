@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/f9559e0393ec511dd94023a5ea8b3aad_lec9ses2ex1-linearprod.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/f9559e0393ec511dd94023a5ea8b3aad_lec9ses2ex1-linearprod.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection

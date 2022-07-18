@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on parametric curves.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'
@@ -9,7 +11,7 @@ title: 'Session 80: Parametric Curves'
 uid: b58d1c03-b5e7-2b4f-c2ef-553cda5d94b7
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves) »
+« {{% resource_link f19e1f54-f348-a68a-7308-89ee63f5b9d6 "Previous" %}} | {{% resource_link 7aa6522b-6e8e-0d13-937e-54ed6e52710d "Next" %}} »
 
 Overview
 --------
@@ -21,9 +23,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Parametric Curve]({{< baseurl >}}/resources/clip-1-parametric-curve)
+{{% resource_link e1918d2e-f4da-a829-500e-7545045013ba "Clip 1: Parametric Curve" %}}
 
-[Clip 2: Arclength of Parametric Curves]({{< baseurl >}}/resources/clip-2-arclength-of-parametric-curves)
+{{% resource_link 7cc3d21f-746b-6359-55c9-4c52e587995c "Clip 2: Arclength of Parametric Curves" %}}
 
 Recitation Video
 ----------------
@@ -37,14 +39,14 @@ Worked Example
 
 Exploring a Parametric Curve
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex80prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex80sol)
+*   {{% resource_link e66c8099-2e44-903c-541a-243893c59cb8 "Problem (PDF)" %}}
+*   {{% resource_link 15f8e387-86ae-3b73-8375-debb112ee660 "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Remarks on Notation]({{< baseurl >}}/resources/clip-1-remarks-on-notation)
+{{% resource_link 2b3d96ec-6849-27d4-3c9a-88074f93a3ca "Clip 1: Remarks on Notation" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves) »
+« {{% resource_link f19e1f54-f348-a68a-7308-89ee63f5b9d6 "Previous" %}} | {{% resource_link 7aa6522b-6e8e-0d13-937e-54ed6e52710d "Next" %}} »

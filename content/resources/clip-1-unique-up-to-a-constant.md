@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1812'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 37: Antiderivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1583'
 title: 'Clip 1: Unique Up to a Constant'
 uid: dfb75152-409c-e679-6b40-7f4591085130
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: -MI0b4h3rS0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses37d)
+» {{% resource_link 56d2c2c3-f631-bd9c-3aa5-6fefaeb2ac21 "Accompanying Notes (PDF)" %}}
 
-From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

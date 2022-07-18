@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a problem
+  solving video on integrals and calculating probabilities.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Average Value, Probability and Numerical Integration'
@@ -9,7 +11,7 @@ title: 'Session 62: Integrals and Probability'
 uid: 1fa09ca8-1711-139c-23be-618aa2768257
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration) »
+« {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" %}} | {{% resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" %}} »
 
 Overview
 --------
@@ -21,7 +23,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Probability Example]({{< baseurl >}}/resources/clip-1-probability-example)
+{{% resource_link be2cda1d-e808-0c2f-a839-184764113a23 "Clip 1: Probability Example" %}}
 
 Recitation Video
 ----------------
@@ -35,10 +37,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Probability Summary]({{< baseurl >}}/resources/clip-1-probability-summary)
+{{% resource_link 002a0815-5c29-5178-11c1-0c730b3fc435 "Clip 1: Probability Summary" %}}
 
-[Clip 2: Errata: Heat is Energy]({{< baseurl >}}/resources/clip-2-errata-heat-is-energy)
+{{% resource_link 8f339de6-8e74-01e1-cfc5-16177757a96d "Clip 2: Errata: Heat is Energy" %}}
 
-[Clip 3: Example: Boy Near a Dart Board]({{< baseurl >}}/resources/clip-3-example-boy-near-a-dart-board)
+{{% resource_link 5467a0f4-3642-1043-d98a-7ba2cd1226dd "Clip 3: Example: Boy Near a Dart Board" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration) »
+« {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" %}} | {{% resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" %}} »

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1838'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 75: Advanced Partial Fractions'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1106'
 title: 'Clip 1: Repeated Factors'
 uid: e13a4260-6553-2d89-001f-b551e986ee9d
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: HgEqXhsIq_g
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses75a)
+» {{% resource_link 3b3d8994-0e5c-01c4-4288-a15fa6a15a00 "Accompanying Notes (PDF)" %}}
 
-From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 29 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

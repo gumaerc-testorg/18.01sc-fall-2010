@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '845'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 1: Introduction to Derivatives'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '712'
 title: 'Clip 4: Slope as Ratio'
 uid: 59a43799-5266-d194-39e9-22a4d0a243e7
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 7K1sB05pE0A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses1d)
+» {{% resource_link aa7ab172-8076-df1d-b34e-a18fabc4a6e1 "Accompanying Notes (PDF)" %}}
 
-From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 1 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

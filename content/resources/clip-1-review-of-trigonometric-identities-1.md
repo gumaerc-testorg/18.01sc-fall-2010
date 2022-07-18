@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '313'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Review of Trigonometric Identities'
 uid: e99b3a88-f6ef-4a63-454b-2367b37f131d
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Bv9kVDcj7yo
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses68a)
+» {{% resource_link 24110cac-2bff-3cb6-32e6-9a79fd67d6ae "Accompanying Notes (PDF)" %}}
 
-From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

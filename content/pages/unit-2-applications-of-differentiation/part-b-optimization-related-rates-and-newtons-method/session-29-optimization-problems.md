@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a problem
+  solving video on optimization problems.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Optimization, Related Rates and Newton''s Method'
@@ -9,7 +11,7 @@ title: 'Session 29: Optimization Problems'
 uid: 588fcaec-bbe5-0916-60df-df0b2efe6908
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii) »
+« {{% resource_link 7bd0936f-cddb-b454-b9e5-dab2884cc641 "Previous" %}} | {{% resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +23,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Maxima and Minima Using Graphs]({{< baseurl >}}/resources/clip-1-maxima-and-minima-using-graphs)
+{{% resource_link 2b5b0255-3beb-7e4b-5611-f43156cf17e1 "Clip 1: Maxima and Minima Using Graphs" %}}
 
-[Clip 2: Maximum Area of Two Squares]({{< baseurl >}}/resources/clip-2-maximum-area-of-two-squares)
+{{% resource_link 11f92d7d-d5cd-89ce-3b3c-8d86adf5bb56 "Clip 2: Maximum Area of Two Squares" %}}
 
 Recitation Video
 ----------------
@@ -36,4 +38,4 @@ Recitation Video
 
 {{< resource b7f5d0c5-5ff7-6512-692b-b905d1c9c55d >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method) | [Next]({{< baseurl >}}/pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii) »
+« {{% resource_link 7bd0936f-cddb-b454-b9e5-dab2884cc641 "Previous" %}} | {{% resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Next" %}} »

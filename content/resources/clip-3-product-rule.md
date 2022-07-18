@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '683'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 9: Product Rule'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '149'
 title: 'Clip 3: Product Rule'
 uid: 16133996-3009-898a-c35c-db10ca8742fd
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 4sTKcvYMNxk
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses9c)
+» {{% resource_link ed51540e-220b-7007-0bea-62f3b383cffa "Accompanying Notes (PDF)" %}}
 
-From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 4 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '243'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: The First Fundamental Theorem of Calculus'
 uid: c699182b-bdb8-86ac-4b31-a264b770dc1e
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: 1RLctDS2hUQ
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses47a)
+» {{% resource_link 3b9fc2f3-47fc-bcbe-38bd-049f61f85f97 "Accompanying Notes (PDF)" %}}
 
-From Lecture 19 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 19 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

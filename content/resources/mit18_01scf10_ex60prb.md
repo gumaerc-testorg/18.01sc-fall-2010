@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to average work balance.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/505691d67652838ea71566b872225032_MIT18_01SCF10_ex60prb.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/505691d67652838ea71566b872225032_MIT18_01SCF10_ex60prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 60: Integrals and Averages'
 parent_type: CourseSection
@@ -12,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_ex60prb.pdf
 uid: 505691d6-7652-838e-a715-66b872225032
 ---
+This resource contains problem statements related to average work balance.

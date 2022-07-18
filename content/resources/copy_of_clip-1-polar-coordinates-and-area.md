@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '837'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 83: Polar Coordinates, Continued'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '386'
 title: 'Clip 2: Area of an Off-Center Circle'
 uid: f9ab02fb-90fc-603d-7c27-1db29e848cfc
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: BGE3wb7H2PA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses83b)
+» {{% resource_link 545fbd57-7609-8bdc-96b6-cdc702211d7b "Accompanying Notes (PDF)" %}}
 
-From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 33 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

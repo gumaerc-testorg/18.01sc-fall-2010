@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1709'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 72: Trig Substitution'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '932'
 title: 'Clip 1: Example of Trig Substitution'
 uid: bc3b478f-8ba1-a899-213d-d9ecf563005a
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses72a)
+» {{% resource_link fed451b0-6b0f-0f2f-dd3b-680f8ba5ca70 "Accompanying Notes (PDF)" %}}
 
-From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

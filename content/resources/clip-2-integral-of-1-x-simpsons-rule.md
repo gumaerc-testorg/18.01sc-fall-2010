@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '672'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 64: Numerical Integration, Continued'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '357'
 title: 'Clip 2: Integral of 1/x, Simpson''s rule '
 uid: 72411e77-7f15-7e90-935d-69b37f791c7d
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: zUEuKrxgHws
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses64b)
+» {{% resource_link 580bd75e-9da8-6878-efd3-a04e3b959f13 "Accompanying Notes (PDF)" %}}
 
-From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

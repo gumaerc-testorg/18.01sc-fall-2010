@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on parametric
+  curves, polar coordinates, and graphing.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'
@@ -9,7 +11,7 @@ title: Problem Set 11
 uid: b4238780-f29b-563a-34b0-5363b1ac982c
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4) »
+« {{% resource_link cfd25e33-da1a-2e54-749f-33591f59a4ba "Previous" %}} | {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Next" %}} »
 
 Overview
 --------
@@ -22,7 +24,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb-3) to do the problems below.
+Use {{% resource_link 2557f5e0-942d-a4ca-041a-690ad29fb4db "Applications of Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,8 +83,8 @@ Surface area
 
 ### Solutions
 
-[Solutions to Applications of Integration problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4sol-3)
+{{% resource_link d79b8c2e-df68-1e2b-38dd-ce74c468ea26 "Solutions to Applications of Integration problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/exam-4) »
+« {{% resource_link cfd25e33-da1a-2e54-749f-33591f59a4ba "Previous" %}} | {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Next" %}} »

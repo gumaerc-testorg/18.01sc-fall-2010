@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2130'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 38: Integration by Substitution'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1812'
 title: 'Clip 1: Substitution'
 uid: 6f2769cc-535a-36e9-0aba-3dc0e7ff31ba
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: -MI0b4h3rS0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses38a)
+» {{% resource_link 4ae5ff13-fdcb-547a-5b8e-184f69f83043 "Accompanying Notes (PDF)" %}}
 
-From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 15 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

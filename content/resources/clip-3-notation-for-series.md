@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1752'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 94: Infinite Series'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1574'
 title: 'Clip 3: Notation for Series'
 uid: 9f12422b-43a4-4958-7071-49a79308cc3d
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: MK_0QHbUnIA
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses94c)
+» {{% resource_link 8eb6f949-cdcf-e1a4-dca3-ceab1a5e93e3 "Accompanying Notes (PDF)" %}}
 
-From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

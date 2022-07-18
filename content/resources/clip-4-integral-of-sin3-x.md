@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1087'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '969'
 title: 'Clip 4: Integral of sin3(x)'
 uid: 3a158e4a-2894-2d87-2f4e-a0edecb20877
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: Bv9kVDcj7yo
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses68d)
+» {{% resource_link 7f42e190-3761-541a-a5a2-c23ecc46fe7a "Accompanying Notes (PDF)" %}}
 
-From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 27 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on the definite
+  integral and its applications.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
@@ -9,7 +11,7 @@ title: Problem Set 6
 uid: bc72db41-0b84-f2d1-a10a-6c5a9399e431
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes) »
+« {{% resource_link 40dfd7f7-2524-55d1-041a-5ecfb183cd9f "Previous" %}} | {{% resource_link 82a633f3-2c2b-0be8-4fba-01f5e5741006 "Next" %}} »
 
 Overview
 --------
@@ -22,7 +24,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb-1) to do the problems below.
+Use {{% resource_link b2afcc40-0bbf-a669-d9ee-aca005bdd857 "Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -55,7 +57,7 @@ Definite integrals
 
 {{< tableclose >}}
 
-Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb) to do the problems below.
+Use {{% resource_link 3e922394-0488-1253-b589-329ff8de0800 "Applications of Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -88,7 +90,7 @@ Other applications
 
 {{< tableclose >}}
 
-Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb-1) to do the problems below.
+Use {{% resource_link b2afcc40-0bbf-a669-d9ee-aca005bdd857 "Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -133,7 +135,7 @@ Change of variables; Estimating integrals
 
 {{< tableclose >}}
 
-Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb) to do the problems below.
+Use {{% resource_link 3e922394-0488-1253-b589-329ff8de0800 "Applications of Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -168,10 +170,10 @@ Other applications
 
 ### Solutions
 
-[Solutions to Integration problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3sol-1)
+{{% resource_link a48839fb-6b53-e634-f6d0-63fd99340380 "Solutions to Integration problems (PDF)" %}}
 
-[Solutions to Applications of Integration problems (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4sol)
+{{% resource_link 4a247b06-5570-1dfe-bcbd-4e235c16c726 "Solutions to Applications of Integration problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes) »
+« {{% resource_link 40dfd7f7-2524-55d1-041a-5ecfb183cd9f "Previous" %}} | {{% resource_link 82a633f3-2c2b-0be8-4fba-01f5e5741006 "Next" %}} »

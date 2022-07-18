@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1855'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 100: Operations on Power Series'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1600'
 title: 'Clip 3: Integral of a Power Series'
 uid: 23f2e99f-06a9-097c-dc34-a1acc66d2587
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: --lPz7VFnKI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses100c)
+» {{% resource_link 91ad4049-7f98-4b81-1ea4-63edd4d5e755 "Accompanying Notes (PDF)" %}}
 
-From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 39 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

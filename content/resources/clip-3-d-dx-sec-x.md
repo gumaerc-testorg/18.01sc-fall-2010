@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1582'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 21: Review for Exam 1'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1465'
 title: 'Clip 3: d/dx (sec x)'
 uid: 1cf1415e-5c62-268c-8b7d-be4fbed409dc
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: eHJuAByQf5A
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses21c)
+» {{% resource_link f8e05f6f-6d7f-75b5-4b6d-990eaa667901 "Accompanying Notes (PDF)" %}}
 
-From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 7 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

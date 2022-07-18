@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on proving
+  the fundamental theorem of calculus.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
@@ -9,7 +11,7 @@ title: 'Session 52: Proving the Fundamental Theorem of Calculus'
 uid: 593f1575-26f1-927f-d6ea-05e37c3d4475
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old) »
+« {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" %}} | {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" %}} »
 
 Overview
 --------
@@ -21,8 +23,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Proof of the Second Fundamental Theorem of Calculus]({{< baseurl >}}/resources/clip-1-proof-of-the-second-fundamental-theorem-of-calculus)
+{{% resource_link 4396dc9b-442a-9119-9079-f97d58dd045c "Clip 1: Proof of the Second Fundamental Theorem of Calculus" %}}
 
-[Clip 2: Proof of the First Fundamental Theorem of Calculus]({{< baseurl >}}/resources/clip-2-proof-of-the-first-fundamental-theorem-of-calculus)
+{{% resource_link 58f5b4f2-afb2-20f1-ec7a-5eb30727a2b1 "Clip 2: Proof of the First Fundamental Theorem of Calculus" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old) »
+« {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" %}} | {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" %}} »

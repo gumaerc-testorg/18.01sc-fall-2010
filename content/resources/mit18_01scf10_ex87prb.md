@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to L'hospital's rule.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection
@@ -12,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_ex87prb.pdf
 uid: 308a1ff0-99fa-f66c-4dc1-4595014a3b2d
 ---
+This resource contains problem statements related to L'hospital's rule.

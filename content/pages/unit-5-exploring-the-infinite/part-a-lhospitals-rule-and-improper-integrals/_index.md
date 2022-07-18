@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to Unit 5, which unit covers topics
+  related to limits, infinitely many, or infinitely small values.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 5. Exploring the Infinite
@@ -9,16 +11,16 @@ title: 'Part A: L''Hospital''s Rule and Improper Integrals'
 uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule) »
+« {{% resource_link 6e3abd11-deb0-9fc4-9199-b1e8893935e7 "Previous" %}} | {{% resource_link c9916c2b-1136-9b0f-6489-e2805c8cd4c5 "Next" %}} »
 
 L'Hospital's rule describes how we can use the derivative to calculate certain limits. The second half of this part of the course discusses how to calculate the area under a graph when that area is unbounded.
 
-> » [Session 87: L'Hospital's Rule]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule)  
-> » [Session 88: Examples of L'Hospital's Rule]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule)  
-> » [Session 89: L'Hospital's Rule and Rates of Growth]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-89-lhospitals-rule-and-rates-of-growth)  
-> » [Session 90: Advanced Examples of L'Hospital's Rule]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule)  
-> » [Session 91: Improper Integrals]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals)  
-> » [Session 92: Integral Comparison]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison)  
-> » [Session 93: Indefinite Integrals and Singularities]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities)
+> » {{% resource_link c9916c2b-1136-9b0f-6489-e2805c8cd4c5 "Session 87: L'Hospital's Rule" %}}  
+> » {{% resource_link 7a8cdab5-6a9e-46b3-5225-a2bc22295a0f "Session 88: Examples of L'Hospital's Rule" %}}  
+> » {{% resource_link 2f33db82-7cc3-3056-ef71-0f503d79cc8f "Session 89: L'Hospital's Rule and Rates of Growth" %}}  
+> » {{% resource_link 6cc72b08-f871-7a2d-7b73-7df7f698c876 "Session 90: Advanced Examples of L'Hospital's Rule" %}}  
+> » {{% resource_link 3fa26881-9900-b3ee-4bc8-d590323f17dc "Session 91: Improper Integrals" %}}  
+> » {{% resource_link ed231e9c-5635-6bb1-e18c-555d00f08398 "Session 92: Integral Comparison" %}}  
+> » {{% resource_link f502f183-c03e-6d5e-51e8-24f9afc4cf8c "Session 93: Indefinite Integrals and Singularities" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule) »
+« {{% resource_link 6e3abd11-deb0-9fc4-9199-b1e8893935e7 "Previous" %}} | {{% resource_link c9916c2b-1136-9b0f-6489-e2805c8cd4c5 "Next" %}} »

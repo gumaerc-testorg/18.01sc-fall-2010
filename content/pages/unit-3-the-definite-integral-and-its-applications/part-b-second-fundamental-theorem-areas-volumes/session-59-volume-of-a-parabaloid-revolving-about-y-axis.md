@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on the "method of shells" for calculating volumes.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
@@ -9,7 +11,7 @@ title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 uid: 2a892d50-ed01-26e1-5d36-03ad2d218d9e
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7) »
+« {{% resource_link ea17c591-946b-ebd5-f9a9-889e9e6fa3ee "Previous" %}} | {{% resource_link fdbe350c-a59a-fe09-833c-9efd91b52a3f "Next" %}} »
 
 Overview
 --------
@@ -21,9 +23,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Volume of a Cauldron]({{< baseurl >}}/resources/clip-1-volume-of-a-cauldron)
+{{% resource_link e47bcb5c-665a-b462-7761-ab3aef710feb "Clip 1: Volume of a Cauldron" %}}
 
-[Clip 2: Warning about Units]({{< baseurl >}}/resources/clip-2-warning-about-units)
+{{% resource_link bbf68501-1cc0-de38-5244-42d29e1b11b2 "Clip 2: Warning about Units" %}}
 
 Recitation Video
 ----------------
@@ -41,7 +43,7 @@ Worked Example
 
 Volume of Revolution via Washers
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex59prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex59sol)
+*   {{% resource_link d415dfc3-a3d9-0d26-00be-6042a65b45c4 "Problem (PDF)" %}}
+*   {{% resource_link 6d5d4159-c454-3a9e-b0da-70a3ed82ba42 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7) »
+« {{% resource_link ea17c591-946b-ebd5-f9a9-889e9e6fa3ee "Previous" %}} | {{% resource_link fdbe350c-a59a-fe09-833c-9efd91b52a3f "Next" %}} »

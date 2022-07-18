@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1691'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 81: Examples Using Parametrized Curves'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1368'
 title: 'Clip 2: Surface Area of an Ellipsoid'
 uid: 5fc0efb0-2b63-e4b2-cd4b-c9fbdd8919de
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: XRkgBWbWvg4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses81b)
+» {{% resource_link 1fde91f9-aaff-3f81-a3e2-26a634fbcb73 "Accompanying Notes (PDF)" %}}
 
-From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

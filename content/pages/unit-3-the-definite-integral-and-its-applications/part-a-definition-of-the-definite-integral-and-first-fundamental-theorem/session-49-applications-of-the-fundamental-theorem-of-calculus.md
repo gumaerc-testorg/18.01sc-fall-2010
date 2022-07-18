@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on applications of the fundamental theorem of
+  calculus.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition of the Definite Integral and First Fundamental Theorem'
@@ -9,7 +12,7 @@ title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
 uid: bd925f6f-8a78-fde6-be8c-709ded2799e9
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem) »
+« {{% resource_link bdc58167-f550-8759-dd27-9c33d7d08852 "Previous" %}} | {{% resource_link 40dfd7f7-2524-55d1-041a-5ecfb183cd9f "Next" %}} »
 
 Overview
 --------
@@ -21,9 +24,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Example of Estimation]({{< baseurl >}}/resources/clip-1-example-of-estimation)
+{{% resource_link b082b961-1b7f-bf53-70c3-3aecc9efbcad "Clip 1: Example of Estimation" %}}
 
-[Clip 2: Example: Change of Variables]({{< baseurl >}}/resources/clip-2-example-change-of-variables)
+{{% resource_link ae7444dd-c5be-d738-762c-034d9e24aaf5 "Clip 2: Example: Change of Variables" %}}
 
 Recitation Video
 ----------------
@@ -37,14 +40,14 @@ Worked Example
 
 Integration by Change of Variables
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex49prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex49sol)
+*   {{% resource_link 8bf9c580-94c2-838a-33e3-3eced5b6473f "Problem (PDF)" %}}
+*   {{% resource_link 4c5b3493-101f-ac5c-2cfb-7d47deb10514 "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-[Clip 1: Substitution When u' Changes Sign]({{< baseurl >}}/resources/clip-1-substitution-when-u-changes-sign)
+{{% resource_link 9bf78a07-0409-1203-f5e8-6499961cc320 "Clip 1: Substitution When u' Changes Sign" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus) | [Next]({{< baseurl >}}/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem) »
+« {{% resource_link bdc58167-f550-8759-dd27-9c33d7d08852 "Previous" %}} | {{% resource_link 40dfd7f7-2524-55d1-041a-5ecfb183cd9f "Next" %}} »

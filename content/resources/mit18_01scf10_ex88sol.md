@@ -2,9 +2,10 @@
 content_type: resource
 description: This resource contains the solutions for the problems related to the
   rational expressions.
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 88: Examples of L''Hospital''s Rule'
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: MIT18_01SCF10_ex88sol.pdf
 uid: 30e0d666-6463-5459-3044-bb9e2349bd02
 ---
+This resource contains the solutions for the problems related to the rational expressions.

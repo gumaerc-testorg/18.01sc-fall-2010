@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2689'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 5: Discontinuity'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2590'
 title: 'Clip 4: Other (Ugly) Discontinuities'
 uid: f51b0250-8aa3-4b87-1333-b1af39c5201a
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: ryLdyDrBfvI
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses5d)
+» {{% resource_link f4318f7b-f625-3b00-d930-51b1efe6e2a0 "Accompanying Notes (PDF)" %}}
 
-From Lecture 2 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 2 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

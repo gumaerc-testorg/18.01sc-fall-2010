@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2962'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 82: Polar Coordinates'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2659'
 title: 'Clip 4: Equation of an Off-Center Circle'
 uid: e0c6c5e4-9c89-82ae-888d-1531a0bf4c02
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: XRkgBWbWvg4
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses82d)
+» {{% resource_link ff8afc03-e73e-71fb-f141-c3c2ba7dbea7 "Accompanying Notes (PDF)" %}}
 
-From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 32 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

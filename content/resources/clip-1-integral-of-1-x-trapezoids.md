@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '357'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 64: Numerical Integration, Continued'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '20'
 title: 'Clip 1: Integral of 1/x, Trapezoids'
 uid: 1b3afc86-5d16-d93d-3ef0-93d7e95cebde
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: zUEuKrxgHws
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses64a)
+» {{% resource_link 85fe5284-1cc9-5fcf-bd6c-b13d068be87e "Accompanying Notes (PDF)" %}}
 
-From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 25 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

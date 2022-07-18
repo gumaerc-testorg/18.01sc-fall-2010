@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on L'Hospital's
+  rule and rates of growth.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
@@ -9,7 +11,7 @@ title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
 uid: 2f33db82-7cc3-3056-ef71-0f503d79cc8f
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule) »
+« {{% resource_link 7a8cdab5-6a9e-46b3-5225-a2bc22295a0f "Previous" %}} | {{% resource_link 6cc72b08-f871-7a2d-7b73-7df7f698c876 "Next" %}} »
 
 Overview
 --------
@@ -21,10 +23,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Rate of Growth of x ln(x)]({{< baseurl >}}/resources/clip-1-rate-of-growth-of-x-ln-x)
+{{% resource_link 62cb8338-ddc3-6272-d8dd-9ec6f31f1ccf "Clip 1: Rate of Growth of x ln(x)" %}}
 
-[Clip 2: Rate of Growth of epx]({{< baseurl >}}/resources/clip-2-rate-of-growth-of-epx)
+{{% resource_link 49c67f0f-f298-68b4-4efc-bae63048de55 "Clip 2: Rate of Growth of epx" %}}
 
-[Clip 3: Comparing Growth of ln(x) and x1/3]({{< baseurl >}}/resources/clip-3-comparing-growth-of-ln-x-and-x1-3)
+{{% resource_link 9d115bd0-2419-655e-06fe-ff0bd27cb562 "Clip 3: Comparing Growth of ln(x) and x1/3" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule) | [Next]({{< baseurl >}}/pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule) »
+« {{% resource_link 7a8cdab5-6a9e-46b3-5225-a2bc22295a0f "Previous" %}} | {{% resource_link 6cc72b08-f871-7a2d-7b73-7df7f698c876 "Next" %}} »

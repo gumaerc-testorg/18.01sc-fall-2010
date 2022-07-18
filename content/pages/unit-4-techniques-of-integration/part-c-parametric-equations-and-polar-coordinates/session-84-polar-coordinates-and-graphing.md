@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and  lecture notes on polar
+  coordinates and graphing, a problem solving video, and a worked example.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'
@@ -9,7 +11,7 @@ title: 'Session 84: Polar Coordinates and Graphing'
 uid: cfd25e33-da1a-2e54-749f-33591f59a4ba
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11) »
+« {{% resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" %}} | {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" %}} »
 
 Overview
 --------
@@ -21,11 +23,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Graph of r = 2a cos(θ)]({{< baseurl >}}/resources/clip-1-graph-of-r-2a-cos-theta-1)
+{{% resource_link 2636a2bf-6ae7-99f8-e724-0c23ac9ab0ad "Clip 1: Graph of r = 2a cos(θ)" %}}
 
-[Clip 2: Graph of r = sin(2θ)]({{< baseurl >}}/resources/clip-2-graph-of-r-sin-2theta)
+{{% resource_link d144a8df-a938-110d-c248-250a5d0c0b71 "Clip 2: Graph of r = sin(2θ)" %}}
 
-[Clip 3: Polar Coordinates and Conic Sections]({{< baseurl >}}/resources/copy2_of_clip-1-graph-of-r-2a-cos-3b8)
+{{% resource_link aa32da2a-5d52-2a63-9548-3067a2b74e99 "Clip 3: Polar Coordinates and Conic Sections" %}}
 
 Recitation Video
 ----------------
@@ -34,4 +36,4 @@ Recitation Video
 
 {{< resource 6aa9e798-b5fc-e910-0576-4051cf752e3e >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued) | [Next]({{< baseurl >}}/pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11) »
+« {{% resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" %}} | {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" %}} »

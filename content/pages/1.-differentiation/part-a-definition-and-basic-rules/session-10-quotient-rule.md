@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a problem
+  solving video, and a worked example on the the derivative of a quotient.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'
@@ -9,7 +11,7 @@ title: 'Session 10: Quotient Rule'
 uid: 94a0d0fd-de32-4bb5-4b34-d0ea12a6d94d
 ---
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule) »
+« {{% resource_link d35aadf5-c6d2-e154-3aee-74e2dfdda970 "Previous" %}} | {{% resource_link 68feb14b-a590-b3b0-88c9-89717ae12492 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +23,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-[Clip 1: Quotient Rule]({{< baseurl >}}/resources/clip-1-quotient-rule)
+{{% resource_link 151b73a1-59d0-6ba9-999a-fb42037db4a9 "Clip 1: Quotient Rule" %}}
 
-[Clip 2: Example: Reciprocals]({{< baseurl >}}/resources/clip-2-example-reciprocals)
+{{% resource_link 58d13ffa-697c-341f-624a-b8555b663adf "Clip 2: Example: Reciprocals" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +39,7 @@ Worked Example
 
 Quotient Rule Practice
 
-*   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex10prb)
-*   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex10sol)
+*   {{% resource_link 7f48447a-fdcb-2280-3f56-8bf5653707c5 "Problem (PDF)" %}}
+*   {{% resource_link 52f9d8dc-2dd6-79f9-b04a-ad2d581ac7b7 "Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule) | [Next]({{< baseurl >}}/pages/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule) »
+« {{% resource_link d35aadf5-c6d2-e154-3aee-74e2dfdda970 "Previous" %}} | {{% resource_link 68feb14b-a590-b3b0-88c9-89717ae12492 "Next" %}} »

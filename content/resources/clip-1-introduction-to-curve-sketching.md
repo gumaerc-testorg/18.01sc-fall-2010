@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2184'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
@@ -11,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1774'
 title: 'Clip 1: Introduction to Curve Sketching'
 uid: a93937ba-5f1f-20b7-0d95-9170c9043130
 video_files:
@@ -23,6 +25,7 @@ video_metadata:
   youtube_id: eRCN3daFCmU
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses27a)
+» {{% resource_link 17daff6a-2631-74df-a0a1-4b73a4d36d91 "Accompanying Notes (PDF)" %}}
 
-From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 10 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+
