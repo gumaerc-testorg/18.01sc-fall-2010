@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on differentiation.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'

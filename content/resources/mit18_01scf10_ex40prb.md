@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/3a605920f61fe4414a84e6393c68252c_MIT18_01SCF10_ex40prb.pdf
+description: This resource contains problem statements related to exponential growth
+  and inhibited growth.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/3a605920f61fe4414a84e6393c68252c_MIT18_01SCF10_ex40prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 40: Separation of Variables'
 parent_type: CourseSection

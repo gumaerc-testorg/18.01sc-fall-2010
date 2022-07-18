@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on polar
+  coordinates, and a recitation video on converting from polar to rectangular coordinates.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'

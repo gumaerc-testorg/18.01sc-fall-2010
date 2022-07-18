@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/f806d7f06df82639483a24d467a4fa28_MIT18_01SCF10_ex25sol.pdf
+description: This resource contains solutions for the problem statements related to
+  quadratic approximation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/f806d7f06df82639483a24d467a4fa28_MIT18_01SCF10_ex25sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 25: Introduction to Quadratic Approximation'
 parent_type: CourseSection

@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf
+description: 'This resource contains solutions of applications of differentiation
+  problems. '
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection

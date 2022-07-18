@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/0987196a66a20a67fdb3e07197c8fedf_MIT18_01SCF10_Ses59b.pdf
+description: This resource contains information about volume of a parabaloid, revolving
+  about y-axis.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/0987196a66a20a67fdb3e07197c8fedf_MIT18_01SCF10_Ses59b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 parent_type: CourseSection

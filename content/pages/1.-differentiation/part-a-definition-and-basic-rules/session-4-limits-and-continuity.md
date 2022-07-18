@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, a worked
+  example, a problem solving video, and an interactive mathlet with supporting documents.
+  This session discusses limits and introduces the related concept of continuity.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part A: Definition and Basic Rules'

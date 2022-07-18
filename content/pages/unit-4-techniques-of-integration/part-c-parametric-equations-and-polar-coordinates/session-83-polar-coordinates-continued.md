@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts and lecture notes on how
+  to use polar coordinates to find areas
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Parametric Equations and Polar Coordinates'

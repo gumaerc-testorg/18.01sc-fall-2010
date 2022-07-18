@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
+description: "This resource contains the solutions for the problems related to the\
+  \ con\uFB01rming an integral converges."
+file: /courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 92: Integral Comparison'
 parent_type: CourseSection

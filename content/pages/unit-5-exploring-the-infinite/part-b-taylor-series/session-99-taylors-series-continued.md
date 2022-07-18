@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a problem
+  solving video on convergence of an alternating Taylor's series and other examples.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes lectures on optimization and using derivatives
+  to relate two rates of change and to estimate the values for which a function's
+  output is zero.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 2. Applications of Differentiation

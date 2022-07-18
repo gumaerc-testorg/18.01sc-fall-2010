@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, problem
+  solving videos, and a worked example on using Riemann sums to compare series to
+  indefinite integrals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Taylor Series'

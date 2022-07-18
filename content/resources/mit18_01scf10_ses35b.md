@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/d564cd7fe40fca45b09ebf3e11fbe08c_MIT18_01SCF10_Ses35b.pdf
+description: This resource contains information related to mean value theorem.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/d564cd7fe40fca45b09ebf3e11fbe08c_MIT18_01SCF10_Ses35b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 35: Using the Mean Value Theorem'
 parent_type: CourseSection

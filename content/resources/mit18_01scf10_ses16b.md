@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/2a31431f4430eb4b9e378d92d97447d9_MIT18_01SCF10_Ses16b.pdf
+description: This resource contains information related to the derivative of a^x.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/2a31431f4430eb4b9e378d92d97447d9_MIT18_01SCF10_Ses16b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 16: The Derivative of a^x'
 parent_type: CourseSection

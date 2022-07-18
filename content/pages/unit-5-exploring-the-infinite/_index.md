@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes the unit on exploring the infinite, one of the
+  five major units of the course. This unit covers topics related to limits, infinitely
+  many, or infinitely small values.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 5. Exploring the Infinite

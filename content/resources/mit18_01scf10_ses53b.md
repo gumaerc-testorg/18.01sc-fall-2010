@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/c8cdad3e6b8b128d19f54b884372a8e2_MIT18_01SCF10_Ses53b.pdf
+description: This resource contains information about new functions from old.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/c8cdad3e6b8b128d19f54b884372a8e2_MIT18_01SCF10_Ses53b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 53: New Functions From Old'
 parent_type: CourseSection

@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/a50461c0ed97fe386150e8319ddfd1c0_MIT18_01SCF10_Ses28b.pdf
+description: This resource contains information about sketching graphs II - general
+  strategies.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/a50461c0ed97fe386150e8319ddfd1c0_MIT18_01SCF10_Ses28b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 28: Sketching Graphs II - General Strategies'
 parent_type: CourseSection

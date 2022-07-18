@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture video and notes as review for an exam on
+  computing derivatives using differentiation rules
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 1

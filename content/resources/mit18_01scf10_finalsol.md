@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/bbbf05286af4bd705af325080bea0e23_MIT18_01SCF10_finalsol.pdf
+description: This resource contains information regarding final exam solutions.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/bbbf05286af4bd705af325080bea0e23_MIT18_01SCF10_finalsol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 102: Materials for Final Exam'
 parent_type: CourseSection

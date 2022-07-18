@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/5ea09bd950f5eb4b2d95f9e1fd64457f_MIT18_01SCF10_Ses26c.pdf
+description: This resource contains information about using quadratic approximations.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/5ea09bd950f5eb4b2d95f9e1fd64457f_MIT18_01SCF10_Ses26c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 26: Using Quadratic Approximations'
 parent_type: CourseSection

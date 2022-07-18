@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains lecture video excerpts and lecture notes on the
+  technique of logarithmic differentiation, and a problem solving video. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Implicit Differentiation and Inverse Functions'

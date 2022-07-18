@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/67baf73b6ba9ae11a967b3c792897b38_MIT18_01SCF10_ex81sol.pdf
+description: This resource contains the solutions for the problems related to the
+  path of a falling object.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/67baf73b6ba9ae11a967b3c792897b38_MIT18_01SCF10_ex81sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 81: Examples Using Parametrized Curves'
 parent_type: CourseSection

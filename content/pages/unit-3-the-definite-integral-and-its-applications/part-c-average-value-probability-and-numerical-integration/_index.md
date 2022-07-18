@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lectures on integrals, average value, probability,
+  and numerical Integration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 3. The Definite Integral and its Applications

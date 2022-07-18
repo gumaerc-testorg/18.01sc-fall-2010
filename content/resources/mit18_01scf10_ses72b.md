@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/b38610b62565b666eca180c95f751f4f_MIT18_01SCF10_Ses72b.pdf
+description: This resource contains information about trig substitution.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/b38610b62565b666eca180c95f751f4f_MIT18_01SCF10_Ses72b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 72: Trig Substitution'
 parent_type: CourseSection

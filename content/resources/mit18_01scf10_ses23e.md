@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/29f7e8b35ecc89da1c7b8c2b6e7e9220_MIT18_01SCF10_Ses23e.pdf
+description: This resource contains information related to linear approximation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/29f7e8b35ecc89da1c7b8c2b6e7e9220_MIT18_01SCF10_Ses23e.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 23: Linear Approximation'
 parent_type: CourseSection

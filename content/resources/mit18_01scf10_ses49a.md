@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/e9c3e78435d55e8c4c547331786e36f0_MIT18_01SCF10_Ses49a.pdf
+description: This resource contains information about applications of the fundamental
+  theorem of calculus.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/e9c3e78435d55e8c4c547331786e36f0_MIT18_01SCF10_Ses49a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
 parent_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, problem
+  solving videos, and a worked example on separation of variables.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'

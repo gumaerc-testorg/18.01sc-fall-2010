@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section extends the methods of Part A to exponential and implicitly
+  defined functions. By the end of Part B, we are able to differentiate most elementary
+  functions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 1. Differentiation

@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/cd0bdfcdfd8bd1ab482edfc795431c30_MIT18_01SCF10_ex19aprb.pdf
+description: This resource contains problem statements related to the evaluating an
+  interesting limit.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/cd0bdfcdfd8bd1ab482edfc795431c30_MIT18_01SCF10_ex19aprb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 19: An Interesting Limit Involving e'
 parent_type: CourseSection

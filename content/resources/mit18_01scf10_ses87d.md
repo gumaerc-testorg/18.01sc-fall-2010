@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/f3b4a479d7372657961c56569ef89883_MIT18_01SCF10_Ses87d.pdf
+description: This resource contains informations related to l'hospital's rule.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/f3b4a479d7372657961c56569ef89883_MIT18_01SCF10_Ses87d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection

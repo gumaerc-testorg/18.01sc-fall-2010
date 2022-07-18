@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/95219df9dd0ecab04b1170fd84348fc1_MIT18_01SCF10_ex79sol.pdf
+description: This resource contains solutions for the problem statements related to
+  surface area.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/95219df9dd0ecab04b1170fd84348fc1_MIT18_01SCF10_ex79sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 79: Surface Area'
 parent_type: CourseSection

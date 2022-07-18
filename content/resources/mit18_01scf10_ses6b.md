@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/19d6ff99de1d78c9a8416717c6ef6116_MIT18_01SCF10_Ses6b.pdf
+description: This resource contains information related to calculating derivatives.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/19d6ff99de1d78c9a8416717c6ef6116_MIT18_01SCF10_Ses6b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 6: Calculating Derivatives'
 parent_type: CourseSection

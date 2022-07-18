@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/326abc19e334ea879a2c03b2171648ad_MIT18_01SCF10_Ses76e.pdf
+description: This resource contains informations related to integration by parts.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/326abc19e334ea879a2c03b2171648ad_MIT18_01SCF10_Ses76e.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 76: Integration by Parts'
 parent_type: CourseSection

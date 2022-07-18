@@ -4,6 +4,7 @@ description: ''
 end_time: '1230'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'

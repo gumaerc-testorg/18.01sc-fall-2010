@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/df4b202a59855a2a7bdd3c4dc44aad5c_MIT18_01SCF10_ex14sol.pdf
+description: This resource contains solutions for the problem statements related to
+  examples of implicit differentiation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/df4b202a59855a2a7bdd3c4dc44aad5c_MIT18_01SCF10_ex14sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 14: Examples of Implicit Differentiation'
 parent_type: CourseSection

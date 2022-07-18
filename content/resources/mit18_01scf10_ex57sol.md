@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/bc1ab4a7fc56f6acd939f29c072fe58f_MIT18_01SCF10_ex57sol.pdf
+description: This resource contains solutions for the problem statements related to
+  calculating volumes.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/bc1ab4a7fc56f6acd939f29c072fe58f_MIT18_01SCF10_ex57sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection

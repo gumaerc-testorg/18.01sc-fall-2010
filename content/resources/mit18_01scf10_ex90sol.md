@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/299f052a016230a785ca6bf44b79d6db_MIT18_01SCF10_ex90sol.pdf
+description: "This resource contains the solutions for the problems related to the\
+  \ extension of l\u2019H\u02C6opital\u2019s rule."
+file: /courses/18-01sc-single-variable-calculus-fall-2010/299f052a016230a785ca6bf44b79d6db_MIT18_01SCF10_ex90sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
 parent_type: CourseSection

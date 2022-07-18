@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains lecture video excerpts and lecture notes on how
+  to take the derivative of a constant raised to a variable power, and a worked example. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part B: Implicit Differentiation and Inverse Functions'

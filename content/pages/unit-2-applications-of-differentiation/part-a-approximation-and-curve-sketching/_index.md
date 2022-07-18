@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes how differentiation can be used to simplify complex
+  calculations and graph functions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 2. Applications of Differentiation

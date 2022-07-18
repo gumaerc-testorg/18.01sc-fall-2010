@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/9b87200113a867e6c8b22b35b75259f4_MIT18_01SCF10_Ses38b.pdf
+description: This resource contains information about integration by substitution.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/9b87200113a867e6c8b22b35b75259f4_MIT18_01SCF10_Ses38b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 38: Integration by Substitution'
 parent_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/8f010974972c100f3627d4d7d55aca35_MIT18_01SCF10_Ses65a.pdf
+description: This resource contains information about bell curve, conclusion.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/8f010974972c100f3627d4d7d55aca35_MIT18_01SCF10_Ses65a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 65: Bell Curve, Conclusion'
 parent_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/db95459072c80eb2d2cbdb18ec0824fb_MIT18_01SCF10_Ses57a.pdf
+description: This resource contains information about how to calculate volumes.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/db95459072c80eb2d2cbdb18ec0824fb_MIT18_01SCF10_Ses57a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection

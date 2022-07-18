@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ca87fbbc7c39c0e65522e050f1247b3d_MIT18_01SCF10_Ses62a.pdf
+description: This resource contains information about integrals and probability.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ca87fbbc7c39c0e65522e050f1247b3d_MIT18_01SCF10_Ses62a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 62: Integrals and Probability'
 parent_type: CourseSection

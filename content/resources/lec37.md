@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ff0edae5996e93bf4c55931355dbe5f8_lec37.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ff0edae5996e93bf4c55931355dbe5f8_lec37.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 93: Indefinite Integrals and Singularities'
 parent_type: CourseSection

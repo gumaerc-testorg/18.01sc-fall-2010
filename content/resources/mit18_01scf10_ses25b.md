@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7e7cd7ea5dacc66997a9f15d1d6cb762_MIT18_01SCF10_Ses25b.pdf
+description: New file Upload
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7e7cd7ea5dacc66997a9f15d1d6cb762_MIT18_01SCF10_Ses25b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 25: Introduction to Quadratic Approximation'
 parent_type: CourseSection

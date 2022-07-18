@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/93c7107d33490a892fdf426e5033062e_MIT18_01SCF10_final.pdf
+description: This resource contains problem statements of final exam.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/93c7107d33490a892fdf426e5033062e_MIT18_01SCF10_final.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 102: Materials for Final Exam'
 parent_type: CourseSection

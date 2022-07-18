@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem set questions and solutions on the mean
+  value theorem, differentiation, and integration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'

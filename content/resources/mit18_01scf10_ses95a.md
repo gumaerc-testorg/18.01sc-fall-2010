@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/e3ec4c9ca90c0b7a871aea15a88aee72_MIT18_01SCF10_Ses95a.pdf
+description: This resource contains informations related to series comparison.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/e3ec4c9ca90c0b7a871aea15a88aee72_MIT18_01SCF10_Ses95a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 95: Series Comparison'
 parent_type: CourseSection

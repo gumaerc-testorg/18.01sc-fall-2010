@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ff71b3c9398957eca43864994760b4a7_MIT18_01SCF10_Ses91e.pdf
+description: This resource contains informations related to improper integrals.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ff71b3c9398957eca43864994760b4a7_MIT18_01SCF10_Ses91e.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 91: Improper Integrals'
 parent_type: CourseSection

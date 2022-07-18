@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/bd410c3debd2ef06f041db5d0a55c56f_MIT18_01SCF10_Ses66a.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/bd410c3debd2ef06f041db5d0a55c56f_MIT18_01SCF10_Ses66a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 66: Review for Exam 3'
 parent_type: CourseSection

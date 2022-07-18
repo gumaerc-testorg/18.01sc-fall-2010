@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/0246e09f749e8f2c509f5e9e5fab9818_MIT18_01SCF10_Ses71b.pdf
+description: This resource contains information about integrals involving secant,
+  cosecant and cotangent.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/0246e09f749e8f2c509f5e9e5fab9818_MIT18_01SCF10_Ses71b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
 parent_type: CourseSection

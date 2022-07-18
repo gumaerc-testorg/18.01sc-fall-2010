@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lectures on how to integrate trigonometric functions,
+  and how to use trigonometric functions to calculate otherwise intractable integrals.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/af708d30978df0829e683d5ad3173cd6_MIT18_01SCF10_Ses84b.pdf
+description: This resource contains informations related to polar coordinates and
+  graphing.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/af708d30978df0829e683d5ad3173cd6_MIT18_01SCF10_Ses84b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 84: Polar Coordinates and Graphing'
 parent_type: CourseSection

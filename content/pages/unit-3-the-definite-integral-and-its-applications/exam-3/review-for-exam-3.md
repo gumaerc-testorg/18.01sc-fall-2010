@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture video excerpts and course notes as review
+  materials for an exam on the definite integral and its applications.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Exam 3

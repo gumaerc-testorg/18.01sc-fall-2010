@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/c87d369196899c8a3171084e513c4c21_MIT18_01SCF10_Ses13a.pdf
+description: This resource contains information related to implicit differentiation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/c87d369196899c8a3171084e513c4c21_MIT18_01SCF10_Ses13a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 13: Implicit Differentiation'
 parent_type: CourseSection

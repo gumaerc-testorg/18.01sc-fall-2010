@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains lecture video excerpts, lecture notes, and a worked
+  example on integrals and weighted averages.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part C: Average Value, Probability and Numerical Integration'

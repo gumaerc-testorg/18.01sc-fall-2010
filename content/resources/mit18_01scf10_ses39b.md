@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/fc34d35fa0bf21a563d81469f2ab324c_MIT18_01SCF10_Ses39b.pdf
+description: This resource contains information about introduction to differential
+  equations.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/fc34d35fa0bf21a563d81469f2ab324c_MIT18_01SCF10_Ses39b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 39: Introduction to Differential Equations'
 parent_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/d6accb47e5fd104d2d512b08a8f60b6e_MIT18_01SCF10_Ses97a.pdf
+description: This resource contains informations related to operations on power series.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/d6accb47e5fd104d2d512b08a8f60b6e_MIT18_01SCF10_Ses97a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 97: Power Series'
 parent_type: CourseSection

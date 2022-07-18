@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/5c1f8c77b588b193087f1a59dab495d8_MIT18_01SCF10_Ses14c.pdf
+description: This resource contains information related to examples of implicit differentiation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/5c1f8c77b588b193087f1a59dab495d8_MIT18_01SCF10_Ses14c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 14: Examples of Implicit Differentiation'
 parent_type: CourseSection

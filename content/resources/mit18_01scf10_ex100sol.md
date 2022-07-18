@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf
+description: This resource contains the solutions for the problems related to the
+  operations on power series and taylor series.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 100: Operations on Power Series'
 parent_type: CourseSection

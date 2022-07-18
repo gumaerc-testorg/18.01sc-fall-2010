@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/dc8312d28d47742242c9c84b8b8f4925_MIT18_01SCF10_Ses92b.pdf
+description: This resource contains informations related to indefinite integrals and
+  comparison.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/dc8312d28d47742242c9c84b8b8f4925_MIT18_01SCF10_Ses92b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 92: Integral Comparison'
 parent_type: CourseSection

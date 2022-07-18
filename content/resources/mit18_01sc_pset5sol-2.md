@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/b8f998f4a1e047a51a59f1db698062af_MIT18_01SC_pset5sol.pdf
+description: 'This resource contains solutions of integration techniques problems. '
+file: /courses/18-01sc-single-variable-calculus-fall-2010/b8f998f4a1e047a51a59f1db698062af_MIT18_01SC_pset5sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 10
 parent_type: CourseSection

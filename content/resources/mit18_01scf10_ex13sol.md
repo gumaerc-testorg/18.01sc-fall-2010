@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/713bd74e2658227fad9374a885208c23_MIT18_01SCF10_ex13sol.pdf
+description: This resource contains solutions for the problem statements related to
+  implicit differentiation.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/713bd74e2658227fad9374a885208c23_MIT18_01SCF10_ex13sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 13: Implicit Differentiation'
 parent_type: CourseSection

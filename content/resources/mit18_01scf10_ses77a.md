@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/ad3a19fc151451ab0a8784d6076db55f_MIT18_01SCF10_Ses77a.pdf
+description: This resource contains informations related to volume of a wine glass.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/ad3a19fc151451ab0a8784d6076db55f_MIT18_01SCF10_Ses77a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 77: Volume of a Wine Glass'
 parent_type: CourseSection

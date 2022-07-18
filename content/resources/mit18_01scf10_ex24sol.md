@@ -1,9 +1,11 @@
 ---
 content_type: resource
-description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/71d62ab9e8517a42728509375403a51f_MIT18_01SCF10_ex24sol.pdf
+description: This resource contains solutions for the problem statements related to
+  examples of linear approximations.
+file: /courses/18-01sc-single-variable-calculus-fall-2010/71d62ab9e8517a42728509375403a51f_MIT18_01SCF10_ex24sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection
