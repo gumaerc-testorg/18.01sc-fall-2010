@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/31f017f339405b5c2d7b273462522c23_MIT18_01SCF10_exam2.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/31f017f339405b5c2d7b273462522c23_MIT18_01SCF10_exam2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 42: Materials for Exam 2'
 parent_type: CourseSection

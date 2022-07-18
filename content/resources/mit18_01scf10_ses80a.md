@@ -4,6 +4,7 @@ description: This resource contains informations related to parametric curves.
 file: /courses/18-01sc-single-variable-calculus-fall-2010/8dfde3740446696d8d98f6ce2d33de03_MIT18_01SCF10_Ses80a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 80: Parametric Curves'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses80a.pdf
 uid: 8dfde374-0446-696d-8d98-f6ce2d33de03
 ---
 This resource contains informations related to parametric curves.
-

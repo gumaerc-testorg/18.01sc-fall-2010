@@ -4,6 +4,7 @@ description: This resource contains problem statements related to integral compa
 file: /courses/18-01sc-single-variable-calculus-fall-2010/884e762268c5467b0ed170f597085c80_MIT18_01SCF10_ex92prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 92: Integral Comparison'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_ex92prb.pdf
 uid: 884e7622-68c5-467b-0ed1-70f597085c80
 ---
 This resource contains problem statements related to integral comparison.
-

@@ -4,6 +4,7 @@ description: This resource contains information related to limits of sine and co
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fbda3f72a5192d956ee948b351839f06_MIT18_01SCF10_Ses8c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 8: Limits of Sine and Cosine'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses8c.pdf
 uid: fbda3f72-a519-2d95-6ee9-48b351839f06
 ---
 This resource contains information related to limits of sine and cosine.
-

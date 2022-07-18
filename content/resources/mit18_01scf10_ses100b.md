@@ -4,6 +4,7 @@ description: This resource contains informations related to operations on power 
 file: /courses/18-01sc-single-variable-calculus-fall-2010/94c689d7f7dc061c175e5781df84a26b_MIT18_01SCF10_Ses100b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 100: Operations on Power Series'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses100b.pdf
 uid: 94c689d7-f7dc-061c-175e-5781df84a26b
 ---
 This resource contains informations related to operations on power series.
-

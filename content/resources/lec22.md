@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/c9155da50d1bed83655fae0d6f08642a_lec22.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/c9155da50d1bed83655fae0d6f08642a_lec22.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection

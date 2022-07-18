@@ -4,6 +4,7 @@ description: This resource contains problem statements related to Riemann sum pr
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e79beab68e0b64a7b4bd5ae06ee74313_MIT18_01SCF10_ex46prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 46: Riemann Sums'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_ex46prb.pdf
 uid: e79beab6-8e0b-64a7-b4bd-5ae06ee74313
 ---
 This resource contains problem statements related to Riemann sum practice.
-

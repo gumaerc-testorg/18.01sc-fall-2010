@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_ex17sol.pdf
 uid: 579220ae-8e0b-138f-c956-ee127c4f9879
 ---
 This resource contains solutions for the problem statements related to the exponential unction, its derivative and its inverse.
-

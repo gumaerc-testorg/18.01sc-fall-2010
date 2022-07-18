@@ -5,6 +5,7 @@ description: This resource contains problem statements related to checking accou
 file: /courses/18-01sc-single-variable-calculus-fall-2010/1c60cf6442dcbf9d6bfeb939127f430e_MIT18_01SCF10_ex03prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 3: Derivative as Rate of Change'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_ex03prb.pdf
 uid: 1c60cf64-42dc-bf9d-6bfe-b939127f430e
 ---
 This resource contains problem statements related to checking account balances.
-

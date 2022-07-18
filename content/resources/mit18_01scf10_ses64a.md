@@ -4,6 +4,7 @@ description: This resource contains information about numerical integration, con
 file: /courses/18-01sc-single-variable-calculus-fall-2010/85fe52841cc95fcfbd6cb13d068be87e_MIT18_01SCF10_Ses64a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 64: Numerical Integration, Continued'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: mMIT18_01SCF10_Ses64a.pdf
 uid: 85fe5284-1cc9-5fcf-bd6c-b13d068be87e
 ---
 This resource contains information about numerical integration, continued.
-

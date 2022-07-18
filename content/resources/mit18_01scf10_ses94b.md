@@ -4,6 +4,7 @@ description: This resource contains informations related to infinite series.
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7f634131f74c6895fb9052843fe00f61_MIT18_01SCF10_Ses94b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 94: Infinite Series'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses94b.pdf
 uid: 7f634131-f74c-6895-fb90-52843fe00f61
 ---
 This resource contains informations related to infinite series.
-

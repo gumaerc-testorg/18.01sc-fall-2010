@@ -5,6 +5,7 @@ description: Tis resource contains information related to derivatives of other e
 file: /courses/18-01sc-single-variable-calculus-fall-2010/daed1696ddda614b210b8c363bb749e4_MIT18_01SCF10_Ses18c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 18: Derivatives of other Exponential Functions'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_Ses18c.pdf
 uid: daed1696-ddda-614b-210b-8c363bb749e4
 ---
 Tis resource contains information related to derivatives of other exponential functions.
-

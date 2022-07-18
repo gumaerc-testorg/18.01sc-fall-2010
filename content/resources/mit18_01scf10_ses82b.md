@@ -4,6 +4,7 @@ description: This resource contains informations related to polar coordinates.
 file: /courses/18-01sc-single-variable-calculus-fall-2010/314dbc6c5650dbaa248f396fd5226034_MIT18_01SCF10_Ses82b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 82: Polar Coordinates'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses82b.pdf
 uid: 314dbc6c-5650-dbaa-248f-396fd5226034
 ---
 This resource contains informations related to polar coordinates.
-

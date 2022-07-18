@@ -4,6 +4,7 @@ description: This resource contains information related to the derivative of a^x
 file: /courses/18-01sc-single-variable-calculus-fall-2010/2a31431f4430eb4b9e378d92d97447d9_MIT18_01SCF10_Ses16b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 16: The Derivative of a^x'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses16b.pdf
 uid: 2a31431f-4430-eb4b-9e37-8d92d97447d9
 ---
 This resource contains information related to the derivative of a^x.
-

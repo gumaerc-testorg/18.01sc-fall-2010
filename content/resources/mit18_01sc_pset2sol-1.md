@@ -5,6 +5,7 @@ description: 'This resource contains solutions of applications of differentiatio
 file: /courses/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SC_pset2sol.pdf
 uid: ef541d98-8c5d-0e71-beb7-56d5c0104561
 ---
 This resource contains solutions of applications of differentiation problems. 
-

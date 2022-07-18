@@ -5,6 +5,7 @@ description: This resource contains informations related to Introduction to stac
 file: /courses/18-01sc-single-variable-calculus-fall-2010/aea2c390fd7bc5a7725ab5025f2779e8_MIT18_01SCF10_Ses96a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 96: Stacking Blocks'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_Ses96a.pdf
 uid: aea2c390-fd7b-c5a7-725a-b5025f2779e8
 ---
 This resource contains informations related to Introduction to stacking blocks.
-

@@ -4,6 +4,7 @@ description: This resource contains information about using quadratic approximat
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fcd55cdf0ee838cc318322e3a21c2330_MIT18_01SCF10_Ses26d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 26: Using Quadratic Approximations'
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT18_01SCF10_Ses26d.pdf
 uid: fcd55cdf-0ee8-38cc-3183-22e3a21c2330
 ---
 This resource contains information about using quadratic approximations.
-

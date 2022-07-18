@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Secant approximation mathlet from the d'Arbeloff Interactive Math Project.
@@ -10,6 +10,7 @@ image_metadata:
   image-alt: 'A graph of three lines, red, yellow, and blue that represent secant
     approximation. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: CHP_secant.jpg

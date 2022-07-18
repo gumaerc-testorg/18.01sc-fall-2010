@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01sc-single-variable-calculus-fall-2010/009c7281e120705ca85b76903cd67726_lec02.jpg
+file: /courses/18-01sc-single-variable-calculus-fall-2010/009c7281e120705ca85b76903cd67726_lec02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 3: Derivative as Rate of Change'
 parent_type: CourseSection

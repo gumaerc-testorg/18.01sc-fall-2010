@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e491560602afb9eb66201df662246a52_MIT18_01SCF10_ex61sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 61: Integrals and Weighted Averages'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_ex61sol.pdf
 uid: e4915606-02af-b9eb-6620-1df662246a52
 ---
 This resource contains solutions for the problem statements related to integrals and weighted averages.
-

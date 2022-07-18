@@ -5,6 +5,7 @@ description: This resource contains information about integral of sin^n(x) cos^m
 file: /courses/18-01sc-single-variable-calculus-fall-2010/6cdd1829fb6fd7393cf913c012551d7f_MIT18_01SCF10_Ses69a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_01SCF10_Ses69a.pdf
 uid: 6cdd1829-fb6f-d739-3cf9-13c012551d7f
 ---
 This resource contains information about integral of sin^n(x) cos^m(x), even exponents.
-
