@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '492'
 file: null
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: CXKoCMVqM9s
 ---
-
 » {{% resource_link 0246e09f-749e-8f2c-509f-5e9e5fab9818 "Accompanying Notes (PDF)" %}}
 
 From Lecture 28 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
-

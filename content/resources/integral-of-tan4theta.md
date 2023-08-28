@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: "Integral of tan^4\u03B8"
+title: Integral of tan^4(theta)
 uid: b5372aa3-77e0-b1f3-7d19-87c6f879415e
 video_files:
   archive_url: http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_52_300k.mp4
