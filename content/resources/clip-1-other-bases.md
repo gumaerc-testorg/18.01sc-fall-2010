@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '2011'
 file: null
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
@@ -23,10 +30,6 @@ video_files:
 video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
-
-
-
 » [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses18a)
 
 From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
-
