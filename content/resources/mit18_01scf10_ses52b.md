@@ -4,7 +4,7 @@ description: This resource contains information about proving the fundamental th
   of calculus.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e5e4813ac3a0b21f61532842c7ce8a8c_MIT18_01SCF10_Ses52b.pdf
-file_size: ''
+file_size: 111266
 file_type: application/pdf
 image_metadata:
   caption: ''

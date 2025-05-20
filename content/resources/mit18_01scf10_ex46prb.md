@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to Riemann sum practice.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e79beab68e0b64a7b4bd5ae06ee74313_MIT18_01SCF10_ex46prb.pdf
-file_size: ''
+file_size: 77056
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains problem statements related to finding a form
   for the best degree n approximation.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/dfcfe7b27c373626da08816b84885cdc_MIT18_01SCF10_ex26prb.pdf
-file_size: ''
+file_size: 116332
 file_type: application/pdf
 image_metadata:
   caption: ''

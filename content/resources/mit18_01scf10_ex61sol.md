@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   integrals and weighted averages.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e491560602afb9eb66201df662246a52_MIT18_01SCF10_ex61sol.pdf
-file_size: ''
+file_size: 161835
 file_type: application/pdf
 image_metadata:
   caption: ''

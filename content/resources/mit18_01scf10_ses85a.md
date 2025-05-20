@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fb19b1a2136ea6b6884baf5aa83e09c4_MIT18_01SCF10_Ses85a.pdf
+file_size: 55241
 file_type: application/pdf
 image_metadata:
   caption: ''

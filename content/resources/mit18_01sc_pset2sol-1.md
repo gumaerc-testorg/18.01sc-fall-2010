@@ -4,7 +4,7 @@ description: 'This resource contains solutions of applications of differentiatio
   problems. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf
-file_size: ''
+file_size: 491993
 file_type: application/pdf
 image_metadata:
   caption: ''

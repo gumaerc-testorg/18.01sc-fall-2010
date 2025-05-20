@@ -4,7 +4,7 @@ description: This resource contains problem statements related to integral of si
   cos^m(x) and even exponents.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a9eb7129f4d036d991d97f263277ef6b_MIT18_01SCF10_ex69prb.pdf
-file_size: ''
+file_size: 100187
 file_type: application/pdf
 image_metadata:
   caption: ''

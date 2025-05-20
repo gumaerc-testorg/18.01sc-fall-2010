@@ -4,7 +4,7 @@ description: This resource contains informations related to l'hospital's rule an
   rates of growth.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/2c20d1536b34162e85f0a8c2d4e405f5_MIT18_01SCF10_Ses89b.pdf
-file_size: ''
+file_size: 160510
 file_type: application/pdf
 image_metadata:
   caption: ''

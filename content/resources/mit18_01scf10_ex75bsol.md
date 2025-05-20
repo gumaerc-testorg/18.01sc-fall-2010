@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   advanced partial fractions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fd3a4a1d64f1bd6678b8346f50f273c8_MIT18_01SCF10_ex75bsol.pdf
+file_size: 122365
 file_type: application/pdf
 image_metadata:
   caption: ''

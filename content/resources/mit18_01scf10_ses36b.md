@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about differentials.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/2183e76e7202ac968f33d96f81f790d7_MIT18_01SCF10_Ses36b.pdf
+file_size: 155697
 file_type: application/pdf
 image_metadata:
   caption: ''

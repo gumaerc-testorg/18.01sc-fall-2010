@@ -4,7 +4,7 @@ description: This resource contains information about applications of the fundam
   theorem of calculus.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/08476c85c3ec5a3fe69348e0f00212a6_MIT18_01SCF10_Ses49b.pdf
-file_size: ''
+file_size: 117995
 file_type: application/pdf
 image_metadata:
   caption: ''

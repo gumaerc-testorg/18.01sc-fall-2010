@@ -4,7 +4,7 @@ description: This resource contains information about sketching graphs I - polyn
   and rational functions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/17daff6a263174dfa0a14b73a4d36d91_MIT18_01SCF10_Ses27a.pdf
-file_size: ''
+file_size: 277091
 file_type: application/pdf
 image_metadata:
   caption: ''

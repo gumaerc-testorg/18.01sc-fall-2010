@@ -4,6 +4,7 @@ description: This resource contains informations related to polar coordinates an
   graphing.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c1688473d6e7a2a6cacaefdc456bf102_MIT18_01SCF10_Ses84a.pdf
+file_size: 305278
 file_type: application/pdf
 image_metadata:
   caption: ''

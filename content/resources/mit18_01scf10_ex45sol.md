@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   easy integrals.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/244ff558563ac817868a5d1b4494c234_MIT18_01SCF10_ex45sol.pdf
-file_size: ''
+file_size: 123756
 file_type: application/pdf
 image_metadata:
   caption: ''

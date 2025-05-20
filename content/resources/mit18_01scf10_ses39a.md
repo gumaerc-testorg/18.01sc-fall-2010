@@ -4,6 +4,7 @@ description: This resource contains information about introduction to differenti
   equations.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/10a90cf559c88b77a41d299a9cb89572_MIT18_01SCF10_Ses39a.pdf
+file_size: 173444
 file_type: application/pdf
 image_metadata:
   caption: ''

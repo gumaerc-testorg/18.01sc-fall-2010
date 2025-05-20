@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   definite integrals,
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e0806c4ce8d4908951eaf15d0f7832cf_MIT18_01SCF10_ex43sol.pdf
+file_size: 119352
 file_type: application/pdf
 image_metadata:
   caption: ''

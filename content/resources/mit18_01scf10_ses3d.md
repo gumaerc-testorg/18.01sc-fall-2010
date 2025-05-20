@@ -4,6 +4,7 @@ description: This resource contains information related to serivative as a rate 
   change.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/93c761862844a9337f183e62c66d2216_MIT18_01SCF10_Ses3d.pdf
+file_size: 446111
 file_type: application/pdf
 image_metadata:
   caption: ''

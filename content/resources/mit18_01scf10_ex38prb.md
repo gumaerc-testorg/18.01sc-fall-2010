@@ -4,7 +4,7 @@ description: This resource contains problem statements related to anti derivativ
   of tax sec 2 x.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7ba77820e3c62210093ba02359def088_MIT18_01SCF10_ex38prb.pdf
-file_size: ''
+file_size: 100416
 file_type: application/pdf
 image_metadata:
   caption: ''

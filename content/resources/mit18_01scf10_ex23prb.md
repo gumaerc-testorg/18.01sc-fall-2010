@@ -4,7 +4,7 @@ description: This resource contains problem statements related to linear approxi
   to calculator computations.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f94c79bce97c8292a73f4a678200d80e_MIT18_01SCF10_ex23prb.pdf
-file_size: ''
+file_size: 46376
 file_type: application/pdf
 image_metadata:
   caption: ''

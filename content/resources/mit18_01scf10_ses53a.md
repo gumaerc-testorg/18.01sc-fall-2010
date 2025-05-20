@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about new functions from old.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/357771ae0a60838d757b2e062650fe09_MIT18_01SCF10_Ses53a.pdf
-file_size: ''
+file_size: 119678
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to differentiation formulas. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/22a520d8a1c315ad85c036d88678c826_MIT18_01SCF10_Ses21a.pdf
+file_size: 124817
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about some easy integrals.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c60ca1629f9a9058fe3b6fe3e114fa6b_MIT18_01SCF10_Ses45a.pdf
+file_size: 282274
 file_type: application/pdf
 image_metadata:
   caption: ''

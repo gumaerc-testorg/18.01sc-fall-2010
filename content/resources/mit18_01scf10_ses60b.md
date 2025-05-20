@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about integrals and averages.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/92336e25ed225ad926db6603678de789_MIT18_01SCF10_Ses60b.pdf
+file_size: 256796
 file_type: application/pdf
 image_metadata:
   caption: ''

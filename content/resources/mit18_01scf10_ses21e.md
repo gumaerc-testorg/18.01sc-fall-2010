@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to derivative of (x^10 +8x)^6.  '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0c0c54310e8d6578fb46bb2453b6b3b0_MIT18_01SCF10_Ses21e.pdf
+file_size: 115033
 file_type: application/pdf
 image_metadata:
   caption: ''

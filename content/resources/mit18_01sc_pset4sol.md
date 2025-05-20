@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions of applications of integration problems. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/4a247b0655701dfebcbd4e235c16c726_MIT18_01SC_pset4sol.pdf
+file_size: 513062
 file_type: application/pdf
 image_metadata:
   caption: ''

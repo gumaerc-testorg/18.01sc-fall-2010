@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to alternate solutions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/8b37b56d2f59ee41cc63f9e0410c4831_MIT18_01SCF10_ex70prb.pdf
+file_size: 120626
 file_type: application/pdf
 image_metadata:
   caption: ''

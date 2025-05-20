@@ -4,7 +4,7 @@ description: This resource contains information about sketching graphs II - gene
   strategies.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/04248907c72e201f7e6441e43127d34f_MIT18_01SCF10_Ses28a.pdf
-file_size: ''
+file_size: 85526
 file_type: application/pdf
 image_metadata:
   caption: ''

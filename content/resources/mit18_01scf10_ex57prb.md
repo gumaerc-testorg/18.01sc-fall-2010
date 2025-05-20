@@ -4,6 +4,7 @@ description: This resource contains problem statements related to revolution abo
   x-axis.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/d06918b918ec707d6923f240d8d9803e_MIT18_01SCF10_ex57prb.pdf
+file_size: 91860
 file_type: application/pdf
 image_metadata:
   caption: ''

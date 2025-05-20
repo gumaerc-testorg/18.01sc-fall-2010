@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about optimization problems II.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/5c86686d3f87ef22bbe95b764078d3c0_MIT18_01SCF10_Ses30b.pdf
+file_size: 123332
 file_type: application/pdf
 image_metadata:
   caption: ''

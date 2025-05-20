@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   integration by subsitution.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/6b123e1ffe830e9ae2a4e61dfecbbb3b_MIT18_01SCF10_ex38sol.pdf
-file_size: ''
+file_size: 128781
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to chain rule.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/cbb37b9d5d7083c3e48b9db01e32fb8c_MIT18_01SCF10_Ses11b.pdf
+file_size: 95353
 file_type: application/pdf
 image_metadata:
   caption: ''

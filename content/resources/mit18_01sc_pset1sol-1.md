@@ -3,14 +3,13 @@ content_type: resource
 description: 'This resource contains solutions of differentiation problems. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/84d01945d2eaf93351ca1371cbf98a5e_MIT18_01SC_pset1sol.pdf
-file_size: ''
+file_size: 418596
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Problem Sets with Solutions
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 2
