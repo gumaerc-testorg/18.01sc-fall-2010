@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
+file_size: 44731
 file_type: image/jpeg
 image_metadata:
   caption: Secant approximation mathlet from the d'Arbeloff Interactive Math Project.
