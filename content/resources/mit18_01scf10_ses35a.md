@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to mean value theorem.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/3fd61ef9eab29205d39ec29fce90c3c4_MIT18_01SCF10_Ses35a.pdf
+file_size: 307450
 file_type: application/pdf
 image_metadata:
   caption: ''

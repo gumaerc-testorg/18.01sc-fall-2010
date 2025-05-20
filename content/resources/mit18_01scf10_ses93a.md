@@ -4,6 +4,7 @@ description: This resource contains informations related to indefinite integrals
   singularities.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7bb947636ab18b0887457c00209ab38e_MIT18_01SCF10_Ses93a.pdf
+file_size: 149338
 file_type: application/pdf
 image_metadata:
   caption: ''

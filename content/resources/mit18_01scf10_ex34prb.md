@@ -4,6 +4,7 @@ description: This resource contains problem statements related to mean value the
   and taylor's theorem.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a91bdbc7b1b980bf109fe3feb0b42b01_MIT18_01SCF10_ex34prb.pdf
+file_size: 68488
 file_type: application/pdf
 image_metadata:
   caption: ''

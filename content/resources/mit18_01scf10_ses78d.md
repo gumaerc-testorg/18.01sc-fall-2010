@@ -4,6 +4,7 @@ description: This resource contains informations related to computing the length
   a curve.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7f65f0e56a0941f3720dc79b89c6de37_MIT18_01SCF10_Ses78d.pdf
+file_size: 115817
 file_type: application/pdf
 image_metadata:
   caption: ''

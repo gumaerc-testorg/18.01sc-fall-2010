@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about definite integrals.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/afc9cd2d3f0b87d0a313b3188013a102_MIT18_01SCF10_Ses43a.pdf
+file_size: 256338
 file_type: application/pdf
 image_metadata:
   caption: ''

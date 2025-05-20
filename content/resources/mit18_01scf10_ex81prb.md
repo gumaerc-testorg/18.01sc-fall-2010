@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to parametrized curves.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/73760153dca7b12c949d77f07f6140ca_MIT18_01SCF10_ex81prb.pdf
-file_size: ''
+file_size: 88314
 file_type: application/pdf
 image_metadata:
   caption: ''

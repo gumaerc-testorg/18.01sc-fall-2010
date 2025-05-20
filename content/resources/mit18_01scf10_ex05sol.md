@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   discontinuity.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/5014374a5054c09b52041b1fe02774ba_MIT18_01SCF10_ex05sol.pdf
-file_size: ''
+file_size: 130738
 file_type: application/pdf
 image_metadata:
   caption: ''

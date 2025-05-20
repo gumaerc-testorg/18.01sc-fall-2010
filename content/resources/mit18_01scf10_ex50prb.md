@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to estimating ln (5).
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a7bb8a35dacf44c1ae34b89143656f82_MIT18_01SCF10_ex50prb.pdf
+file_size: 90905
 file_type: application/pdf
 image_metadata:
   caption: ''

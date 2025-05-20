@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to calculating derivatives.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/19d6ff99de1d78c9a8416717c6ef6116_MIT18_01SCF10_Ses6b.pdf
-file_size: ''
+file_size: 105133
 file_type: application/pdf
 image_metadata:
   caption: ''

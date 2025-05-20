@@ -4,7 +4,7 @@ description: This resource contains informations related to examples using param
   curves.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/1fde91f9aaff3f81a3e226a634fbcb73_MIT18_01SCF10_Ses81b.pdf
-file_size: ''
+file_size: 144555
 file_type: application/pdf
 image_metadata:
   caption: ''

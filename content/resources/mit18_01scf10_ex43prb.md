@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integration intuition.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e39753c48220e844b2fbf59a6ca3c284_MIT18_01SCF10_ex43prb.pdf
-file_size: ''
+file_size: 108107
 file_type: application/pdf
 image_metadata:
   caption: ''

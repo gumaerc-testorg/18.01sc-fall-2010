@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   using mean value theorem.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0779a559464b16a018a0508a08449470_MIT18_01SCF10_ex35sol.pdf
+file_size: 118228
 file_type: application/pdf
 image_metadata:
   caption: ''

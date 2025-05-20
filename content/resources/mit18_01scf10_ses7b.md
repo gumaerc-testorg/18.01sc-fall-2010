@@ -4,7 +4,7 @@ description: This resource contains information related to derivatives of sine a
   cosine.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
-file_size: ''
+file_size: 141028
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains information about the second fundamental the
   of calculus.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/2459faee7ec3308afd5cca2b95fad48e_MIT18_01SCF10_Ses51a.pdf
+file_size: 96099
 file_type: application/pdf
 image_metadata:
   caption: ''

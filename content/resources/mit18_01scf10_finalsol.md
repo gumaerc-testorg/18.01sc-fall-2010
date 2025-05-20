@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding final exam solutions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/bbbf05286af4bd705af325080bea0e23_MIT18_01SCF10_finalsol.pdf
+file_size: 212279
 file_type: application/pdf
 image_metadata:
   caption: ''

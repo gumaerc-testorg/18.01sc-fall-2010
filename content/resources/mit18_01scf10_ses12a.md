@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to higher derivatives.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/bb1039861d7b28d75e6acbedf497639c_MIT18_01SCF10_Ses12a.pdf
+file_size: 107613
 file_type: application/pdf
 image_metadata:
   caption: ''

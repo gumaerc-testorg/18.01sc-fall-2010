@@ -4,7 +4,7 @@ description: This resource contains informations related to examples of l'hospit
   rule.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/98e9e2eba406e051a6a8899bd404c886_MIT18_01SCF10_Ses88b.pdf
-file_size: ''
+file_size: 135777
 file_type: application/pdf
 image_metadata:
   caption: ''

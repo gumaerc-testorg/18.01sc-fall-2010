@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   surface area.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/95219df9dd0ecab04b1170fd84348fc1_MIT18_01SCF10_ex79sol.pdf
-file_size: ''
+file_size: 115217
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   examples of linear approximations.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/71d62ab9e8517a42728509375403a51f_MIT18_01SCF10_ex24sol.pdf
+file_size: 108222
 file_type: application/pdf
 image_metadata:
   caption: ''

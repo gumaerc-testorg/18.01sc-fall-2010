@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   geometric interpretation of definite integrals.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/77095502ce97b96cf417432e8f750e08_MIT18_01SCF10_ex56sol.pdf
+file_size: 113789
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains solutions for the problems related to the hy
   sine.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f5a44e75403692c5cfbf7882a79d77d3_MIT18_01SCF10_ex101sol.pdf
-file_size: ''
+file_size: 170787
 file_type: application/pdf
 image_metadata:
   caption: ''

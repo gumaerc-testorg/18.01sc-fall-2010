@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about integration by substitution.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/308cc1bbff50912cdeb1f290f3754459_MIT18_01SCF10_Ses38c.pdf
+file_size: 144057
 file_type: application/pdf
 image_metadata:
   caption: ''

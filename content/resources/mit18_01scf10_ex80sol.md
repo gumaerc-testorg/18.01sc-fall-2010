@@ -4,6 +4,7 @@ description: This resource contains the solutions for the problems related to th
   exploring a parametric curve.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/15f8e38786ae3b738375debb112ee660_MIT18_01SCF10_ex80sol.pdf
+file_size: 130154
 file_type: application/pdf
 image_metadata:
   caption: ''

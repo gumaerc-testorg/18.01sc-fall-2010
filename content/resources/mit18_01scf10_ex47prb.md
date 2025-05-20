@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to definite integrals.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0d8492c86bd1ec85c635c27381afc54c_MIT18_01SCF10_ex47prb.pdf
+file_size: 98907
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to cube root of x.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/2947cca0729b9f0426cd848feaefb5e1_MIT18_01SCF10_ex33prb.pdf
+file_size: 80499
 file_type: application/pdf
 image_metadata:
   caption: ''

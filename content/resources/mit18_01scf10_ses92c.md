@@ -4,6 +4,7 @@ description: This resource contains informations related to indefinite integrals
   comparison.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/5b2a4c9e8a966c8aab9f7e8a347a5401_MIT18_01SCF10_Ses92c.pdf
+file_size: 159080
 file_type: application/pdf
 image_metadata:
   caption: ''

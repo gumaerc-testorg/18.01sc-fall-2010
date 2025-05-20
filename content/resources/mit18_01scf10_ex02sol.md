@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   derivatives.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/bde06f55dbe791c648649b4b942df999_MIT18_01SCF10_ex02sol.pdf
-file_size: ''
+file_size: 136697
 file_type: application/pdf
 image_metadata:
   caption: ''

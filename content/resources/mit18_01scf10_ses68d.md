@@ -4,7 +4,7 @@ description: This resource contains information about integral of sin^n(x) cos^m
   odd exponents.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7f42e1903761541aa5a2c23ecc46fe7a_MIT18_01SCF10_Ses68d.pdf
-file_size: ''
+file_size: 117208
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations related to volume of a wine glass.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/ad3a19fc151451ab0a8784d6076db55f_MIT18_01SCF10_Ses77a.pdf
-file_size: ''
+file_size: 112578
 file_type: application/pdf
 image_metadata:
   caption: ''

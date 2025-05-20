@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to quotient rule.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7f48447afdcb22803f568bf5653707c5_MIT18_01SCF10_ex10prb.pdf
+file_size: 67013
 file_type: application/pdf
 image_metadata:
   caption: ''
