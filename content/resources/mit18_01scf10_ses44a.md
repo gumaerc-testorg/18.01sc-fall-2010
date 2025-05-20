@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about adding areas of rectangles.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/3cdcdfc7dedd0c6b31c3d76a3df67841_MIT18_01SCF10_Ses44a.pdf
+file_size: 520910
 file_type: application/pdf
 image_metadata:
   caption: ''

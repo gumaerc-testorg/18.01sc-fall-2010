@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations related to operations on power series.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/94c689d7f7dc061c175e5781df84a26b_MIT18_01SCF10_Ses100b.pdf
-file_size: ''
+file_size: 85372
 file_type: application/pdf
 image_metadata:
   caption: ''

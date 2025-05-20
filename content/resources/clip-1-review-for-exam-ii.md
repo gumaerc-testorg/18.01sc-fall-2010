@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ' 2724'
 file: null
+file_size: '104618894'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   an interesting limit involving e.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a6e9cc2a2e086191f7ef6311d933431b_MIT18_01SCF10_ex19asol.pdf
+file_size: 148339
 file_type: application/pdf
 image_metadata:
   caption: ''

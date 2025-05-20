@@ -4,6 +4,7 @@ description: This resource contains information about volume of a parabaloid, re
   about y-axis.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f0b193847ca8f817a239ad783b26db15_MIT18_01SCF10_Ses59a.pdf
+file_size: 484212
 file_type: application/pdf
 image_metadata:
   caption: ''

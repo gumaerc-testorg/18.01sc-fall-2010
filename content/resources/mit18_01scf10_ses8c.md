@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to limits of sine and cosine.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fbda3f72a5192d956ee948b351839f06_MIT18_01SCF10_Ses8c.pdf
+file_size: 138139
 file_type: application/pdf
 image_metadata:
   caption: ''

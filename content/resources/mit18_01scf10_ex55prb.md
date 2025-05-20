@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to probability function.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/48a084d99c5818645a829e3c49c356ed_MIT18_01SCF10_ex55prb.pdf
-file_size: ''
+file_size: 101345
 file_type: application/pdf
 image_metadata:
   caption: ''

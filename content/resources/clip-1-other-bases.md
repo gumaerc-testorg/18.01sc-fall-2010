@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: '2011'
 file: null
+file_size: '110722958'
 file_type: ''
 image_metadata:
   caption: ''
@@ -30,6 +31,6 @@ video_files:
 video_metadata:
   youtube_id: 9v25gg2qJYE
 ---
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses18a)
+» {{% resource_link "149902aa-1b5f-caed-5a05-8e1d318efa58" "Accompanying Notes (PDF)" %}}
 
-From Lecture 6 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 6 of [*18.01 Single Variable Calculus, Fall 2006*](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures/)

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to compound interest.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/fe31d67dca131a9e328bad9d864e2a0f_MIT18_01SCF10_ex16prb.pdf
-file_size: ''
+file_size: 133798
 file_type: application/pdf
 image_metadata:
   caption: ''

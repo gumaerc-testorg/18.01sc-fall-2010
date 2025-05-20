@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions of integration techniques problems. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/b8f998f4a1e047a51a59f1db698062af_MIT18_01SC_pset5sol.pdf
-file_size: ''
+file_size: 414077
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: This resource contains information about The second fundamental the
   and in (x).
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c8d35d09cacfda0964fa025aaf532e39_MIT18_01SCF10_Ses54b.pdf
+file_size: 98419
 file_type: application/pdf
 image_metadata:
   caption: ''

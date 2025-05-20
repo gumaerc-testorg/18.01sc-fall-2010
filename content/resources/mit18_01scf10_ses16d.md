@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the derivative of a^x.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/8a4568c53334a525e3607584816aa460_MIT18_01SCF10_Ses16d.pdf
-file_size: ''
+file_size: 323975
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: Tis resource contains information related to derivatives of other e
   functions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/baa49a75f1de7ff0c08ffd56428799b9_MIT18_01SCF10_Ses18b.pdf
+file_size: 135116
 file_type: application/pdf
 image_metadata:
   caption: ''

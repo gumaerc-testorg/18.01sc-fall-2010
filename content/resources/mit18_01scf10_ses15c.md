@@ -4,6 +4,7 @@ description: This resource contains information related to implicit differentiat
   and inverse functions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/857933bc947b1ed184c79a5710fc86bc_MIT18_01SCF10_Ses15c.pdf
+file_size: 122832
 file_type: application/pdf
 image_metadata:
   caption: ''

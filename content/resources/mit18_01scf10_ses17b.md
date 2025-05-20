@@ -4,7 +4,7 @@ description: This resource contains information related to the exponential funct
   its derivative and inverse.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/b946981e19f754ed2ab590cb7f9253c8_MIT18_01SCF10_Ses17b.pdf
-file_size: ''
+file_size: 134341
 file_type: application/pdf
 image_metadata:
   caption: ''

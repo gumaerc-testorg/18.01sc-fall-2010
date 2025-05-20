@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to Taylor's series.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/ead3fb58ee68fcf2feb7df2e52d2b702_MIT18_01SCF10_ex98prb.pdf
-file_size: ''
+file_size: 87730
 file_type: application/pdf
 image_metadata:
   caption: ''

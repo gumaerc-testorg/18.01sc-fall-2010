@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations related to series comparison.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/e3ec4c9ca90c0b7a871aea15a88aee72_MIT18_01SCF10_Ses95a.pdf
+file_size: 456830
 file_type: application/pdf
 image_metadata:
   caption: ''

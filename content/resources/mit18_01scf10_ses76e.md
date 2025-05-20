@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations related to integration by parts.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/326abc19e334ea879a2c03b2171648ad_MIT18_01SCF10_Ses76e.pdf
+file_size: 149030
 file_type: application/pdf
 image_metadata:
   caption: ''

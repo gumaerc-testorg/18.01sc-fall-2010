@@ -4,6 +4,7 @@ description: This resource contains problem statements related to advanced parti
   fractions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c946efb0a4f416a4ad1dd5217ad94f12_MIT18_01SCF10_ex75bprb.pdf
+file_size: 104703
 file_type: application/pdf
 image_metadata:
   caption: ''

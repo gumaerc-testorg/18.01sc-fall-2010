@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   applications of the fundamental theorem of calculus.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/4c5b3493101fac5c2cfb7d47deb10514_MIT18_01SCF10_ex49sol.pdf
-file_size: ''
+file_size: 128166
 file_type: application/pdf
 image_metadata:
   caption: ''

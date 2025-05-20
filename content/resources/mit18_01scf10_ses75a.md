@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations related to advanced partial fractions.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/3b3d89940e5c01c44288a15fa6a15a00_MIT18_01SCF10_Ses75a.pdf
+file_size: 129353
 file_type: application/pdf
 image_metadata:
   caption: ''

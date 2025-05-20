@@ -4,7 +4,7 @@ description: This resource contains solutions related to integrals involving sec
   cosecant and cotangent.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c05c05172bf0f7543b3c2daeaf308521_MIT18_01SCF10_ex71sol.pdf
-file_size: ''
+file_size: 128352
 file_type: application/pdf
 image_metadata:
   caption: ''

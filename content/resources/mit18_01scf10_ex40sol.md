@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   separation of variables.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/b6a7ab20c45d42729cf511a6c85943de_MIT18_01SCF10_ex40sol.pdf
-file_size: ''
+file_size: 131716
 file_type: application/pdf
 image_metadata:
   caption: ''

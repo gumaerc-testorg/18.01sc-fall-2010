@@ -4,6 +4,7 @@ description: This resource contains information about preview of trig substituti
   and polar coordinates.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/28c569c5d8e79b7e1a2be1755de42d25_MIT18_01SCF10_Ses70a.pdf
+file_size: 161578
 file_type: application/pdf
 image_metadata:
   caption: ''

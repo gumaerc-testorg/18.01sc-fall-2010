@@ -4,7 +4,7 @@ description: This resource contains information about integrals involving secant
   cosecant and cotangent.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7826f6f405872339b06e3e87b4ea291d_MIT18_01SCF10_Ses71c.pdf
-file_size: ''
+file_size: 102999
 file_type: application/pdf
 image_metadata:
   caption: ''

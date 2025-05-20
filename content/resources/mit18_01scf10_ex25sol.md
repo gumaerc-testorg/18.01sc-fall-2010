@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   quadratic approximation.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f806d7f06df82639483a24d467a4fa28_MIT18_01SCF10_ex25sol.pdf
+file_size: 117656
 file_type: application/pdf
 image_metadata:
   caption: ''

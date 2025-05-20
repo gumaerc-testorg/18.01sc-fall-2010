@@ -4,6 +4,7 @@ description: This resource contains the solutions for the problems related to th
   L'Hospital's Rule.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7d8a36ca15f9a6791ae1f6a08d815f01_MIT18_01SCF10_ex87sol.pdf
+file_size: 142582
 file_type: application/pdf
 image_metadata:
   caption: ''

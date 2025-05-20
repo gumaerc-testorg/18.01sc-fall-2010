@@ -4,6 +4,7 @@ description: This resource contains information about creating new functions usi
   the second fundamental theorem.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/bb84cc5d0b926d6c2c7429adcd68d33a_MIT18_01SCF10_Ses55b.pdf
+file_size: 117742
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information about integral of sin^n(x) cos^m
   even exponents.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/6cdd1829fb6fd7393cf913c012551d7f_MIT18_01SCF10_Ses69a.pdf
-file_size: ''
+file_size: 118628
 file_type: application/pdf
 image_metadata:
   caption: ''

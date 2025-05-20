@@ -4,7 +4,7 @@ description: This resource contains problem statements related to Simpson's rule
   normal distribution.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f15dde39fa9cddb40ade49bdf89094fc_MIT18_01SCF10_ex64prb.pdf
-file_size: ''
+file_size: 73857
 file_type: application/pdf
 image_metadata:
   caption: ''

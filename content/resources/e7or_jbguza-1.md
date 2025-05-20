@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-01sc-single-variable-calculus-fall-2010/818f39d2b2f8a5c94aac9ee49282ba44_E7oR_JBgUzA.pdf
+file_size: 32711
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integral of |x|.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/b09a9ab0e113c68d30dd7be9812fec19_MIT18_01SCF10_ex45prb.pdf
-file_size: ''
+file_size: 95572
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   related rates.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/96600de0e27040425d88b89d45a722a7_MIT18_01SCF10_ex31sol.pdf
-file_size: ''
+file_size: 167125
 file_type: application/pdf
 image_metadata:
   caption: ''

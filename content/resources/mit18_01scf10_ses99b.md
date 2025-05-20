@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains informations related to taylor's series.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0d2a3329ac099f334a1d44c56fcbbf62_MIT18_01SCF10_Ses99b.pdf
+file_size: 128704
 file_type: application/pdf
 image_metadata:
   caption: ''

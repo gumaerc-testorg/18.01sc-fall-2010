@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains problem sets of differentiation. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/87d9380ba7de44cbeaca3b655844a1d4_MIT18_01SC_pset1prb.pdf
+file_size: 308580
 file_type: application/pdf
 image_metadata:
   caption: ''

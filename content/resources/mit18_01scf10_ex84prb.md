@@ -4,6 +4,7 @@ description: This resource contains problem statements related to polar coordina
   and graphing.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/adfb75065705b627df52b84e0bc6161a_MIT18_01SCF10_ex84prb.pdf
+file_size: 78200
 file_type: application/pdf
 image_metadata:
   caption: ''

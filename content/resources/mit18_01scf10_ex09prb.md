@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to piecewise polynomial.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/83e5279a611d9d3f52314a5176c34df8_MIT18_01SCF10_ex09prb.pdf
-file_size: ''
+file_size: 86655
 file_type: application/pdf
 image_metadata:
   caption: ''

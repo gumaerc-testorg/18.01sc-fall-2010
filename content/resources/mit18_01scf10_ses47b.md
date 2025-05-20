@@ -4,6 +4,7 @@ description: This resource contains information about introduction of the fundam
   theorem of calculus.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/275befd7d65a08b6aff13d124e41d44a_MIT18_01SCF10_Ses47b.pdf
+file_size: 136742
 file_type: application/pdf
 image_metadata:
   caption: ''
