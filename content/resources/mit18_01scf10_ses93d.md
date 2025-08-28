@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to indefinite integrals and
   singularities.
-file: /courses/18-01sc-single-variable-calculus-fall-2010/69cbe9b226774e56effadc31c8195b97_MIT18_01SCF10_Ses93d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/69cbe9b226774e56effadc31c8195b97_MIT18_01SCF10_Ses93d.pdf
 file_size: 151087
 file_type: application/pdf
 learning_resource_types: []

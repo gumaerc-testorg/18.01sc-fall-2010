@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/68a59e6c2e777ee29a9236d54f779a64_lec1ses1ex1-secants.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/68a59e6c2e777ee29a9236d54f779a64_lec1ses1ex1-secants.pdf
 file_size: 85255
 file_type: application/pdf
 image_metadata:

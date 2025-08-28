@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations related to Introduction to stacking
   blocks.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/aea2c390fd7bc5a7725ab5025f2779e8_MIT18_01SCF10_Ses96a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/aea2c390fd7bc5a7725ab5025f2779e8_MIT18_01SCF10_Ses96a.pdf
 file_size: 226561
 file_type: application/pdf
 image_metadata:

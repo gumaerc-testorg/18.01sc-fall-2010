@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to evaluating an interest
   using the limit.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d32149b689f995816ebabd6214b838fe_MIT18_01SCF10_ex19bprb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d32149b689f995816ebabd6214b838fe_MIT18_01SCF10_ex19bprb.pdf
 file_size: 110708
 file_type: application/pdf
 image_metadata:

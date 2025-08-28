@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integration by change
   of variables.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8bf9c58094c2838a33e33eced5b6473f_MIT18_01SCF10_ex49prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8bf9c58094c2838a33e33eced5b6473f_MIT18_01SCF10_ex49prb.pdf
 file_size: 98643
 file_type: application/pdf
 image_metadata:

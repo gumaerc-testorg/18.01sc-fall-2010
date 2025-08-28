@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   Riemann sums.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/4753403f8cb7f8cc48f6e5196c051160_MIT18_01SCF10_ex46sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/4753403f8cb7f8cc48f6e5196c051160_MIT18_01SCF10_ex46sol.pdf
 file_size: 154631
 file_type: application/pdf
 image_metadata:

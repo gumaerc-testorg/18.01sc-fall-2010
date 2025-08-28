@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to integration by parts.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/2516a0cdd9a1bb90e78336cf11d556fe_MIT18_01SCF10_Ses76a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/2516a0cdd9a1bb90e78336cf11d556fe_MIT18_01SCF10_Ses76a.pdf
 file_size: 91836
 file_type: application/pdf
 image_metadata:

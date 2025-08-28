@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to improper integrals.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/3436435ea9b2f8a9ce0ea837d1e64217_MIT18_01SCF10_Ses91d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/3436435ea9b2f8a9ce0ea837d1e64217_MIT18_01SCF10_Ses91d.pdf
 file_size: 153808
 file_type: application/pdf
 image_metadata:

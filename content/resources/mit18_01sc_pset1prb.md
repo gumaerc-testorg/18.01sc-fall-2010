@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to differentiation. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/1557acc7f3cd5d1538b71fe77bcf9ec0_MIT18_01SC_pset1prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/1557acc7f3cd5d1538b71fe77bcf9ec0_MIT18_01SC_pset1prb.pdf
 file_size: 308580
 file_type: application/pdf
 image_metadata:

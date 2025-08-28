@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains continuation of exam 1 review. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/b3146a0288a1571b1f35b92c20449237_MIT18_01SCF10_Ses21g.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/b3146a0288a1571b1f35b92c20449237_MIT18_01SCF10_Ses21g.pdf
 file_size: 132756
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 21: Review for Exam 1'

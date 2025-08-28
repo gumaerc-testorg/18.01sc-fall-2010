@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to summation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/415b05e2291da2d2a2ebe4250f8544a7_MIT18_01SCF10_ex44prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/415b05e2291da2d2a2ebe4250f8544a7_MIT18_01SCF10_ex44prb.pdf
 file_size: 91865
 file_type: application/pdf
 image_metadata:

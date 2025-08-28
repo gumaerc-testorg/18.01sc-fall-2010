@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   adding areas of rectangles.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/0bc1cc1eb12dc56901b80073959a100d_MIT18_01SCF10_ex44sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/0bc1cc1eb12dc56901b80073959a100d_MIT18_01SCF10_ex44sol.pdf
 file_size: 130232
 file_type: application/pdf
 image_metadata:

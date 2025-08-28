@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   hyperbolic functions.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/ba64527096fa7e015c043cba55982c8b_MIT18_01SCF10_ex20sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/ba64527096fa7e015c043cba55982c8b_MIT18_01SCF10_ex20sol.pdf
 file_size: 126943
 file_type: application/pdf
 image_metadata:

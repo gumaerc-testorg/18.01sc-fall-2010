@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions to differentiation. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/bc48678ef179556cc639b6b28e42d81c_MIT18_01SC_pset1sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/bc48678ef179556cc639b6b28e42d81c_MIT18_01SC_pset1sol.pdf
 file_size: 418596
 file_type: application/pdf
 image_metadata:

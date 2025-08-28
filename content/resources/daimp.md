@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/fb921d379bc2ce778fdfb143ad0c0dec_Daimp.jar
 file_size: 45133
 file_type: application/java-archive
 learning_resource_types: []

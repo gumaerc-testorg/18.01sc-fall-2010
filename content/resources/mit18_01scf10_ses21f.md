@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to derivative of e^xtan^-1
   x. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/063490be6ab8c2d6367d57dfedb3afe5_MIT18_01SCF10_Ses21f.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/063490be6ab8c2d6367d57dfedb3afe5_MIT18_01SCF10_Ses21f.pdf
 file_size: 147325
 file_type: application/pdf
 image_metadata:

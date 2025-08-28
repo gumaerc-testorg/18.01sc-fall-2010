@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions for the problems related to the
   finding the radius of convergence.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/ce95c6111e8e778a8105153518663d99_MIT18_01SCF10_ex97sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/ce95c6111e8e778a8105153518663d99_MIT18_01SCF10_ex97sol.pdf
 file_size: 127384
 file_type: application/pdf
 image_metadata:

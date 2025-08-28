@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   the exponential unction, its derivative and its inverse.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf
 file_size: 210170
 file_type: application/pdf
 image_metadata:

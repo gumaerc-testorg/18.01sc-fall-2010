@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to the function |x|.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/915b9b766e0427c2af591b286f4e37ff_MIT18_01SCF10_ex08prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/915b9b766e0427c2af591b286f4e37ff_MIT18_01SCF10_ex08prb.pdf
 file_size: 110303
 file_type: application/pdf
 image_metadata:

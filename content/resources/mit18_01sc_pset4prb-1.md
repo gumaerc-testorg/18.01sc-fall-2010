@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problem sets of applications of integration. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8c4568635d5df671ce7859d2ec6f68b7_MIT18_01SC_pset4prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8c4568635d5df671ce7859d2ec6f68b7_MIT18_01SC_pset4prb.pdf
 file_size: 254928
 file_type: application/pdf
 image_metadata:

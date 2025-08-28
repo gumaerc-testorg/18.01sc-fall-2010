@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about creating new functions using
   the second fundamental theorem.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/37ea67d3369c94db84ff2586ead82c37_MIT18_01SCF10_Ses55a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/37ea67d3369c94db84ff2586ead82c37_MIT18_01SCF10_Ses55a.pdf
 file_size: 160261
 file_type: application/pdf
 image_metadata:

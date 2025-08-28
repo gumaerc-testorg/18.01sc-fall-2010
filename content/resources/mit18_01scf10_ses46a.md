@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about riemann sums.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/523ebde51093f1b01b42191bde0ec1dc_MIT18_01SCF10_Ses46a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/523ebde51093f1b01b42191bde0ec1dc_MIT18_01SCF10_Ses46a.pdf
 file_size: 285599
 file_type: application/pdf
 image_metadata:

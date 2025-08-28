@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   the deriative of a^x.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/41a61f858e066ddcb402f34c0e4697af_MIT18_01SCF10_ex16sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/41a61f858e066ddcb402f34c0e4697af_MIT18_01SCF10_ex16sol.pdf
 file_size: 175315
 file_type: application/pdf
 image_metadata:

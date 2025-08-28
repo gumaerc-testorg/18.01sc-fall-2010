@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains the solutions for the problems related to the\
   \ function equal its Taylor series.\r\n"
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/51bf782966d0896f0c183541e1c3cf22_MIT18_01SCF10_ex98sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/51bf782966d0896f0c183541e1c3cf22_MIT18_01SCF10_ex98sol.pdf
 file_size: 95127
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to advanced examples
   of L'hospital's rule.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/aaf691e8f0704057c24c49783fa557a7_MIT18_01SCF10_ex90prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/aaf691e8f0704057c24c49783fa557a7_MIT18_01SCF10_ex90prb.pdf
 file_size: 113492
 file_type: application/pdf
 image_metadata:

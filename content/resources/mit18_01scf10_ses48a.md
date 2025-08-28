@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the fundamental theorem of calculus.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/da3127c093b8eb7e4ab99693f1485b6b_MIT18_01SCF10_Ses48a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/da3127c093b8eb7e4ab99693f1485b6b_MIT18_01SCF10_Ses48a.pdf
 file_size: 105934
 file_type: application/pdf
 image_metadata:

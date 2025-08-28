@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions for the problems related to the
   path of a falling object.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/67baf73b6ba9ae11a967b3c792897b38_MIT18_01SCF10_ex81sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/67baf73b6ba9ae11a967b3c792897b38_MIT18_01SCF10_ex81sol.pdf
 file_size: 124544
 file_type: application/pdf
 image_metadata:
