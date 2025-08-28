@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to parametric curves.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8dfde3740446696d8d98f6ce2d33de03_MIT18_01SCF10_Ses80a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8dfde3740446696d8d98f6ce2d33de03_MIT18_01SCF10_Ses80a.pdf
 file_size: 127473
 file_type: application/pdf
 image_metadata:

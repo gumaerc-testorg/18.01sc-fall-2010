@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about combining the fundamental theorem
   and the mean value theorem.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/7ccbc2a966279b589d2e426d86285e27_MIT18_01SCF10_Ses50a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/7ccbc2a966279b589d2e426d86285e27_MIT18_01SCF10_Ses50a.pdf
 file_size: 103029
 file_type: application/pdf
 image_metadata:

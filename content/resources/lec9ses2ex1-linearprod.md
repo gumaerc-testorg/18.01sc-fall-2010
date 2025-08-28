@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f9559e0393ec511dd94023a5ea8b3aad_lec9ses2ex1-linearprod.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f9559e0393ec511dd94023a5ea8b3aad_lec9ses2ex1-linearprod.pdf
 file_size: 82264
 file_type: application/pdf
 image_metadata:

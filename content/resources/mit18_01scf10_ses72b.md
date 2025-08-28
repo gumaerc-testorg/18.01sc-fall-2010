@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about trig substitution.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/b38610b62565b666eca180c95f751f4f_MIT18_01SCF10_Ses72b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/b38610b62565b666eca180c95f751f4f_MIT18_01SCF10_Ses72b.pdf
 file_size: 130929
 file_type: application/pdf
 image_metadata:

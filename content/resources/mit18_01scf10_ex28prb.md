@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to graph features.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/ac72acef5944940fc75a76ca8bee16a9_MIT18_01SCF10_ex28prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/ac72acef5944940fc75a76ca8bee16a9_MIT18_01SCF10_ex28prb.pdf
 file_size: 96266
 file_type: application/pdf
 image_metadata:

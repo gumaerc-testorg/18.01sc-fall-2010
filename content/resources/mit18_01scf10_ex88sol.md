@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions for the problems related to the
   rational expressions.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
 file_size: 154827
 file_type: application/pdf
 image_metadata:

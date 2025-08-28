@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to series comparison.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/827156a850e1f9bc5617d8d0c5856f63_MIT18_01SCF10_ex95prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/827156a850e1f9bc5617d8d0c5856f63_MIT18_01SCF10_ex95prb.pdf
 file_size: 129609
 file_type: application/pdf
 image_metadata:

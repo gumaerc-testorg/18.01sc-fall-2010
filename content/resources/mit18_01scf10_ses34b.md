@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about introduction to the mean.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/70b03126d02cdf5b87bc59e6e515bc73_MIT18_01SCF10_Ses34b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/70b03126d02cdf5b87bc59e6e515bc73_MIT18_01SCF10_Ses34b.pdf
 file_size: 92149
 file_type: application/pdf
 image_metadata:

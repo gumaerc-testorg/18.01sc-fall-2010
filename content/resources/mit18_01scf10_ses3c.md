@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to serivative as a rate of
   change.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/abb7e03ceca1497311d16b409e43676e_MIT18_01SCF10_Ses3c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/abb7e03ceca1497311d16b409e43676e_MIT18_01SCF10_Ses3c.pdf
 file_size: 117523
 file_type: application/pdf
 image_metadata:

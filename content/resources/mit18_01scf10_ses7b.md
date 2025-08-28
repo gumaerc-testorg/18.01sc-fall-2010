@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to derivatives of sine and
   cosine.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
 file_size: 141028
 file_type: application/pdf
 image_metadata:

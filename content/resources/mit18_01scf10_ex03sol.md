@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   derivative as a rate of change.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/bc7b17413d57bcd7da90592fbba2bdf7_MIT18_01SCF10_ex03sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/bc7b17413d57bcd7da90592fbba2bdf7_MIT18_01SCF10_ex03sol.pdf
 file_size: 76645
 file_type: application/pdf
 image_metadata:

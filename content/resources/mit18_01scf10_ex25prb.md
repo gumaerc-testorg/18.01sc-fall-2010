@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to comparing quadratic
   approximations to calculator computations.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/782c303393c5b39e3a34f51d315441b7_MIT18_01SCF10_ex25prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/782c303393c5b39e3a34f51d315441b7_MIT18_01SCF10_ex25prb.pdf
 file_size: 48824
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: this resource contains problem statements related to mean value theorem.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d2fe64df2bcc49269e8434b79e37acaa_MIT18_01SCF10_ex35prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d2fe64df2bcc49269e8434b79e37acaa_MIT18_01SCF10_ex35prb.pdf
 file_size: 86220
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   computing the length of a curve.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/ed84aebb3083404e3ead41aae683b245_MIT18_01SCF10_ex78sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/ed84aebb3083404e3ead41aae683b245_MIT18_01SCF10_ex78sol.pdf
 file_size: 134775
 file_type: application/pdf
 image_metadata:

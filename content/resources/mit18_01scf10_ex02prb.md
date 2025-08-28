@@ -2,7 +2,7 @@
 content_type: resource
 description: this resource contains problem statements related to derivatives of |x|.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8f1965641704eb5b4e78246c67564a60_MIT18_01SCF10_ex02prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8f1965641704eb5b4e78246c67564a60_MIT18_01SCF10_ex02prb.pdf
 file_size: 74798
 file_type: application/pdf
 image_metadata:

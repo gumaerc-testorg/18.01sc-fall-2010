@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to solving an optimization
   problem using implicit differentiation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f10b7a0168356ed2b47d9f64f4d33ad1_MIT18_01SCF10_ex31prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f10b7a0168356ed2b47d9f64f4d33ad1_MIT18_01SCF10_ex31prb.pdf
 file_size: 75451
 file_type: application/pdf
 image_metadata:

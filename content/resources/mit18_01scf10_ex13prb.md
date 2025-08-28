@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to implicit differentiation
   and the second derivatives.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6e273c25410614e27b916b697d86aac7_MIT18_01SCF10_ex13prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6e273c25410614e27b916b697d86aac7_MIT18_01SCF10_ex13prb.pdf
 file_size: 77737
 file_type: application/pdf
 image_metadata:

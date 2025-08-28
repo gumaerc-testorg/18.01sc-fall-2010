@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   quadratic approximations.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/962423b16573a8a78bc7d1cba680f305_MIT18_01SCF10_ex26sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/962423b16573a8a78bc7d1cba680f305_MIT18_01SCF10_ex26sol.pdf
 file_size: 164076
 file_type: application/pdf
 image_metadata:

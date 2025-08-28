@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations related to indefinite integrals and
   comparison.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/dc8312d28d47742242c9c84b8b8f4925_MIT18_01SCF10_Ses92b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/dc8312d28d47742242c9c84b8b8f4925_MIT18_01SCF10_Ses92b.pdf
 file_size: 142726
 file_type: application/pdf
 image_metadata:

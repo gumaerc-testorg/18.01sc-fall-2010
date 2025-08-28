@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to polar coordinates.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/478c26455ea963b7ba6bf795d6f4ecfc_MIT18_01SCF10_Ses83a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/478c26455ea963b7ba6bf795d6f4ecfc_MIT18_01SCF10_Ses83a.pdf
 file_size: 412550
 file_type: application/pdf
 image_metadata:

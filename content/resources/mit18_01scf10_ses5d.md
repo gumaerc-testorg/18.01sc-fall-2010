@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to discontinuity.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f4318f7bf6253b00d93051b1efe6e2a0_MIT18_01SCF10_Ses5d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f4318f7bf6253b00d93051b1efe6e2a0_MIT18_01SCF10_Ses5d.pdf
 file_size: 254265
 file_type: application/pdf
 image_metadata:

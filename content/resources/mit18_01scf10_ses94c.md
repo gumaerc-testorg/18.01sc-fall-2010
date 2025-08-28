@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to infinite series.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8eb6f949cdcfe1a4dca3ceab1a5e93e3_MIT18_01SCF10_Ses94c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8eb6f949cdcfe1a4dca3ceab1a5e93e3_MIT18_01SCF10_Ses94c.pdf
 file_size: 97071
 file_type: application/pdf
 image_metadata:

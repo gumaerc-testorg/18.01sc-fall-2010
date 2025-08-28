@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to hyperbolic trig functions.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/ce3200a4eb0a928bf282ed6bb833ae27_MIT18_01SCF10_Ses20a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/ce3200a4eb0a928bf282ed6bb833ae27_MIT18_01SCF10_Ses20a.pdf
 file_size: 106985
 file_type: application/pdf
 image_metadata:

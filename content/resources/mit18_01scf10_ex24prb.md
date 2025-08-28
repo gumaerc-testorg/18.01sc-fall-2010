@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to product of linear
   approximation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6e8aadf9ec0a5e4e299ff94932d72f40_MIT18_01SCF10_ex24prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6e8aadf9ec0a5e4e299ff94932d72f40_MIT18_01SCF10_ex24prb.pdf
 file_size: 69167
 file_type: application/pdf
 image_metadata:

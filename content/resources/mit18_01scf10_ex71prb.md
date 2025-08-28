@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integrals involving
   secant, co secant and cotangent.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/a4f718fcbc599aaa69e7393645533210_MIT18_01SCF10_ex71prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/a4f718fcbc599aaa69e7393645533210_MIT18_01SCF10_ex71prb.pdf
 file_size: 87909
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about integrals and averages.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d47150e04af30cbc47b251fff57c435c_MIT18_01SCF10_Ses60a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d47150e04af30cbc47b251fff57c435c_MIT18_01SCF10_Ses60a.pdf
 file_size: 286778
 file_type: application/pdf
 image_metadata:

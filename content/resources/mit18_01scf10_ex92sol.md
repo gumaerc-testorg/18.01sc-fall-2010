@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains the solutions for the problems related to the\
   \ con\uFB01rming an integral converges."
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
 file_size: 146629
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about geometric interpretation of
   definite integrals.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f150931414da32292aacb71a86a55acd_MIT18_01SCF10_Ses56b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f150931414da32292aacb71a86a55acd_MIT18_01SCF10_Ses56b.pdf
 file_size: 177873
 file_type: application/pdf
 image_metadata:

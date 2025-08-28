@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about antidervatives.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/4cc131a648a70191a09bfccaa8228723_MIT18_01SCF10_Ses37c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/4cc131a648a70191a09bfccaa8228723_MIT18_01SCF10_Ses37c.pdf
 file_size: 156681
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integral of sin
   (x) + cos (x).
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f1fa0c837890f5106d02accbc4b1e610_MIT18_01SCF10_ex48prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f1fa0c837890f5106d02accbc4b1e610_MIT18_01SCF10_ex48prb.pdf
 file_size: 101411
 file_type: application/pdf
 image_metadata:

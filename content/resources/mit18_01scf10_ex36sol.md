@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   differentials.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/1013dffcf4b057f9d6366960bc648f87_MIT18_01SCF10_ex36sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/1013dffcf4b057f9d6366960bc648f87_MIT18_01SCF10_ex36sol.pdf
 file_size: 67214
 file_type: application/pdf
 image_metadata:

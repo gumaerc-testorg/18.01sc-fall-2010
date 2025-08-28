@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions of applications of differentiation
   problems.  '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/56a6f202a52849dd06f37dece53df29d_MIT18_01SC_pset2sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/56a6f202a52849dd06f37dece53df29d_MIT18_01SC_pset2sol.pdf
 file_size: 491993
 file_type: application/pdf
 image_metadata:

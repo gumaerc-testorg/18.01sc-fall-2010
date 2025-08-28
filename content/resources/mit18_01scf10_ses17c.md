@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the exponential functions,
   its derivative and inverse.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/defa7c815e8c8471c6ddd99a9d0d730a_MIT18_01SCF10_Ses17c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/defa7c815e8c8471c6ddd99a9d0d730a_MIT18_01SCF10_Ses17c.pdf
 file_size: 136872
 file_type: application/pdf
 image_metadata:

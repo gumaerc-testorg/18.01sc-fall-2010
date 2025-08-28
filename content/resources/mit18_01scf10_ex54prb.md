@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to logs and exponents.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/80d5b62b17fde9c9f6c4dd9fd704e751_MIT18_01SCF10_ex54prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/80d5b62b17fde9c9f6c4dd9fd704e751_MIT18_01SCF10_ex54prb.pdf
 file_size: 96095
 file_type: application/pdf
 image_metadata:
