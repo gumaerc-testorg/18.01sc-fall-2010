@@ -2,7 +2,7 @@
 content_type: resource
 description: Tis resource contains information related to derivatives of other exponential
   functions.
-file: /courses/18-01sc-single-variable-calculus-fall-2010/cc53f4a12df600e1e43b4f02b9badac7_MIT18_01SCF10_Ses18d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/cc53f4a12df600e1e43b4f02b9badac7_MIT18_01SCF10_Ses18d.pdf
 file_size: 131425
 file_type: application/pdf
 learning_resource_types: []
