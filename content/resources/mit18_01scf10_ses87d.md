@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to l'hospital's rule.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f3b4a479d7372657961c56569ef89883_MIT18_01SCF10_Ses87d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f3b4a479d7372657961c56569ef89883_MIT18_01SCF10_Ses87d.pdf
 file_size: 105709
 file_type: application/pdf
 image_metadata:

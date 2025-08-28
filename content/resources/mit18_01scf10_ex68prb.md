@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integral of sin^n(x)
   cos^m(x) and odd exponents.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/9c16a5be38bb09619760c2467f0b64dc_MIT18_01SCF10_ex68prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/9c16a5be38bb09619760c2467f0b64dc_MIT18_01SCF10_ex68prb.pdf
 file_size: 94454
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the solutions for the problems related to the
   operations on power series and taylor series.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf
 file_size: 84588
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: New file Upload
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/892f317b64473e44f6be224eb957afc2_MIT18_01SCF10_Ses25a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/892f317b64473e44f6be224eb957afc2_MIT18_01SCF10_Ses25a.pdf
 file_size: 97442
 file_type: application/pdf
 image_metadata:

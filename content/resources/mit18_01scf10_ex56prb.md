@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related area of smile.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/a57dc0ba7d7df8fec4c7bb53acc3f9d1_MIT18_01SCF10_ex56prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/a57dc0ba7d7df8fec4c7bb53acc3f9d1_MIT18_01SCF10_ex56prb.pdf
 file_size: 74627
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to parametric curves.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/e66c80992e44903c541a243893c59cb8_MIT18_01SCF10_ex80prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/e66c80992e44903c541a243893c59cb8_MIT18_01SCF10_ex80prb.pdf
 file_size: 96216
 file_type: application/pdf
 image_metadata:

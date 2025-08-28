@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   combining theorem and the mean value theorem.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d57f59c50b7fe8eae95e25e0f64a44d1_MIT18_01SCF10_ex50sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d57f59c50b7fe8eae95e25e0f64a44d1_MIT18_01SCF10_ex50sol.pdf
 file_size: 143641
 file_type: application/pdf
 image_metadata:

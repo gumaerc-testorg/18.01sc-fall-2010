@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to can design.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/8f30d27e4838ab767b4f9c4a5538df18_MIT18_01SCF10_ex30prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/8f30d27e4838ab767b4f9c4a5538df18_MIT18_01SCF10_ex30prb.pdf
 file_size: 56296
 file_type: application/pdf
 image_metadata:

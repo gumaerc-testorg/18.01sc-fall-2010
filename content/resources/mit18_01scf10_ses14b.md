@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to examples of implicit differentiation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6a8991fa97657dced41133ec8c9e4f4d_MIT18_01SCF10_Ses14b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6a8991fa97657dced41133ec8c9e4f4d_MIT18_01SCF10_Ses14b.pdf
 file_size: 105714
 file_type: application/pdf
 image_metadata:

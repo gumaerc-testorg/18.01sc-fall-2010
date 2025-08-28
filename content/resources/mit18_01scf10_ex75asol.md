@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   advanced partial fractions.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/3d2d08d3e8db306abe6426cb9616eacd_MIT18_01SCF10_ex75asol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/3d2d08d3e8db306abe6426cb9616eacd_MIT18_01SCF10_ex75asol.pdf
 file_size: 135213
 file_type: application/pdf
 image_metadata:

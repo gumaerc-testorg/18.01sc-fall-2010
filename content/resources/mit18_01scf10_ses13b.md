@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to implicit differentiation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/07738b62c007872f31bcfdf108ad1905_MIT18_01SCF10_Ses13b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/07738b62c007872f31bcfdf108ad1905_MIT18_01SCF10_Ses13b.pdf
 file_size: 140098
 file_type: application/pdf
 image_metadata:

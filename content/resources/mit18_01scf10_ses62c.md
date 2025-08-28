@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about integrals and probability.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/b78e162391e19d17647b87d398527a9a_MIT18_01SCF10_Ses62c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/b78e162391e19d17647b87d398527a9a_MIT18_01SCF10_Ses62c.pdf
 file_size: 60854
 file_type: application/pdf
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01sc-single-variable-calculus-fall-2010/aec521b6e664d08606a5f8043b56d01f_CreatingDerivative.jar
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/aec521b6e664d08606a5f8043b56d01f_CreatingDerivative.jar
 file_size: 6331
 file_type: application/java-archive
 learning_resource_types: []

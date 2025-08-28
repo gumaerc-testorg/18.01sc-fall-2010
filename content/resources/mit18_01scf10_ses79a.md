@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to surface area.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/2e10076b7745ad54a6fe43a52a7d043c_MIT18_01SCF10_Ses79a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/2e10076b7745ad54a6fe43a52a7d043c_MIT18_01SCF10_Ses79a.pdf
 file_size: 264362
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about introduction to differential
   equations.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/fc34d35fa0bf21a563d81469f2ab324c_MIT18_01SCF10_Ses39b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/fc34d35fa0bf21a563d81469f2ab324c_MIT18_01SCF10_Ses39b.pdf
 file_size: 149350
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to advanced examples of l'hospital's
   rule.
-file: /courses/18-01sc-single-variable-calculus-fall-2010/00e62d6174ee8ef6f1338fa9c266bae1_MIT18_01SCF10_Ses90b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/00e62d6174ee8ef6f1338fa9c266bae1_MIT18_01SCF10_Ses90b.pdf
 file_size: 172367
 file_type: application/pdf
 learning_resource_types: []

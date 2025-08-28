@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about volume of a sphere, revolving
   about x-axis.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/c25d26b04ffe46ac331b9c63c760048b_MIT18_01SCF10_Ses58a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/c25d26b04ffe46ac331b9c63c760048b_MIT18_01SCF10_Ses58a.pdf
 file_size: 115518
 file_type: application/pdf
 image_metadata:

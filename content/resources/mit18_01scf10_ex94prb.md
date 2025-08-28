@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to infinite series.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/db8f7368a52ee6e69946ef40ecd5f9e3_MIT18_01SCF10_ex94prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/db8f7368a52ee6e69946ef40ecd5f9e3_MIT18_01SCF10_ex94prb.pdf
 file_size: 115660
 file_type: application/pdf
 image_metadata:

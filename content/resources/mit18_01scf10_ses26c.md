@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about using quadratic approximations.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/5ea09bd950f5eb4b2d95f9e1fd64457f_MIT18_01SCF10_Ses26c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/5ea09bd950f5eb4b2d95f9e1fd64457f_MIT18_01SCF10_Ses26c.pdf
 file_size: 164991
 file_type: application/pdf
 image_metadata:

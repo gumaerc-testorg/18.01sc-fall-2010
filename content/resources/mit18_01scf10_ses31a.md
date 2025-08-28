@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about related rates.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/456b7e5103bc532bc70e493a81aa2be9_MIT18_01SCF10_Ses31a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/456b7e5103bc532bc70e493a81aa2be9_MIT18_01SCF10_Ses31a.pdf
 file_size: 299011
 file_type: application/pdf
 image_metadata:

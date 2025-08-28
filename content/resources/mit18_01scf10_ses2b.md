@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains examples of derivatives.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/647e09bf25d96528720344251aea8e8a_MIT18_01SCF10_Ses2b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/647e09bf25d96528720344251aea8e8a_MIT18_01SCF10_Ses2b.pdf
 file_size: 487486
 file_type: application/pdf
 image_metadata:

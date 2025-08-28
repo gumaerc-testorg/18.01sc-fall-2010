@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about ring on string.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/80f8e2c7e7bccc45cf767e5b917331e7_MIT18_01SCF10_Ses32a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/80f8e2c7e7bccc45cf767e5b917331e7_MIT18_01SCF10_Ses32a.pdf
 file_size: 390394
 file_type: application/pdf
 image_metadata:

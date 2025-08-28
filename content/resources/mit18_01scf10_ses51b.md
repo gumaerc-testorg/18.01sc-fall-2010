@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about the second fundamental theorem
   of calculus.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/af3531d2bd95ac4e5cfb3086472e2779_MIT18_01SCF10_Ses51b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/af3531d2bd95ac4e5cfb3086472e2779_MIT18_01SCF10_Ses51b.pdf
 file_size: 123807
 file_type: application/pdf
 image_metadata:

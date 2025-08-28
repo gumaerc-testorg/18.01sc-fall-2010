@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about sketching graphs I - polynomials
   and rational functions.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/17daff6a263174dfa0a14b73a4d36d91_MIT18_01SCF10_Ses27a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/17daff6a263174dfa0a14b73a4d36d91_MIT18_01SCF10_Ses27a.pdf
 file_size: 277091
 file_type: application/pdf
 image_metadata:

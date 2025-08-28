@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to examples of linear approximation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6bfd76aaf26c1e40c41419010dfba1ff_MIT18_01SCF10_Ses24e.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6bfd76aaf26c1e40c41419010dfba1ff_MIT18_01SCF10_Ses24e.pdf
 file_size: 109161
 file_type: application/pdf
 image_metadata:

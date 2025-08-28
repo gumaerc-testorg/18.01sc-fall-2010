@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to deriative as a rate of
   change.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/f8d5c2c9a0c216415d02b12d7e11dad9_MIT18_01SCF10_Ses3a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/f8d5c2c9a0c216415d02b12d7e11dad9_MIT18_01SCF10_Ses3a.pdf
 file_size: 45218
 file_type: application/pdf
 image_metadata:

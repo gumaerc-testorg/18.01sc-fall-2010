@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to linear approximation.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/29f7e8b35ecc89da1c7b8c2b6e7e9220_MIT18_01SCF10_Ses23e.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/29f7e8b35ecc89da1c7b8c2b6e7e9220_MIT18_01SCF10_Ses23e.pdf
 file_size: 124008
 file_type: application/pdf
 image_metadata:

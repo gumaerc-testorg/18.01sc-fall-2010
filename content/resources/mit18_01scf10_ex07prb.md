@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to derivatives of sine
   and cosine.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/c29d87caee7001fc2b32365c40bc7c93_MIT18_01SCF10_ex07prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/c29d87caee7001fc2b32365c40bc7c93_MIT18_01SCF10_ex07prb.pdf
 file_size: 68429
 file_type: application/pdf
 image_metadata:

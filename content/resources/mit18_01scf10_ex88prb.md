@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to L'hospital's rule.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/e39e92dbdd0c0942f2ffa428076342ea_MIT18_01SCF10_ex88prb.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/e39e92dbdd0c0942f2ffa428076342ea_MIT18_01SCF10_ex88prb.pdf
 file_size: 98581
 file_type: application/pdf
 image_metadata:

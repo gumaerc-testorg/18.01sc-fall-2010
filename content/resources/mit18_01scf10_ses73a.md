@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about completing the square.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/fb9139b81f463eaa67642bcc598c620b_MIT18_01SCF10_Ses73a.pdf
 file_size: 129086
 file_type: application/pdf
 image_metadata:

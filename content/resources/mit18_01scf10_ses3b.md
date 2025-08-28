@@ -2,7 +2,7 @@
 content_type: resource
 description: this resource contains information related to derivate as a rate of change.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/19fa7a24c44475621835523f84a3761b_MIT18_01SCF10_Ses3b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/19fa7a24c44475621835523f84a3761b_MIT18_01SCF10_Ses3b.pdf
 file_size: 277091
 file_type: application/pdf
 image_metadata:

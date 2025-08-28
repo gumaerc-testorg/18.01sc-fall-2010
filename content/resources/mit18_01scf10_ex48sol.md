@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   fundamental theorem of calculus.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6b761d37d9d217a420ee2be18f8c1887_MIT18_01SCF10_ex48sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6b761d37d9d217a420ee2be18f8c1887_MIT18_01SCF10_ex48sol.pdf
 file_size: 127046
 file_type: application/pdf
 image_metadata:

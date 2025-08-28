@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about numerical integration.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/6d3381fa8d07b76cb5004e9426a2cdaa_MIT18_01SCF10_Ses63d.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/6d3381fa8d07b76cb5004e9426a2cdaa_MIT18_01SCF10_Ses63d.pdf
 file_size: 422300
 file_type: application/pdf
 image_metadata:

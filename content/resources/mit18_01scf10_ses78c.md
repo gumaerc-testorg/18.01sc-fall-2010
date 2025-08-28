@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations related to computing the length of
   a curve.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/7520a365f27cd00445012bd383d7b9ed_MIT18_01SCF10_Ses78c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/7520a365f27cd00445012bd383d7b9ed_MIT18_01SCF10_Ses78c.pdf
 file_size: 418675
 file_type: application/pdf
 image_metadata:

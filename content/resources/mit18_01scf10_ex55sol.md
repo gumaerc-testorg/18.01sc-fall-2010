@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   second fundamental theorem.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/a1e1c55e6e45fe9e006fccdf88cfe6dc_MIT18_01SCF10_ex55sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/a1e1c55e6e45fe9e006fccdf88cfe6dc_MIT18_01SCF10_ex55sol.pdf
 file_size: 127980
 file_type: application/pdf
 image_metadata:

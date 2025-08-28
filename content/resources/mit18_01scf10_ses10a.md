@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to quotient rule.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/709f6672888f18e22656ca8700218cb6_MIT18_01SCF10_Ses10a.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/709f6672888f18e22656ca8700218cb6_MIT18_01SCF10_Ses10a.pdf
 file_size: 112175
 file_type: application/pdf
 image_metadata:

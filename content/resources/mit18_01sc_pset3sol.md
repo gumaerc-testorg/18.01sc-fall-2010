@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of integration problems. '
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/0c2dce083a72b3578eb1803326353b67_MIT18_01SC_pset3sol.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/0c2dce083a72b3578eb1803326353b67_MIT18_01SC_pset3sol.pdf
 file_size: 314307
 file_type: application/pdf
 image_metadata:

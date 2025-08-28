@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about integrals and weighted averages.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/d9ddb3fceb1e2ced3dd2468d2754279c_MIT18_01SCF10_Ses61c.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/d9ddb3fceb1e2ced3dd2468d2754279c_MIT18_01SCF10_Ses61c.pdf
 file_size: 388776
 file_type: application/pdf
 image_metadata:

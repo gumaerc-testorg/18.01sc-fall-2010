@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about definite integrals.
 draft: false
-file: /courses/18-01sc-single-variable-calculus-fall-2010/4916e434b70b1e785c7642d7e0b65c23_MIT18_01SCF10_Ses43b.pdf
+file: /ol-ocw-studio-app/courses/18-01sc-single-variable-calculus-fall-2010/4916e434b70b1e785c7642d7e0b65c23_MIT18_01SCF10_Ses43b.pdf
 file_size: 414838
 file_type: application/pdf
 image_metadata:
